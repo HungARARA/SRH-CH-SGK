@@ -1,0 +1,6 @@
+# Rac he dieu hanh va file tam cua Word
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+__pycache__/
