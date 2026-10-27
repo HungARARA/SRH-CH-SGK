@@ -11,7 +11,7 @@
   1. **Hiểu**: mỗi mục SGK có hộp 💡 *Hiểu nhanh* bằng lời thường, ví dụ đời thường, sơ đồ, và các hộp 🔍 *Vì sao…?* giải thích cơ chế đằng sau ý của sách.
   2. **Nhớ**: phần **📖 SGK ghi** giữ **đủ ý, đúng chữ SGK** (đề máy hay lấy nguyên câu sách rồi đổi một chữ); từ khoá và con số được ==tô vàng==; có 🧠 mẹo nhớ, bảng con số, bảng cặp dễ nhầm.
   3. **Tự kiểm tra**: nút **"Che từ khoá"** (che chữ tô vàng để tự nhớ lại) và **trắc nghiệm bấm được** ở cuối bài (biết đúng/sai ngay, có giải thích, có đường dẫn về đúng mục SGK).
-- Mỗi bài học khoảng 75–90 phút, vừa nhịp **1 bài/ngày**.
+- Đọc hết một bài một lượt mất khoảng 75–90 phút (bài dài thì lâu hơn). Người dùng học **ít nhất 8 tiếng/ngày** nên thời gian không phải giới hạn: **không cắt bớt ý cho vừa giờ**. Dự định ban đầu là 1 bài/ngày.
 
 ## 2. Định dạng đầu ra và vì sao chọn HTML
 

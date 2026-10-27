@@ -11,7 +11,8 @@ Thư mục này chuẩn hoá kiến thức **Sâu Răng Học** (giáo trình Tr
 - Môn Sâu Răng Học RHM thi **trắc nghiệm trên máy, khả năng cao là đề mới**. Vì vậy **ưu tiên số 1 là kiến thức để hiểu**: giải thích bằng lời thường, có "vì sao" (cơ chế), ví dụ đời thường và sơ đồ. Mục đích vừa để thi, vừa để làm nghề sau này.
 - Trắc nghiệm chỉ là phần phụ để tự kiểm tra (30–50 câu/bài), **không phải đề dự đoán**. Không bám theo đề các khoá, không ghi "khoá Kxx đã ra".
 - Người dùng học tốt, chỉ cần nhớ ý là đọc đề sẽ chọn được, nên không cần thuộc nguyên văn. Nhưng **chữ và con số phải đúng SGK**. Đừng tóm tắt quá cụt.
-- Nhịp học 1 bài/ngày. Chỉ hỏi khi thật cần, còn lại tự chọn hướng tốt nhất. Tiết kiệm token. Trả lời bằng tiếng Việt.
+- Người dùng học **ít nhất 8 tiếng/ngày**, nên thời gian không phải giới hạn: đừng cắt bớt ý cho vừa giờ. Con số "~90 phút" ghi trong bài chỉ là thời gian đọc hết bài một lượt. Dự định ban đầu là học 1 bài/ngày.
+- Chỉ hỏi khi thật cần, còn lại tự chọn hướng tốt nhất. Tiết kiệm token. Trả lời bằng tiếng Việt.
 - Khi SGK khác khuyến cáo hiện đại (ICCC, AAE, AAPD, WHO…): **ghi cả hai** trong hộp ⚖️ "Hai cách hiểu" và không tự chọn. Nhưng khi cần **một** đáp án duy nhất (đáp án trắc nghiệm) thì **chọn theo SGK**.
 
 ## Nguồn (nằm ngoài thư mục này)
