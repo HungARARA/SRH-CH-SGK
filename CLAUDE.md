@@ -42,4 +42,5 @@ Nếu các đường dẫn trên bị đổi thì tìm trên Desktop theo tên f
 
 - **Bài 1 xong**, có 25 hộp 🔍 "Vì sao…?". Có 66 câu vì đây là bản đầu, làm trước khi quy trình giảm xuống 30–50 câu.
 - **Bài 2–10 chưa làm.** Trang sách của từng bài có trong `QUY TRÌNH CHUẨN HOÁ.md` mục 4.
+- **Trang web chưa chạy:** `index.html` và `.nojekyll` đã có trên `main`, nhưng **GitHub Pages chưa bật**. Bật Pages là tạo trang công khai nên cần người dùng đồng ý. Nếu tài khoản GitHub là gói miễn phí thì repo cũng phải chuyển sang công khai. Bật xong thì link ở trên mới mở được.
 - **Git:** repo `HungARARA/SRH-CH-SGK`, nhánh `main`. Soạn xong bài nào thì hỏi người dùng có muốn commit + push không. Push xong thì trang web tự cập nhật từ nhánh `main` (thư mục gốc).
