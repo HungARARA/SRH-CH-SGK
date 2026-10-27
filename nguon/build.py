@@ -5,17 +5,29 @@ từ nguồn Markdown "nguon/Bài N.md".
 Chạy bằng Python313 (có PIL):
   "C:/Users/1/AppData/Local/Programs/Python/Python313/python.exe" -I build.py "Bài 1.md"
   (bỏ trống đối số = dựng lại mọi "Bài *.md" trong thư mục nguon)
+Mỗi lần chạy cũng dựng lại "../index.html" = trang chủ web (GitHub Pages), liệt kê 10 bài.
 
 Cú pháp Markdown mở rộng: xem "../QUY TRÌNH CHUẨN HOÁ.md", mục 9.
 """
-import base64, glob, html, io, math, os, re, sys, unicodedata
+import base64, glob, html, io, math, os, re, sys, unicodedata, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.dirname(HERE)
 
 CALLOUT = {'NOTE': ('note', '💡 Hiểu nhanh'), 'TIP': ('tip', '🧠 Mẹo nhớ'),
            'IMPORTANT': ('imp', '📌 Lưu ý'), 'WARNING': ('warn', '⚠️ Đề hay gài'),
-           'CAUTION': ('cau', '⚖️ Hai cách hiểu')}
+           'CAUTION': ('cau', '⚖️ Hai cách hiểu'), 'WHY': ('why', '🔍 Vì sao?')}
+BAI = [  # 10 bài SGK (QUY TRÌNH CHUẨN HOÁ.md, mục 4): số bài, tên, trang sách
+    (1, 'Quan niệm mới trong chẩn đoán và điều trị bệnh sâu răng', '1–16'),
+    (2, 'Quá trình mất khoáng và tái khoáng mô cứng', '17–31'),
+    (3, 'Chẩn đoán bệnh sâu răng', '32–47'),
+    (4, 'Điều trị và phòng ngừa bệnh sâu răng', '48–92'),
+    (5, 'Phân loại xoang sâu răng', '94–108'),
+    (6, 'Các yếu tố sinh học trong sửa soạn xoang', '109–113'),
+    (7, 'Nguyên tắc tạo xoang và trám bằng xi măng glass ionomer (GIC)', '114–122'),
+    (8, 'Nguyên tắc tạo xoang và trám bằng vật liệu composite', '123–170'),
+    (9, 'Che tủy', '171–187'),
+    (10, 'Mòn răng', '188–197')]
 BLOCK_HTML = re.compile(r'^<(figure|div|svg|details|table|section|aside)\b')
 LIST = re.compile(r'^(\s*)([-*+]|\d+[.)])\s+(.*)$')
 NUM = re.compile(r'^(\d+(?:\.\d+)*)\.?\s')
@@ -373,6 +385,7 @@ TEMPLATE = '''<!doctype html>
 <button data-act="cloze" title="Che các chữ tô vàng để tự nhớ lại; bấm vào ô bị che để xem">Che từ khoá</button>
 <a href="#trac-nghiem">Trắc nghiệm ↓</a></header>
 <main>
+<p class="crumb"><a href="index.html">← Các bài Sâu Răng Học</a></p>
 <h1>@@TITLE@@</h1><p class="sub">@@SUB@@</p>
 <nav class="toc"><details><summary>Mục lục</summary><ol>@@TOC@@</ol></details></nav>
 @@BODY@@
@@ -383,10 +396,10 @@ TEMPLATE = '''<!doctype html>
 
 CSS = '''
 :root{--bg:#fbfaf7;--fg:#1d2433;--mut:#5d6675;--line:#e2ddd2;--card:#fff;--h2:#b03010;--h3:#113366;--mark:#fde68a;--cloze:#d4d0c7;
---note:#2563eb;--note-b:#eef4ff;--tip:#15803d;--tip-b:#edf9f1;--imp:#7c3aed;--imp-b:#f4efff;--warn:#c2410c;--warn-b:#fff3ea;--cau:#be123c;--cau-b:#fff0f3;
+--note:#2563eb;--note-b:#eef4ff;--tip:#15803d;--tip-b:#edf9f1;--imp:#7c3aed;--imp-b:#f4efff;--warn:#c2410c;--warn-b:#fff3ea;--cau:#be123c;--cau-b:#fff0f3;--why:#0f766e;--why-b:#e8f6f4;
 --ok:#15803d;--ok-b:#e5f6ea;--bad:#dc2626;--bad-b:#fdecec;--en:#f4f1e6;--de:#f1dca8;--pu:#f3b2b2;--inf:#7a4517;--aff:#e5bd5c;--le:#cfc6b4;--phf:rgba(220,38,38,.35)}
 @media (prefers-color-scheme:dark){:root{--bg:#15171c;--fg:#e4e6ea;--mut:#9aa3b2;--line:#30353e;--card:#1c1f26;--h2:#f08a6c;--h3:#8db4ff;--mark:#6b5313;--cloze:#3b4049;
---note:#6b9bff;--note-b:#16233b;--tip:#4ade80;--tip-b:#132a1c;--imp:#b794ff;--imp-b:#231a3a;--warn:#fb923c;--warn-b:#33200f;--cau:#fb7185;--cau-b:#361521;
+--note:#6b9bff;--note-b:#16233b;--tip:#4ade80;--tip-b:#132a1c;--imp:#b794ff;--imp-b:#231a3a;--warn:#fb923c;--warn-b:#33200f;--cau:#fb7185;--cau-b:#361521;--why:#2dd4bf;--why-b:#10302c;
 --ok:#4ade80;--ok-b:#12301d;--bad:#f87171;--bad-b:#3a1616;--en:#3d3b33;--de:#5c4b24;--pu:#713636;--inf:#c58a4e;--aff:#8a6d22;--le:#77705f;--phf:rgba(248,113,113,.35)}}
 *{box-sizing:border-box}html{scroll-padding-top:58px}
 body{margin:0;background:var(--bg);color:var(--fg);font:16.5px/1.65 "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;-webkit-text-size-adjust:100%}
@@ -397,6 +410,7 @@ main{max-width:880px;margin:auto;padding:8px 16px 90px}
 .bar button,.bar a:not(.home),.qbar button{font:inherit;font-size:14px;padding:4px 11px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg);text-decoration:none;cursor:pointer}
 button.on{background:var(--h3);border-color:var(--h3);color:#fff}
 h1{font-size:1.55em;line-height:1.3;color:var(--h3);margin:.7em 0 .15em}.sub{color:var(--mut);margin:0 0 .8em}
+.crumb{margin:.8em 0 0;font-size:.9em}.crumb a{text-decoration:none}.crumb+h1{margin-top:.2em}
 h2{font-size:1.3em;line-height:1.35;color:var(--h2);border-bottom:2px solid var(--line);padding-bottom:4px;margin:2.2em 0 .6em}
 h3{font-size:1.12em;color:var(--h3);margin:1.6em 0 .5em}h4{font-size:1.02em;margin:1.3em 0 .4em}
 a{color:var(--note)}p,li{overflow-wrap:break-word}ul,ol{padding-left:1.4em}li{margin:.15em 0}
@@ -415,6 +429,10 @@ tbody tr:nth-child(even){background:rgba(127,127,127,.06)}
 .co.imp{border-color:var(--imp);background:var(--imp-b)}.co.imp .ct{color:var(--imp)}
 .co.warn{border-color:var(--warn);background:var(--warn-b)}.co.warn .ct{color:var(--warn)}
 .co.cau{border-color:var(--cau);background:var(--cau-b)}.co.cau .ct{color:var(--cau)}
+.co.why{border-color:var(--why);background:var(--why-b)}.co.why .ct{color:var(--why)}
+.ls{list-style:none;padding:0;display:grid;gap:10px}.ls li{margin:0;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.ls a,.ls .off{display:block;padding:10px 14px;border-radius:12px;color:var(--fg);text-decoration:none}.ls a:hover{background:var(--note-b)}
+.ls span{display:block;font-size:.88em;color:var(--mut)}.ls .off{color:var(--mut)}
 blockquote{margin:1em 0;padding:2px 14px;border-left:4px solid var(--line);color:var(--mut)}
 .flow{margin:1em 0;display:grid;gap:9px}.fr{display:flex;flex-wrap:wrap;align-items:center;gap:6px}
 .nd{background:var(--card);border:1.5px solid var(--line);border-radius:10px;padding:4px 10px;font-size:.93em;line-height:1.45}
@@ -440,7 +458,7 @@ svg.dg .m{fill:var(--mut)}svg.dg .r{fill:var(--bad)}.dg .mk{fill:var(--fg)}
 .ex{display:none;margin-top:10px;padding:8px 12px;border-radius:8px;background:var(--note-b);font-size:.95em}
 .q[data-done] .ex,body.all .ex{display:block}body.wrong .q:not(.wrong){display:none}
 @media (max-width:600px){body{font-size:16px}main{padding:6px 14px 80px}.bar{padding:6px 12px}#sc{order:9;width:100%}}
-@media print{.bar,.qbar,.toc{display:none}body{background:#fff;color:#000}.ex{display:block}.opt[data-ok="1"]{border-color:#15803d}
+@media print{.bar,.qbar,.toc,.crumb{display:none}body{background:#fff;color:#000}.ex{display:block}.opt[data-ok="1"]{border-color:#15803d}
 .q,.co,figure,tr{break-inside:avoid}mark{background:linear-gradient(transparent 50%,#fde68a 50%);color:#000}}
 '''
 
@@ -460,7 +478,33 @@ else if(e.target.tagName==='MARK'&&B.classList.contains('cloze'))e.target.classL
 '''
 
 
-def build(md_path):
+INDEX = '''<!doctype html>
+<html lang="vi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SRH · Sâu Răng Học theo SGK</title>
+<style>@@CSS@@</style></head>
+<body>
+<header class="bar"><a class="home" href="index.html">SRH CH SGK</a></header>
+<main>
+<h1>Sâu Răng Học – học theo SGK</h1>
+<p class="sub">Giáo trình Sâu Răng Học, Trường ĐH Y Dược Cần Thơ · mỗi bài một trang, học 1 bài/ngày</p>
+<div class="co imp"><div class="ct">📌 Cách học mỗi bài</div><ol>
+<li>Đọc từng mục theo đúng số mục SGK: 💡 Hiểu nhanh → 📖 SGK ghi → 🔍 Vì sao…? → 🧠 Mẹo nhớ → ⚠️ Đề hay gài.</li>
+<li>Bấm <b>Che từ khoá</b> rồi đọc lại; gặp ô bị che thì tự nói ra trước, rồi bấm vào ô để kiểm tra.</li>
+<li>Làm trắc nghiệm cuối bài; câu sai thì bấm nhãn "mục …" để quay về đúng đoạn cần đọc.</li>
+<li>Sáng hôm sau: mở lại bài, bật Che từ khoá, đọc phần <b>Ôn 5 phút</b> rồi làm lại các câu sai.</li>
+</ol></div>
+<h2 id="cac-bai">Các bài</h2>
+<ol class="ls">
+@@LIST@@
+</ol>
+</main>
+</body></html>
+'''
+
+
+def read(md_path):
+    """Tách phần đầu '---' (title, short, sgk, out) khỏi nội dung."""
     text = open(md_path, encoding='utf-8').read().replace('\r\n', '\n')
     meta = {}
     if text.startswith('---\n'):
@@ -470,6 +514,11 @@ def build(md_path):
             if k.strip():
                 meta[k.strip()] = v.strip()
         text = text[end + 4:]
+    return meta, text
+
+
+def build(md_path):
+    meta, text = read(md_path)
     d = Doc(md_path)
     body = d.blocks(text.split('\n'))
     out = os.path.join(OUT_DIR, meta.get('out') or os.path.splitext(os.path.basename(md_path))[0] + '.html')
@@ -481,7 +530,28 @@ def build(md_path):
         {k: d.q.count(k) for k in 'ABCD'}, (' | ! link hỏng: ' + ', '.join(bad)) if bad else ''))
 
 
+def build_index():
+    """index.html = trang chủ web: đủ 10 bài; bài đã dựng thì có link, còn lại ghi "chưa soạn"."""
+    items, done = [], 0
+    for n, name, pages in BAI:
+        md = os.path.join(HERE, 'Bài %d.md' % n)
+        meta, text = read(md) if os.path.exists(md) else ({}, '')
+        out = meta.get('out') or 'Bài %d.html' % n
+        if meta and os.path.exists(os.path.join(OUT_DIR, out)):
+            done += 1
+            nq = len(re.findall(r'^\s*[-*]\s+\[[xX]\]', text, re.M))
+            items.append('<li><a href="%s"><b>Bài %d.</b> %s<span>%s · %d câu trắc nghiệm</span></a></li>' % (
+                urllib.parse.quote(out), n, html.escape(name), html.escape(re.sub(r'[*=`]', '', meta.get('sgk', ''))), nq))
+        else:
+            items.append('<li class="off"><b>Bài %d.</b> %s<span>SGK tr. %s · chưa soạn</span></li>' % (
+                n, html.escape(name), pages))
+    with open(os.path.join(OUT_DIR, 'index.html'), 'w', encoding='utf-8') as f:
+        f.write(INDEX.replace('@@CSS@@', CSS).replace('@@LIST@@', '\n'.join(items)))
+    print('index.html | %d/%d bài có trang' % (done, len(BAI)))
+
+
 if __name__ == '__main__':
     sys.stdout.reconfigure(encoding='utf-8')
     for a in sys.argv[1:] or sorted(glob.glob(os.path.join(HERE, 'Bài *.md'))):
         build(a if os.path.exists(a) else os.path.join(HERE, a))
+    build_index()

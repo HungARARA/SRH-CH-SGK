@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SRH · Sâu Răng Học theo SGK</title>
+<style>
+:root{--bg:#fbfaf7;--fg:#1d2433;--mut:#5d6675;--line:#e2ddd2;--card:#fff;--h2:#b03010;--h3:#113366;--mark:#fde68a;--cloze:#d4d0c7;
+--note:#2563eb;--note-b:#eef4ff;--tip:#15803d;--tip-b:#edf9f1;--imp:#7c3aed;--imp-b:#f4efff;--warn:#c2410c;--warn-b:#fff3ea;--cau:#be123c;--cau-b:#fff0f3;--why:#0f766e;--why-b:#e8f6f4;
+--ok:#15803d;--ok-b:#e5f6ea;--bad:#dc2626;--bad-b:#fdecec;--en:#f4f1e6;--de:#f1dca8;--pu:#f3b2b2;--inf:#7a4517;--aff:#e5bd5c;--le:#cfc6b4;--phf:rgba(220,38,38,.35)}
+@media (prefers-color-scheme:dark){:root{--bg:#15171c;--fg:#e4e6ea;--mut:#9aa3b2;--line:#30353e;--card:#1c1f26;--h2:#f08a6c;--h3:#8db4ff;--mark:#6b5313;--cloze:#3b4049;
+--note:#6b9bff;--note-b:#16233b;--tip:#4ade80;--tip-b:#132a1c;--imp:#b794ff;--imp-b:#231a3a;--warn:#fb923c;--warn-b:#33200f;--cau:#fb7185;--cau-b:#361521;--why:#2dd4bf;--why-b:#10302c;
+--ok:#4ade80;--ok-b:#12301d;--bad:#f87171;--bad-b:#3a1616;--en:#3d3b33;--de:#5c4b24;--pu:#713636;--inf:#c58a4e;--aff:#8a6d22;--le:#77705f;--phf:rgba(248,113,113,.35)}}
+*{box-sizing:border-box}html{scroll-padding-top:58px}
+body{margin:0;background:var(--bg);color:var(--fg);font:16.5px/1.65 "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;-webkit-text-size-adjust:100%}
+main{max-width:880px;margin:auto;padding:8px 16px 90px}
+.bar{position:sticky;top:0;z-index:9;display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:7px 16px;background:var(--card);border-bottom:1px solid var(--line)}
+.bar .home{font-weight:700;color:var(--h3);text-decoration:none;margin-right:auto}
+#sc{font-size:13.5px;color:var(--mut)}
+.bar button,.bar a:not(.home),.qbar button{font:inherit;font-size:14px;padding:4px 11px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg);text-decoration:none;cursor:pointer}
+button.on{background:var(--h3);border-color:var(--h3);color:#fff}
+h1{font-size:1.55em;line-height:1.3;color:var(--h3);margin:.7em 0 .15em}.sub{color:var(--mut);margin:0 0 .8em}
+.crumb{margin:.8em 0 0;font-size:.9em}.crumb a{text-decoration:none}.crumb+h1{margin-top:.2em}
+h2{font-size:1.3em;line-height:1.35;color:var(--h2);border-bottom:2px solid var(--line);padding-bottom:4px;margin:2.2em 0 .6em}
+h3{font-size:1.12em;color:var(--h3);margin:1.6em 0 .5em}h4{font-size:1.02em;margin:1.3em 0 .4em}
+a{color:var(--note)}p,li{overflow-wrap:break-word}ul,ol{padding-left:1.4em}li{margin:.15em 0}
+mark{background:linear-gradient(transparent 50%,var(--mark) 50%);color:inherit;padding:0 1px}
+body.cloze mark{background:var(--cloze);color:transparent;border-radius:3px;cursor:pointer}
+body.cloze mark.show{background:linear-gradient(transparent 50%,var(--mark) 50%);color:inherit}
+.toc details{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:6px 14px}.toc summary{cursor:pointer;font-weight:600}
+.toc ol{list-style:none;padding:4px 0 6px;margin:0;columns:2 280px}.toc li{margin:2px 0;break-inside:avoid}.toc .t3{padding-left:1.1em;font-size:.93em}.toc a{text-decoration:none}
+.tw{overflow-x:auto;margin:.8em 0}table{border-collapse:collapse;width:100%;font-size:.95em;background:var(--card)}
+th,td{border:1px solid var(--line);padding:6px 9px;vertical-align:top;text-align:left}th{background:var(--h2);color:#fff;font-weight:600}
+tbody tr:nth-child(even){background:rgba(127,127,127,.06)}
+.co{border-left:4px solid;border-radius:8px;padding:8px 14px;margin:1em 0}.co .ct{font-weight:700;margin-bottom:2px}
+.co>:last-child{margin-bottom:.2em}.co p{margin:.4em 0}.co table{background:transparent}
+.co.note{border-color:var(--note);background:var(--note-b)}.co.note .ct{color:var(--note)}
+.co.tip{border-color:var(--tip);background:var(--tip-b)}.co.tip .ct{color:var(--tip)}
+.co.imp{border-color:var(--imp);background:var(--imp-b)}.co.imp .ct{color:var(--imp)}
+.co.warn{border-color:var(--warn);background:var(--warn-b)}.co.warn .ct{color:var(--warn)}
+.co.cau{border-color:var(--cau);background:var(--cau-b)}.co.cau .ct{color:var(--cau)}
+.co.why{border-color:var(--why);background:var(--why-b)}.co.why .ct{color:var(--why)}
+.ls{list-style:none;padding:0;display:grid;gap:10px}.ls li{margin:0;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.ls a,.ls .off{display:block;padding:10px 14px;border-radius:12px;color:var(--fg);text-decoration:none}.ls a:hover{background:var(--note-b)}
+.ls span{display:block;font-size:.88em;color:var(--mut)}.ls .off{color:var(--mut)}
+blockquote{margin:1em 0;padding:2px 14px;border-left:4px solid var(--line);color:var(--mut)}
+.flow{margin:1em 0;display:grid;gap:9px}.fr{display:flex;flex-wrap:wrap;align-items:center;gap:6px}
+.nd{background:var(--card);border:1.5px solid var(--line);border-radius:10px;padding:4px 10px;font-size:.93em;line-height:1.45}
+.nd.hot{border-color:var(--bad);background:var(--bad-b)}.nd.ok{border-color:var(--ok);background:var(--ok-b)}.ar{color:var(--mut);font-weight:700}
+figure{margin:1.2em 0}figure img{display:block;max-width:100%;margin:auto;border-radius:8px}
+figcaption{font-size:.88em;color:var(--mut);margin-top:6px}.miss{color:var(--bad)}
+.sc{overflow-x:auto}svg.dg{display:block;width:100%;height:auto;margin:auto}
+svg.dg text{fill:var(--fg);font-size:15px;font-family:inherit}svg.dg .s{font-size:13px}svg.dg .big{font-size:19px}svg.dg .b{font-weight:700}
+svg.dg .m{fill:var(--mut)}svg.dg .r{fill:var(--bad)}.dg .mk{fill:var(--fg)}
+.dg .k,.dg .ax{stroke:var(--fg);stroke-width:1.5;fill:none}.dg .d{stroke:var(--mut);stroke-width:1.3;stroke-dasharray:6 4;fill:none}
+.dg .ld{stroke:var(--mut);stroke-width:1;fill:none}.dg .rl{stroke:var(--bad);stroke-width:2.5}
+.dg .c1{fill:rgba(37,99,235,.16);stroke:#2563eb;stroke-width:2}.dg .c2{fill:rgba(234,88,12,.16);stroke:#ea580c;stroke-width:2}
+.dg .c3{fill:rgba(22,163,74,.16);stroke:#16a34a;stroke-width:2}
+.dg .en{fill:var(--en);stroke:var(--mut);stroke-width:1.2}.dg .de{fill:var(--de);stroke:var(--mut);stroke-width:1.2}
+.dg .pu{fill:var(--pu);stroke:var(--mut);stroke-width:1.2}.dg .inf{fill:var(--inf)}.dg .aff{fill:var(--aff)}
+.dg .le{fill:var(--le);stroke:var(--mut);stroke-width:1}.dg .phl{fill:none;stroke:var(--note);stroke-width:2}.dg .phf{fill:var(--phf)}
+.qbar{display:flex;gap:8px;flex-wrap:wrap;margin:.4em 0 1em}
+.q{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 14px;margin:14px 0}
+.qh{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap;font-size:.88em;color:var(--mut)}.qh b{color:var(--fg)}.qh a{text-decoration:none}
+.qs{margin:5px 0 9px;font-weight:600}.opts{display:grid;gap:6px}
+.opt{font:inherit;text-align:left;padding:7px 12px;border:1.5px solid var(--line);border-radius:10px;background:var(--bg);color:var(--fg);cursor:pointer;line-height:1.5}
+.opt:hover{border-color:var(--note)}.opt.ok,body.all .opt[data-ok="1"]{border-color:var(--ok);background:var(--ok-b)}.opt.bad{border-color:var(--bad);background:var(--bad-b)}
+.ex{display:none;margin-top:10px;padding:8px 12px;border-radius:8px;background:var(--note-b);font-size:.95em}
+.q[data-done] .ex,body.all .ex{display:block}body.wrong .q:not(.wrong){display:none}
+@media (max-width:600px){body{font-size:16px}main{padding:6px 14px 80px}.bar{padding:6px 12px}#sc{order:9;width:100%}}
+@media print{.bar,.qbar,.toc,.crumb{display:none}body{background:#fff;color:#000}.ex{display:block}.opt[data-ok="1"]{border-color:#15803d}
+.q,.co,figure,tr{break-inside:avoid}mark{background:linear-gradient(transparent 50%,#fde68a 50%);color:#000}}
+</style></head>
+<body>
+<header class="bar"><a class="home" href="index.html">SRH CH SGK</a></header>
+<main>
+<h1>Sâu Răng Học – học theo SGK</h1>
+<p class="sub">Giáo trình Sâu Răng Học, Trường ĐH Y Dược Cần Thơ · mỗi bài một trang, học 1 bài/ngày</p>
+<div class="co imp"><div class="ct">📌 Cách học mỗi bài</div><ol>
+<li>Đọc từng mục theo đúng số mục SGK: 💡 Hiểu nhanh → 📖 SGK ghi → 🔍 Vì sao…? → 🧠 Mẹo nhớ → ⚠️ Đề hay gài.</li>
+<li>Bấm <b>Che từ khoá</b> rồi đọc lại; gặp ô bị che thì tự nói ra trước, rồi bấm vào ô để kiểm tra.</li>
+<li>Làm trắc nghiệm cuối bài; câu sai thì bấm nhãn "mục …" để quay về đúng đoạn cần đọc.</li>
+<li>Sáng hôm sau: mở lại bài, bật Che từ khoá, đọc phần <b>Ôn 5 phút</b> rồi làm lại các câu sai.</li>
+</ol></div>
+<h2 id="cac-bai">Các bài</h2>
+<ol class="ls">
+<li><a href="B%C3%A0i%201%20-%20Quan%20ni%E1%BB%87m%20m%E1%BB%9Bi%20trong%20ch%E1%BA%A9n%20%C4%91o%C3%A1n%20v%C3%A0%20%C4%91i%E1%BB%81u%20tr%E1%BB%8B%20s%C3%A2u%20r%C4%83ng.html"><b>Bài 1.</b> Quan niệm mới trong chẩn đoán và điều trị bệnh sâu răng<span>Chương 1 – Bệnh sâu răng · SGK tr. 1–16 · học khoảng 90 phút · 66 câu trắc nghiệm</span></a></li>
+<li class="off"><b>Bài 2.</b> Quá trình mất khoáng và tái khoáng mô cứng<span>SGK tr. 17–31 · chưa soạn</span></li>
+<li class="off"><b>Bài 3.</b> Chẩn đoán bệnh sâu răng<span>SGK tr. 32–47 · chưa soạn</span></li>
+<li class="off"><b>Bài 4.</b> Điều trị và phòng ngừa bệnh sâu răng<span>SGK tr. 48–92 · chưa soạn</span></li>
+<li class="off"><b>Bài 5.</b> Phân loại xoang sâu răng<span>SGK tr. 94–108 · chưa soạn</span></li>
+<li class="off"><b>Bài 6.</b> Các yếu tố sinh học trong sửa soạn xoang<span>SGK tr. 109–113 · chưa soạn</span></li>
+<li class="off"><b>Bài 7.</b> Nguyên tắc tạo xoang và trám bằng xi măng glass ionomer (GIC)<span>SGK tr. 114–122 · chưa soạn</span></li>
+<li class="off"><b>Bài 8.</b> Nguyên tắc tạo xoang và trám bằng vật liệu composite<span>SGK tr. 123–170 · chưa soạn</span></li>
+<li class="off"><b>Bài 9.</b> Che tủy<span>SGK tr. 171–187 · chưa soạn</span></li>
+<li class="off"><b>Bài 10.</b> Mòn răng<span>SGK tr. 188–197 · chưa soạn</span></li>
+</ol>
+</main>
+</body></html>

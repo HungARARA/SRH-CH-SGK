@@ -1,6 +1,6 @@
 # SRH CH SGK – hướng dẫn cho Claude
 
-Thư mục này chuẩn hoá kiến thức **Sâu Răng Học** (giáo trình Trường ĐH Y Dược Cần Thơ, ngành Răng Hàm Mặt) cho một sinh viên RHM K49. Mỗi bài SGK làm thành **1 file `.html`** để học offline. Nội dung được viết trong `nguon/Bài N.md`, rồi dựng thành `.html` bằng `nguon/build.py`.
+Thư mục này chuẩn hoá kiến thức **Sâu Răng Học** (giáo trình Trường ĐH Y Dược Cần Thơ, ngành Răng Hàm Mặt) cho một sinh viên RHM K49. Mỗi bài SGK làm thành **1 file `.html`** để học offline, đồng thời đưa lên trang web https://hungarara.github.io/SRH-CH-SGK/ (GitHub Pages). Nội dung được viết trong `nguon/Bài N.md`, rồi dựng thành `.html` bằng `nguon/build.py` (script dựng luôn trang chủ `index.html`).
 
 ## Lệnh tắt
 
@@ -38,8 +38,8 @@ Nếu các đường dẫn trên bị đổi thì tìm trên Desktop theo tên f
 - Dựng trang (chạy trong thư mục này): `"C:/Users/1/AppData/Local/Programs/Python/Python313/python.exe" -I nguon/build.py "Bài N.md"`. Script in ra số câu, phân bố đáp án A/B/C/D, link hỏng và hình thiếu.
 - Cú pháp Markdown mở rộng mà `build.py` hiểu được: xem `QUY TRÌNH CHUẨN HOÁ.md` mục 9.
 
-## Trạng thái (27/10/2026)
+## Trạng thái (28/10/2026)
 
-- **Bài 1 xong.** Có 66 câu vì đây là bản đầu, làm trước khi quy trình giảm xuống 30–50 câu. Các hộp "Vì sao…?" bổ sung cho Bài 1 **chưa được thêm**, vì người dùng dừng giữa chừng. Hỏi người dùng trước khi thêm.
+- **Bài 1 xong**, có 25 hộp 🔍 "Vì sao…?". Có 66 câu vì đây là bản đầu, làm trước khi quy trình giảm xuống 30–50 câu.
 - **Bài 2–10 chưa làm.** Trang sách của từng bài có trong `QUY TRÌNH CHUẨN HOÁ.md` mục 4.
-- **Git:** repo riêng tư `HungARARA/SRH-CH-SGK`, nhánh `main`. Soạn xong bài nào thì hỏi người dùng có muốn commit + push không.
+- **Git:** repo `HungARARA/SRH-CH-SGK`, nhánh `main`. Soạn xong bài nào thì hỏi người dùng có muốn commit + push không. Push xong thì trang web tự cập nhật từ nhánh `main` (thư mục gốc).

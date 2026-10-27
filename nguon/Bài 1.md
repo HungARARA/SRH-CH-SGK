@@ -1,13 +1,13 @@
 ---
 title: Bài 1. Quan niệm mới trong chẩn đoán và điều trị bệnh sâu răng
 short: SRH · Bài 1
-sgk: Chương 1 – Bệnh sâu răng · SGK tr. 1–16 · học khoảng 80 phút
+sgk: Chương 1 – Bệnh sâu răng · SGK tr. 1–16 · học khoảng 90 phút
 out: Bài 1 - Quan niệm mới trong chẩn đoán và điều trị sâu răng.html
 ---
 
-> [!IMPORTANT] Cách học bài này (4 bước, ~80 phút)
+> [!IMPORTANT] Cách học bài này (4 bước, ~90 phút)
 > 1. **Đọc "Bức tranh 1 phút"** để nắm câu chuyện của cả bài – chưa cần thuộc.
-> 2. **Đọc từng mục 0 → 6** (đúng số mục trong sách). Mỗi mục: đọc hộp 💡 *Hiểu nhanh* trước, rồi tới phần **📖 SGK ghi**. Chữ ==tô vàng== là từ khoá/con số mà đề hay lấy rồi đổi đi một chữ.
+> 2. **Đọc từng mục 0 → 6** (đúng số mục trong sách). Mỗi mục: đọc hộp 💡 *Hiểu nhanh* trước, rồi tới phần **📖 SGK ghi**, rồi các hộp 🔍 *Vì sao…?* (cơ chế đằng sau ý của sách: đọc để hiểu, không cần thuộc; ý nào ngoài SGK đều có ghi rõ, thi vẫn chọn theo SGK). Chữ ==tô vàng== là từ khoá/con số mà đề hay lấy rồi đổi đi một chữ.
 > 3. **Bấm "Che từ khoá"** (thanh trên cùng) → đọc lại; gặp ô bị che thì tự nói ra trước, rồi bấm vào ô để kiểm tra.
 > 4. **Làm trắc nghiệm** cuối bài. Câu sai → bấm nhãn "mục …" của câu đó để quay về đúng đoạn cần đọc. Làm xong bấm **"Chỉ xem câu sai"** để ôn lại chỗ yếu.
 
@@ -55,6 +55,14 @@ Nước bọt đệm acid -> Ca, P, F đắp lại -> +Tái khoáng (fluorapatit
 - Sâu răng ==không phát triển nếu không có vi khuẩn tích tụ== tại chỗ. Nhưng vi khuẩn có thể phủ răng mà không sâu ⇒ lắng đọng vi khuẩn là ==cần, nhưng không đủ==.
 - Tốc độ phát triển và mức nguy hiểm ==tuỳ từng cá thể== (môi trường miệng phức tạp).
 
+> [!WHY] Vì sao có vi khuẩn mà chưa chắc đã sâu răng?
+> Vi khuẩn chỉ là **1 trong 3 vòng** của sơ đồ Keyes (mục 1.2). Muốn thành sâu còn phải có **đường** để vi khuẩn làm ra acid, **răng** dễ bị tấn công và **đủ thời gian**. Đồng thời phe bảo vệ (chải răng, nước bọt, sealant, ý thức ăn uống – mục 1.3) phải **thua**.
+>
+> Ví dụ hai người cùng nhiều mảng bám: người ít ăn vặt, nước bọt tốt có thể không sâu; người ăn vặt cả ngày thì sâu. ⇒ Vi khuẩn là điều kiện **cần**. Phải có thêm đường, răng nhạy cảm và thời gian thì mới **đủ**.
+
+> [!WHY] Vì sao sâu răng hiếm khi tự dừng?
+> *(ngoài SGK)* Khi đã thành lỗ, cái lỗ trở thành **chỗ trú** cho mảng bám: lông bàn chải không với vào, nước bọt khó rửa tới. Acid đọng lâu hơn, lỗ càng to lại càng giữ nhiều mảng bám. Men cũng **không có tế bào** nên không tự xây lại phần đã mất. Bệnh chỉ dừng khi **làm sạch lỗ sâu và kiểm soát được các yếu tố gây sâu** (mục 4).
+
 **Dịch tễ:**
 
 | Điều tra | Kết quả |
@@ -92,6 +100,9 @@ Nước bọt đệm acid -> Ca, P, F đắp lại -> +Tái khoáng (fluorapatit
 - Sâu răng là ==quá trình mạn tính== nên cần ==thời gian==.
 - pH mảng bám ==acid kéo dài đến 30 phút== sau khi ăn carbohydrate.
 - Ăn đường ==lặp đi lặp lại== (==ăn vặt giữa các bữa ăn chính==) → acid tấn công ==gần như thường xuyên== trên mặt răng.
+
+> [!WHY] Vì sao pH acid kéo dài khoảng 30 phút?
+> *(ngoài SGK)* Vi khuẩn lên men đường **rất nhanh**: chỉ vài phút sau khi ăn, pH mảng bám đã tụt. Muốn hết acid thì phải xong 2 việc: đường bị **nước bọt rửa trôi** hoặc bị vi khuẩn dùng hết, và nước bọt **trung hoà** xong lượng acid đã sinh ra (nhờ bicarbonate, mục 1.3). Hai việc này cần thời gian, nên phải chừng **nửa giờ** pH mới về lại mức an toàn.
 
 ```ph
 6-14
@@ -139,12 +150,22 @@ caption: Biểu đồ minh hoạ (dạng **đường cong Stephan**, Bài 2 họ
 > **Dextran giống "keo dán"**: *S. mutans* biến sucrose thành keo dextran nằm **bên ngoài** tế bào (ngoại bào) → cả đám vi khuẩn **dính chặt** vào răng, nước bọt không rửa trôi.
 > Một vi khuẩn gây sâu "giỏi" cần đủ **3 tài**: **sinh acid** – **sống được trong acid** – **tổng hợp được polysaccharide**. Đây chính là câu lượng giá số 1 cuối bài SGK.
 
+> [!WHY] Vì sao *S. mutans* mở màn, còn *Lactobacillus* đi sau?
+> *(ngoài SGK)* *S. mutans* tự làm keo dextran nên **bám được lên mặt men còn nhẵn, còn nguyên**. Vì vậy nó là "đội tiên phong" mở đầu tổn thương.
+>
+> *Lactobacillus* **bám kém** trên mặt nhẵn nhưng **chịu acid rất giỏi**. Nó cần **chỗ trú** (hố rãnh sâu, lỗ sâu) và môi trường đã acid sẵn, nên chỉ sinh sôi mạnh khi đã có lỗ, đã vào ngà. Lúc đó nó là "đội đào hầm" đưa sang thương xuống sâu.
+
 #### 1.2.2. Thức ăn – nguồn dinh dưỡng của vi khuẩn
 
 **📖 SGK ghi:**
 - Vi khuẩn sau khi vào miệng ==tự nó không thể gây sâu răng==; cần ==có sẵn nguồn đường== để chuyển hoá.
 - ==Carbohydrate tinh chế==, đặc biệt dạng ==sucrose==, là loại vi khuẩn ==ưa thích== nhất.
 - Vi khuẩn chuyển hoá sucrose → ==dextran + acid==. Khi pH xuống thấp tới mức nào đó → ==mất khoáng men răng==.
+
+> [!WHY] Vì sao vi khuẩn "ưa" sucrose nhất?
+> *(ngoài SGK)* Sucrose là **glucose + fructose** nối với nhau bằng một liên kết chứa nhiều năng lượng. *S. mutans* có enzym cắt liên kết này rồi dùng chính năng lượng đó **nối các glucose lại thành keo dextran**; phần còn lại được lên men thành **acid**.
+>
+> Ăn glucose hay fructose riêng lẻ thì vi khuẩn vẫn lên men ra acid, nhưng **không làm được keo**. Vì vậy sucrose gây sâu mạnh nhất: vừa cho acid, vừa cho keo bám.
 
 > [!TIP]
 > **Sucrose = "đường 2 trong 1"**: vừa cho acid, vừa cho keo dextran. Đề hỏi "đường gây sâu mạnh nhất" → **sucrose** (không phải glucose, fructose, lactose). *Xylitol* thì ngược lại: vi khuẩn không lên men được, nên dùng làm kẹo cao su chống sâu (mục 5, 6).
@@ -160,6 +181,11 @@ caption: Biểu đồ minh hoạ (dạng **đường cong Stephan**, Bài 2 họ
 
 > [!NOTE]
 > Răng mới mọc giống **bức tường mới xây, vữa chưa khô**: còn nhiều carbonate (thành phần "yếu", dễ tan). Mỗi lần nước bọt và fluor "vá" lại, carbonate bị thay bằng OH⁻ hoặc F⁻ → tường cứng dần. Vì vậy răng vĩnh viễn **vừa mọc** (nhất là hố rãnh răng hàm ở trẻ 6–12 tuổi) rất dễ sâu.
+
+> [!WHY] Vì sao hố rãnh sâu, vùng tiếp xúc rộng lại dễ sâu?
+> *(ngoài SGK)* Nhiều khe rãnh **hẹp hơn cả một sợi lông bàn chải**, nên lông bàn chải không lọt vào được và mảng bám nằm yên trong khe. Vùng **bên dưới chỗ tiếp xúc** giữa hai răng cũng khuất, bàn chải không tới, phải dùng chỉ nha khoa (mục 6.3.1).
+>
+> Răng **đang mọc** còn thêm một bất lợi: mặt nhai còn thấp hơn các răng bên cạnh, **chưa nhai tới**, nên thức ăn và mảng bám đọng lại lâu.
 
 > [!TIP]
 > 3 yếu tố của răng: **"Hình – Vị – Tuổi"** = **Hình** thái (hố rãnh sâu, tiếp xúc rộng) – **Vị** trí (chen chúc) – **Tuổi** men (mới mọc, nhiều carbonate).
@@ -181,6 +207,14 @@ caption: Biểu đồ minh hoạ (dạng **đường cong Stephan**, Bài 2 họ
 | ==Nước bọt== | ==đệm== nhờ ==bicarbonate== và khả năng tiết → pH ổn định; khoáng ==fluoride, calcium, phosphate== → ==tái khoáng== mặt răng |
 | ==Sealant== (trám bít hố rãnh) | lớp vật liệu mỏng phủ hố rãnh mặt nhai → ==dễ vệ sinh== + ==cô lập hố rãnh== khỏi vi khuẩn |
 | ==Ý thức ăn uống== | tránh ==ăn quà vặt==, ăn tập trung ==bữa chính==, ==chải răng ngay sau khi ăn==; giảm ==lượng đường== và ==thời gian tiếp xúc với đường== |
+
+> [!WHY] Vì sao nước bọt bảo vệ được răng, mà vẫn phải chải răng?
+> Nước bọt làm 3 việc:
+> 1. **Rửa trôi** đường và vi khuẩn rồi nuốt đi *(ngoài SGK)*.
+> 2. **Đệm**: bicarbonate trung hoà acid, kéo pH lên lại.
+> 3. **Vá**: nước bọt mang sẵn calcium, phosphate, fluoride; khi pH lên lại, các khoáng này đắp ngược vào men (tái khoáng).
+>
+> *(ngoài SGK)* **Nhai** (kẹo cao su, thức ăn nhiều xơ) làm nước bọt tiết nhiều hơn, và nước bọt tiết nhiều thì **đệm mạnh hơn**. Nhưng nước bọt **khó thấm qua lớp mảng bám dày**, nên acid sinh ra bên dưới bị giữ sát mặt răng. Vì vậy cần cả hai: **chải răng** dọn mảng bám trước, nước bọt mới vào đệm và vá được.
 
 > [!TIP]
 > 4 yếu tố cân bằng: **"Cô Nàng Sợ Ăn vặt"** = **C**hải răng – **N**ước bọt – **S**ealant – ý thức **Ă**n uống.
@@ -215,7 +249,27 @@ caption: Biểu đồ minh hoạ (dạng **đường cong Stephan**, Bài 2 họ
 - **Đặc điểm sang thương sâu men**: lan rộng ==theo hướng trụ men==, tạo xoang sâu ==hình nón==, ==đáy ở đường nối men–ngà (ĐNMN)==, ==đỉnh ở mặt men== → xoang sâu men ==thường bị bỏ sót== do ==đường vào nhỏ==, khó phát hiện.
 - Sâu men ==mới chớm== ==không cần điều trị==, chỉ cần ==tăng cường các yếu tố đề kháng== + ==giảm các yếu tố nguy cơ==.
 
+> [!WHY] Vì sao men có fluor chịu acid giỏi hơn?
+> *(ngoài SGK)* Trong mỗi "viên gạch" hydroxyapatite có nhóm **OH⁻**. Acid (H⁺) dễ kéo OH⁻ ra thành nước, nên viên gạch rã ra. Khi fluor vào **thay chỗ OH⁻**, viên gạch thành **fluorapatite**: F⁻ nằm khít và cân đối hơn trong tinh thể, lại không bị acid kéo ra dễ như OH⁻. Tinh thể bền hơn nên acid phải mạnh hơn (pH < 4,5 thay vì < 5,5) mới làm nó tan.
+
+> [!WHY] Vì sao sâu men đi theo trụ men và có hình nón?
+> Men được xếp bằng hàng triệu **trụ men** (như một bó đũa) chạy từ ĐNMN ra mặt răng. Acid thấm vào **dọc theo các trụ**, nên sang thương đi theo hướng trụ men.
+> - Ở **hố rãnh**, các trụ men **toả ra hình nan quạt** khi đi vào trong. Sang thương toả rộng dần theo, nên **đáy nón ở ĐNMN**, đỉnh ở mặt men (SGK Bài 5 tr. 95).
+> - Ở **mặt nhẵn**, các trụ men **song song hay chụm về phía tủy**. Nón vì thế ngược lại: đáy ở mặt răng, đỉnh hướng về ĐNMN (SGK Bài 5 tr. 96).
+>
+> Ở hố rãnh, đường vào nhỏ mà bên trong toả rộng (rồi còn lan tiếp theo ĐNMN), nên phần nhìn thấy **luôn nhỏ hơn** tổn thương thật (SGK Bài 5 tr. 95). Vì vậy sâu men hố rãnh hay bị bỏ sót.
+
+> [!WHY] Vì sao sâu men mới chớm thì không khoan, không trám?
+> *(ngoài SGK)* Ở tổn thương mới chớm, **lớp mặt men gần như còn nguyên**, phần mất khoáng nằm bên dưới. Nước bọt và fluor vẫn thấm vào **vá lại** được, đúng như SGK nói lớp bề mặt dễ hồi phục.
+>
+> Còn khoan là cắt bỏ luôn cả men lành, mà men thì **không mọc lại**. Miếng trám nào cũng có tuổi thọ, hỏng thì phải làm lại, và mỗi lần làm lại lỗ thường to thêm. Vì vậy SGK chỉ cần **tăng đề kháng + giảm nguy cơ**, để dành việc trám cho sang thương **đã có lỗ** (mục 5).
+
 ![Hình 1.2 (SGK) – Sang thương **không hoạt động (bất hoạt)** ở răng cửa giữa hàm trên, trẻ 5 tuổi: **trắng đục, trơn láng, bóng** vì vệ sinh đã cải thiện. Hình dạng sang thương cho thấy chỗ đường viền nướu lúc sâu răng đang phát triển.](hinh/b1-h1-2.png)
+
+> [!WHY] Vì sao đốm sâu men trắng đục, và "trắng – trơn – bóng" là đã ngừng?
+> *(ngoài SGK)* Men lành trong như kính vì các tinh thể xếp khít. Khi mất khoáng, bên dưới mặt men có **rất nhiều lỗ li ti** chứa nước, không khí thay cho khoáng. Ánh sáng đi vào bị **tán xạ** nên ta thấy **trắng đục**, giống kính mờ.
+> - **Đang hoạt động**: mặt men đang bị acid gặm nên **xỉn, nhám như phấn**, thường có mảng bám phủ lên.
+> - **Đã ngừng** (vệ sinh tốt, như Hình 1.2): mặt ngoài được tái khoáng và chải láng nên **trơn, bóng**. Các lỗ li ti bên dưới chưa đầy hết nên vẫn còn **màu trắng**.
 
 > [!TIP]
 > - **"5,5 – men thường; 4,5 – men có fluor"**.
@@ -253,6 +307,11 @@ caption: Biểu đồ minh hoạ (dạng **đường cong Stephan**, Bài 2 họ
 ④ <b>Nón sâu ngà</b>: đáy ở ĐNMN, đỉnh hướng về tủy, lan theo ĐNMN.<br>
 Hai nón <b>chung đáy ở ĐNMN</b>, chĩa đỉnh ngược nhau.</figcaption>
 </figure>
+
+> [!WHY] Vì sao vào tới ngà thì sâu lan ngang và đi nhanh hơn?
+> - *(ngoài SGK)* Ngà **ít khoáng hơn men** rất nhiều, lại có hàng triệu **ống ngà** như những đường hầm nhỏ chạy thẳng về tủy. Acid và vi khuẩn vì thế đi trong ngà nhanh hơn trong men.
+> - Tới ĐNMN, tổn thương **toả ngang dọc theo đường nối** (SGK Bài 5 tr. 95), rồi theo ống ngà đi về phía tủy. Vì vậy nón sâu ngà có **đáy rộng ở ĐNMN, đỉnh về tủy**.
+> - Khi ngà bên dưới bị ăn rỗng, phần men phía trên **mất chỗ dựa** rồi vỡ sập thành lỗ (SGK Bài 5 tr. 95). Giống **mái nhà bị mối ăn hết xà**: nhìn ngoài còn nguyên, tới lúc sập mới biết.
 
 #### 2.2.1. Quá trình sâu ngà
 
@@ -294,7 +353,19 @@ Acid phá huỷ, "mở đường" -> Một ít vi khuẩn xâm nhập ống ngà
 > [!NOTE]
 > Giống **quả táo bị dập**: phần **thối nhũn bên ngoài** (ngà nhiễm trùng – chết, đầy vi khuẩn, chạm không đau) thì khoét bỏ; phần **ngả màu nhưng còn chắc bên trong** (ngà bị ảnh hưởng – còn sống, chạm thấy ê) thì **giữ lại**, nó còn tự hồi phục được.
 
+> [!WHY] Vì sao lớp ngoài phải bỏ, còn lớp trong giữ lại được?
+> *(ngoài SGK)* Muốn đắp khoáng trở lại thì cần **giàn giáo** là các sợi **collagen**, giống cốt thép trong bê tông.
+> - **Lớp ngoài** (ngà nhiễm trùng): collagen đã bị **phân huỷ**, mô đã chết, lại đầy vi khuẩn. Không còn giàn để đắp khoáng nên **không tái khoáng được** → bỏ.
+> - **Lớp trong** (ngà bị ảnh hưởng): collagen **còn**, tế bào tạo ngà **còn sống**. Có giàn, có "thợ", chỉ cần thêm nguồn khoáng là **cứng lại được** → giữ, vừa làm hàng rào bảo vệ tủy vừa tiết kiệm mô răng.
+>
+> Đây cũng chính là 3 điều kiện tái khoáng SGK nêu: **collagen – tế bào tạo ngà – nước bọt**.
+
 ![Hình 1.3 (SGK) – Sâu ngà **hoạt động**, lấp đầy mảng bám; bề mặt **nâu đậm** do ngà đổi màu. Kiểm soát mảng bám + kem có fluor → sau **2–3 tuần** hết nhạy cảm với nóng, lạnh, ngọt; sau **4 tháng** cứng khi thăm dò (thành sang thương **bất hoạt**, ngà cứng hơn do tích tụ khoáng).](hinh/b1-h1-3.png)
+
+> [!WHY] Vì sao lớp trong ê buốt, và vì sao giữ sạch vài tuần là hết ê?
+> *(ngoài SGK)* Trong ống ngà có **dịch** và có **đuôi tế bào tạo ngà** nối về tủy. Nóng, lạnh, ngọt làm dịch trong ống **chuyển động**, kích thích dây thần kinh ở rìa tủy nên thấy **ê buốt** (thuyết thủy động). Lớp ngoài đã chết, ống ngà bị phá nên không truyền được cảm giác.
+>
+> Ở Hình 1.3: hết mảng bám thì hết acid. Khoáng từ nước bọt và kem fluor dần **bít miệng các ống ngà**, dịch không còn bị khuấy nên **hết ê sau 2–3 tuần**. Khoáng tiếp tục đắp vào, tới **4 tháng** thì ngà **cứng** khi thăm dò, tức sang thương đã bất hoạt.
 
 > [!TIP]
 > - Lớp ngoài = **"4 KHÔNG"**: không sống, không cảm giác, không tái khoáng, không giữ lại. Lớp trong thì ngược lại hết.
@@ -331,6 +402,10 @@ Acid phá huỷ, "mở đường" -> Một ít vi khuẩn xâm nhập ống ngà
 - Dấu hiệu rõ của sâu răng đang hoạt động: ==thấu quang ở men trên phim X-quang==, ==sang thương trắng đục==, hay ==lỗ sâu==.
 - **3 nhóm chẩn đoán**: ==sâu răng nghi ngờ== · ==sâu răng khởi phát (đốm trắng đục)== · ==lỗ sâu thực sự==.
 
+> [!WHY] Vì sao không thể chỉ đi tìm lỗ sâu?
+> - **Lỗ sâu chỉ là hậu quả muộn**; nguyên nhân (vi khuẩn + đường) vẫn đang chạy. Hai người cùng có 1 lỗ: người nguy cơ thấp trám xong là ổn; người nguy cơ cao trám xong vẫn **sâu tiếp** ở răng khác hoặc ngay **quanh bờ miếng trám**, nếu không chữa nguyên nhân (mục 5).
+> - *(ngoài SGK)* Cách khám cổ điển giống chụp **một tấm ảnh**: thấy tổn thương lúc đó nhưng không biết nó **đang tiến hay đã dừng**. Muốn biết hoạt động thì phải nhìn các dấu hiệu đang hoạt động và theo dõi qua thời gian, giống xem **một đoạn phim**.
+
 > [!TIP]
 > - 3 nhóm chẩn đoán: **"Ngờ – Chớm – Lỗ"**.
 > - Đánh giá nguy cơ: **"Chủ – Khuẩn – Ăn"** (ký chủ: nước bọt + fluor · vi khuẩn: xét nghiệm S. mutans · chế độ ăn).
@@ -342,8 +417,8 @@ Acid phá huỷ, "mở đường" -> Một ít vi khuẩn xâm nhập ống ngà
 
 ## 4. Biến chứng của bệnh sâu răng · tr. 9–10
 
-> [!NOTE]
-> **Vì sao tủy viêm lại dễ chết?** Tủy nằm trong **"căn phòng kín" bằng ngà cứng**, máu chỉ ra vào qua **một cửa rất nhỏ là lỗ chóp**. Khi viêm, tủy sưng lên nhưng **không có chỗ phình ra** → tự chèn ép mạch máu → **hoại tử**. Vi khuẩn sau đó đi qua lỗ chóp ra **vùng quanh chóp** → áp xe…
+> [!WHY] Vì sao tủy viêm lại dễ chết?
+> Tủy nằm trong **"căn phòng kín" bằng ngà cứng**, máu chỉ ra vào qua **một cửa rất nhỏ là lỗ chóp**. Khi viêm, tủy sưng lên nhưng **không có chỗ phình ra** → tự chèn ép mạch máu → **hoại tử**. Vi khuẩn sau đó đi qua lỗ chóp ra **vùng quanh chóp** → áp xe…
 
 ```flow
 Sâu men -> Sâu ngà -> !Tủy viêm -> !Tủy hoại tử -> Vùng quanh chóp: nhiễm trùng mô quanh răng, áp xe -> Mất răng
@@ -357,6 +432,9 @@ Sâu men -> Sâu ngà -> !Tủy viêm -> !Tủy hoại tử -> Vùng quanh chóp
 - Tủy dễ hoại tử vì bị giới hạn trong ==bức tường khoáng hoá chắc chắn là ngà== và mạch máu từ ==vi mạch== vào răng qua ==lỗ chóp gốc nhỏ hẹp==.
 - Nhiễm khuẩn lan ra ==vùng quanh chóp== → nhiễm trùng mô quanh răng, ==áp xe== → có thể ==mất răng==.
 - Nặng hơn: ==viêm mô tế bào==, ==viêm xương==, ==nhiễm khuẩn huyết==; lan xa tới ==khớp, tim, màng não== → có thể ==tử vong==.
+
+> [!WHY] Sâu ngà "bắt buộc" chữa, sao SGK vẫn nói tái khoáng được?
+> Hai câu không mâu thuẫn. Ngà chỉ tái khoáng khi lỗ được **làm sạch và giữ sạch mảng bám** (SGK). *(ngoài SGK)* Nhưng lỗ sâu ngà thường là **hốc miệng hẹp, lòng rộng**: bàn chải không vào được, mảng bám cứ đọng lại, bệnh nhân hiếm khi tự giữ sạch được. Vì thế phải **lấy mô ngà sâu và trám** để đóng cái hốc lại, tức là điều trị bảo tồn.
 
 ![Hình 1.5 (SGK) – Sâu răng tới tủy dẫn đến **viêm mô tế bào**.](hinh/b1-h1-5.png)
 
@@ -412,6 +490,17 @@ Sâu men -> Sâu ngà -> !Tủy viêm -> !Tủy hoại tử -> Vùng quanh chóp
 > [!NOTE]
 > **CFU/mL** = số khuẩn lạc vi khuẩn đếm được trong 1 mL nước bọt (xét nghiệm nước bọt). Người lớn bị **tụt nướu** thì lộ chân răng – phần không có men che, nên dễ sâu cổ và chân răng.
 
+> [!WHY] Vì sao 10 yếu tố tổng quát lại làm tăng nguy cơ?
+> Xếp chúng theo các vòng Keyes là thấy ngay. *(Cách xếp nhóm và các ý trong ngoặc là giải thích thêm, ngoài SGK; SGK chỉ liệt kê.)*
+>
+> | Đánh vào đâu | Yếu tố trong SGK |
+> |---|---|
+> | Nhiều **vi khuẩn** | tạp khuẩn sinh sâu răng (SM, LB cao) · vệ sinh răng miệng chưa thích hợp · đang điều trị chỉnh nha (mắc cài giữ mảng bám, khó chải) |
+> | Nhiều **đường** | dinh dưỡng dễ sinh sâu răng |
+> | **Răng** kém đề kháng | hố rãnh ngoằn ngoèo chưa trám bít · không có sử dụng fluor |
+> | Thiếu **nước bọt** bảo vệ | thiếu nước bọt · khô miệng do sức khoẻ toàn thân và do thuốc · nghiện ma tuý (gây khô miệng, thèm ngọt, bỏ bê vệ sinh) |
+> | Không ai **theo dõi** | tái khám không đều (tổn thương sớm không được phát hiện, chặn kịp) |
+
 > [!TIP]
 > - Vi khuẩn: **"SM 2 trăm nghìn – LB 1 triệu"** là nguy cơ cao; **dưới 100 nghìn (cả hai)** mới được trám.
 > - Nước bọt thiếu: **"pH dưới 4 – dưới nửa mL mỗi phút"**.
@@ -436,6 +525,16 @@ Xét nghiệm lại S. mutans trong 1–2 tháng -> +SM < 100.000 và LB < 100.0
 - ==Chỉ phục hồi khi mức vi khuẩn bình thường==: ==SM < 100.000 CFU/mL==, ==LB < 100.000 CFU/mL==.
 - Bệnh nhân ==nguy cơ trung bình hoặc cao== + ==sâu răng đang hoạt động==: ==loại bỏ nhiễm khuẩn== và ==phục hồi sang thương có lỗ==.
 - Sâu ngà: ==bắt buộc điều trị bảo tồn==; ==lấy sạch mô ngà sâu và trám lại== để bảo tồn răng, phòng biến chứng.
+
+> [!WHY] Vì sao chlorhexidine chỉ dùng 2–4 tuần, và dùng trước khi ngủ?
+> *(ngoài SGK)*
+> - Chlorhexidine là thuốc **sát khuẩn mạnh**, hạ *S. mutans* nhanh, nên hợp để "dập lửa" lúc đầu. Nhưng dùng lâu thì **nhuộm răng vàng nâu**, **đổi vị giác**, tăng vôi răng. Vì vậy chỉ dùng **một đợt ngắn**, rồi chuyển sang **fluor** là thứ dùng lâu dài an toàn, giúp men tái khoáng.
+> - Lúc ngủ, nước bọt tiết **rất ít** nên thuốc **ở lại trên răng lâu**, không bị rửa trôi. Ban đêm cũng là lúc răng ít được nước bọt bảo vệ nhất. Vì vậy cả chlorhexidine lẫn nước súc fluor đều dặn dùng trước khi ngủ.
+
+> [!WHY] Vì sao kẹo xylitol giúp hạ *S. mutans*?
+> - *(ngoài SGK)* Vi khuẩn **không lên men được** xylitol nên không làm ra acid. *S. mutans* còn "ăn nhầm" xylitol: hút vào tế bào nhưng không dùng được, phải tốn năng lượng đẩy ra, lâu dần yếu đi và giảm số lượng.
+> - **Nhai** kẹo còn kích thích tiết **nước bọt**, tăng khả năng đệm và giúp tái khoáng (SGK nêu cơ chế này cho kẹo cao su không đường, mục 6.3.1).
+> - *(ngoài SGK)* Dặn **2 thỏi × 5 lần/ngày, nhất là sau bữa ăn** là để xylitol và nước bọt có mặt **đều đặn suốt ngày**, đúng lúc acid lên cao nhất.
 
 **Vật liệu** – chọn theo ==vị trí==, ==tình trạng răng== và ==điều kiện kinh tế==:
 
@@ -497,8 +596,16 @@ Xét nghiệm lại S. mutans trong 1–2 tháng -> +SM < 100.000 và LB < 100.0
 ![Hình 1.8 (SGK) – Kỹ thuật chải răng **Bass**: lông bàn chải nghiêng **45° về phía nướu**, rung ngắn tại chỗ cho đầu lông vào khe nướu và vùng kẽ; A–B: sơ đồ, C–D: thực hiện ở răng sau hàm trên.](hinh/b1-h1-8.png)
 
 > [!NOTE]
-> - **5 mặt răng** = ngoài, trong, nhai (bàn chải tới được) + **gần, xa** (2 mặt kẽ, phải dùng chỉ).
-> - **Vì sao chlorhexidine phải cách chải răng 2 giờ?** *(giải thích thêm, ngoài SGK)* Chất tạo bọt trong kem đánh răng mang điện âm, chlorhexidine mang điện dương → gặp nhau là "trung hoà" lẫn nhau, chlorhexidine mất tác dụng.
+> **5 mặt răng** = ngoài, trong, nhai (bàn chải tới được) + **gần, xa** (2 mặt kẽ, phải dùng chỉ).
+
+> [!WHY] Vì sao chải kiểu Bass, lông nghiêng 45° về phía nướu?
+> *(ngoài SGK)* Mảng bám đọng nhiều nhất ở **cổ răng, sát viền nướu và trong khe nướu**: đây là chỗ sinh sâu cổ răng và viêm nướu. Nghiêng lông 45° về phía nướu thì đầu lông **chui vào được khe nướu và kẽ răng**. **Rung ngắn tại chỗ** làm bung mảng bám mà không chà xước nướu, không làm mòn cổ răng như kiểu chải ngang mạnh tay.
+
+> [!WHY] Vì sao chlorhexidine phải cách chải răng 2 giờ?
+> *(ngoài SGK)* Chất tạo bọt trong kem đánh răng mang **điện âm**, còn chlorhexidine mang **điện dương**. Gặp nhau là chúng "trung hoà" lẫn nhau, chlorhexidine mất tác dụng. Chờ cho kem trôi hết thì chlorhexidine mới bám lên răng và phát huy được.
+
+> [!WHY] Vì sao SGK lo "mầm răng vĩnh viễn phía trước" bị nhiễm fluor?
+> *(ngoài SGK)* Trong mấy năm đầu đời, **men răng cửa vĩnh viễn đang được tạo** bên trong xương hàm. Trẻ nhỏ chưa biết nhổ nên **nuốt phần lớn kem**. Nuốt quá nhiều fluor đúng lúc này thì men tạo ra có **đốm trắng hoặc nâu** (nhiễm fluor răng), và vết này nằm luôn trên răng cửa khi mọc, ngay chỗ dễ thấy nhất. Khuyến cáo hiện nay xử lý bằng cách **giảm lượng kem** (bằng hạt gạo) chứ không bỏ hẳn fluor (xem hộp ⚖️ ngay dưới).
 
 > [!CAUTION] Hai cách hiểu – trẻ dưới 2 tuổi có dùng kem fluor không?
 > | SGK | Khuyến cáo hiện nay (AAPD, ADA, WHO) |
@@ -529,6 +636,17 @@ Xét nghiệm lại S. mutans trong 1–2 tháng -> +SM < 100.000 và LB < 100.0
 
 > [!NOTE]
 > **Fluor nồng độ thấp, liên tục** giống **tưới cây nhỏ giọt**: mỗi ngày một ít (kem đánh răng) giữ cho mặt men luôn có sẵn F để "vá" ngay mỗi khi acid tấn công → tốt hơn uống một liều rồi thôi.
+
+> [!WHY] Vì sao fluor nồng độ thấp, dùng hằng ngày lại hiệu quả?
+> *(ngoài SGK)* Fluor làm việc chủ yếu **ngay trên mặt răng, đúng lúc acid tấn công**. Khi trong nước bọt và mảng bám có sẵn F⁻ thì:
+> 1. men **mất khoáng ít hơn**;
+> 2. khi pH lên lại, khoáng **đắp vào nhanh hơn** và thành **fluorapatite** bền (mục 2.1);
+> 3. vi khuẩn **sinh acid yếu đi**.
+>
+> Nhưng F⁻ trong miệng **giảm dần sau vài giờ**, nên phải bổ sung **mỗi ngày, liều nhỏ** (kem đánh răng) mới giữ được "lính gác" thường trực. Vì vậy SGK nói chải kem fluor mỗi ngày từ khi răng mọc hiệu quả hơn uống thuốc fluor mỗi ngày từ lúc mới sinh.
+
+> [!WHY] Vì sao trám bít hố rãnh ngừa được sâu?
+> Sealant **lấp phẳng** khe rãnh: vi khuẩn không còn chỗ trú, mặt nhai phẳng nên bàn chải quét sạch được (SGK: dễ vệ sinh + cô lập hố rãnh, mục 1.3). *(ngoài SGK)* Vi khuẩn lỡ bị nhốt bên dưới sealant cũng **mất nguồn đường** từ thức ăn, không làm ra acid được nên dần yếu đi.
 
 > [!TIP]
 > - Fluor: **"1901"**; toàn thân = **Nước + Muối**; tại chỗ = **"Kem – Gel – Viên – Vecni"**.

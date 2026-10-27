@@ -4,3 +4,6 @@ desktop.ini
 .DS_Store
 ~$*
 __pycache__/
+
+# Cau hinh cuc bo cua Claude Code (vd. may chu xem thu trang web)
+.claude/
