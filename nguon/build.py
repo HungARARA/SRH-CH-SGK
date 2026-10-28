@@ -437,7 +437,7 @@ blockquote{margin:1em 0;padding:2px 14px;border-left:4px solid var(--line);color
 .flow{margin:1em 0;display:grid;gap:9px}.fr{display:flex;flex-wrap:wrap;align-items:center;gap:6px}
 .nd{background:var(--card);border:1.5px solid var(--line);border-radius:10px;padding:4px 10px;font-size:.93em;line-height:1.45}
 .nd.hot{border-color:var(--bad);background:var(--bad-b)}.nd.ok{border-color:var(--ok);background:var(--ok-b)}.ar{color:var(--mut);font-weight:700}
-figure{margin:1.2em 0}figure img{display:block;max-width:100%;margin:auto;border-radius:8px}
+figure{margin:1.2em 0}figure img{display:block;max-width:100%;max-height:85vh;margin:auto;border-radius:8px}
 figcaption{font-size:.88em;color:var(--mut);margin-top:6px}.miss{color:var(--bad)}
 .sc{overflow-x:auto}svg.dg{display:block;width:100%;height:auto;margin:auto}
 svg.dg text{fill:var(--fg);font-size:15px;font-family:inherit}svg.dg .s{font-size:13px}svg.dg .big{font-size:19px}svg.dg .b{font-weight:700}

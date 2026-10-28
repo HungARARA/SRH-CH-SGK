@@ -706,7 +706,7 @@ Bấm vào đáp án để biết đúng/sai ngay. Nhãn "Nhớ / Hiểu / Vận
 ### Phần A – Đại cương và bản chất (mục 0, 1.1)
 
 #### Nhớ · 0
-Theo SGK, *Streptococcus mutans* gây bệnh sâu răng ở giai đoạn nào?
+*Streptococcus mutans* gây bệnh sâu răng ở giai đoạn nào?
 - [x] Giai đoạn đầu
 - [ ] Giai đoạn giữa
 - [ ] Các giai đoạn sau
@@ -730,7 +730,7 @@ Phát biểu đúng về vai trò của sự tích tụ vi khuẩn trên mặt r
 > Nam 93,7% > Trung 91,6% > Bắc 83,7%; cả nước 84,9%.
 
 #### Nhớ · 0
-Kết quả điều tra về tỷ lệ sâu răng theo SGK:
+Về dịch tễ sâu răng ở Việt Nam, nhận định đúng:
 - [ ] Khác biệt giữa nam và nữ; không khác giữa nông thôn và thành thị
 - [x] Không khác biệt giữa nam và nữ; có khác biệt giữa nông thôn và thành thị
 - [ ] Khác biệt ở cả giới tính lẫn nơi ở
@@ -796,7 +796,7 @@ Loại đường có khả năng gây sâu răng cao nhất:
 > Carbohydrate tinh chế, đặc biệt **sucrose**, là chất vi khuẩn ưa thích: tạo ra cả **dextran** (keo dính) lẫn **acid**.
 
 #### Hiểu · 1.2.3
-Theo SGK, yếu tố được gọi là "tiên quyết" để có sâu răng là:
+Yếu tố tiên quyết để có sâu răng là:
 - [ ] Mảng bám vi khuẩn
 - [ ] Đường sucrose
 - [ ] Thời gian
@@ -820,7 +820,7 @@ Men răng mới mọc dễ bị sâu hơn chủ yếu vì:
 > **Carbonate → hydroxyl hoặc fluor** ⇒ men đề kháng acid hơn. Chiều ngược lại là sai.
 
 #### Nhớ · 1.2.3
-Yếu tố nào KHÔNG được SGK nêu là làm răng tăng nhạy cảm với sâu răng?
+Yếu tố nào KHÔNG làm răng tăng nhạy cảm với sâu răng?
 - [ ] Hố rãnh sâu, vùng tiếp xúc mặt bên rộng
 - [ ] Răng mọc chen chúc, lộn xộn trên cung hàm
 - [ ] Răng mới mọc, men còn nhiều carbonate
@@ -830,7 +830,7 @@ Yếu tố nào KHÔNG được SGK nêu là làm răng tăng nhạy cảm với
 ### Phần C – Yếu tố cân bằng (mục 1.3)
 
 #### Nhớ · 1.3
-Thành phần giúp nước bọt có khả năng đệm, giữ pH miệng ổn định (theo SGK):
+Thành phần giúp nước bọt có khả năng đệm, giữ pH miệng ổn định là:
 - [x] Bicarbonate
 - [ ] Fluoride
 - [ ] Dextran
@@ -838,7 +838,7 @@ Thành phần giúp nước bọt có khả năng đệm, giữ pH miệng ổn 
 > Nước bọt đệm nhờ **bicarbonate** và khả năng tiết; còn fluoride, calcium, phosphate trong nước bọt thì giúp **tái khoáng**.
 
 #### Nhớ · 1.3
-4 yếu tố cân bằng sâu răng theo SGK gồm: chải răng, nước bọt, trám bít hố rãnh (sealant) và:
+Bốn yếu tố cân bằng (bảo vệ) trong bệnh sâu răng gồm chải răng, nước bọt, trám bít hố rãnh (sealant) và:
 - [ ] Khám răng định kỳ 6 tháng/lần
 - [x] Ý thức của mỗi người trong thói quen ăn uống
 - [ ] Uống viên fluor mỗi ngày
@@ -872,7 +872,7 @@ Vì sao sang thương ở bề mặt men dễ hồi phục hơn?
 > Khoáng trong nước bọt (F, Ca, P) tái khoáng bề mặt men thành **fluorapatite** kháng acid (tan khi pH < 4,5) → bề mặt men cứng chắc trở lại.
 
 #### Nhớ · 2.1
-Đặc điểm sang thương sâu men theo SGK Bài 1:
+Đặc điểm sang thương sâu men ở hố rãnh:
 - [x] Lan theo hướng trụ men; xoang hình nón, đáy ở đường nối men–ngà, đỉnh ở mặt men
 - [ ] Lan theo đường nối men–ngà; xoang hình nón, đáy ở mặt men, đỉnh hướng tủy
 - [ ] Lan theo hướng trụ men; xoang hình nón, đáy ở mặt men, đỉnh ở đường nối men–ngà
@@ -880,7 +880,7 @@ Vì sao sang thương ở bề mặt men dễ hồi phục hơn?
 > Bài 1: sâu men lan **theo trụ men**, nón **đáy ở ĐNMN, đỉnh ở mặt men** (đúng với hố rãnh). Kiểu "đáy ở mặt men" là sâu **mặt nhẵn** – học ở Bài 3.
 
 #### Hiểu · 2.1
-Theo SGK, vì sao xoang sâu men thường bị bỏ sót khi khám?
+Vì sao xoang sâu men thường bị bỏ sót khi khám?
 - [ ] Vì sâu men không làm đổi màu răng
 - [ ] Vì sâu men chỉ thấy được trên phim X-quang
 - [x] Vì đỉnh nón nằm ở mặt men nên đường vào nhỏ, khó phát hiện
@@ -888,7 +888,7 @@ Theo SGK, vì sao xoang sâu men thường bị bỏ sót khi khám?
 > "Cửa nhỏ – nhà to": đỉnh nón ở mặt men (lỗ vào bé), đáy toả rộng ở ĐNMN → **đường vào nhỏ, khó phát hiện**.
 
 #### Vận dụng · 2.1
-Trẻ 7 tuổi có vài đốm trắng đục mới chớm ở mặt ngoài răng cửa, chưa có lỗ. Xử trí phù hợp theo SGK:
+Trẻ 7 tuổi có vài đốm trắng đục mới chớm ở mặt ngoài răng cửa, chưa có lỗ. Xử trí phù hợp:
 - [ ] Mài bỏ phần men đục rồi trám composite
 - [x] Không can thiệp; tăng cường yếu tố đề kháng và giảm yếu tố nguy cơ
 - [ ] Không cần làm gì vì sâu men luôn tự khỏi
@@ -938,7 +938,7 @@ Trình tự đúng của quá trình sâu ngà:
 > Lớp trong **có cảm giác – nhạy cảm**. "Không có cảm giác" là đặc điểm của lớp **ngoài** (ngà nhiễm trùng – mô chết).
 
 #### Vận dụng · 2.2.3
-Khi nạo xoang sâu ngà: lớp ngoài mềm, ướt, nhiều vi khuẩn, nạo không đau; bên dưới là lớp chắc hơn, đổi màu, chạm thấy ê. Xử trí đúng theo SGK:
+Khi nạo xoang sâu ngà: lớp ngoài mềm, ướt, nhiều vi khuẩn, nạo không đau; bên dưới là lớp chắc hơn, đổi màu, chạm thấy ê. Xử trí đúng:
 - [x] Lấy lớp ngoài, giữ lại lớp bên dưới
 - [ ] Lấy cả hai lớp tới khi gặp ngà trắng bình thường
 - [ ] Giữ cả hai lớp rồi trám kín để tái khoáng
@@ -962,7 +962,7 @@ Yếu tố cần cho sự tái khoáng của lớp ngà bị sâu bên trong –
 > Sâu ngà lan **theo ĐNMN** → nón **đáy ở ĐNMN, đỉnh về tủy**. Hai nón men và ngà **chung đáy** ở ĐNMN.
 
 #### Hiểu · 2.2.3
-Theo SGK (Hình 1.3), một sang thương sâu ngà hoạt động được kiểm soát mảng bám và chải kem có fluor sẽ:
+Một sang thương sâu ngà đang hoạt động, nếu được kiểm soát mảng bám và chải kem có fluor, sẽ:
 - [x] Hết nhạy cảm nóng, lạnh, ngọt sau 2–3 tuần; cứng khi thăm dò sau 4 tháng
 - [ ] Hết nhạy cảm sau 2–3 ngày; cứng sau 4 tuần
 - [ ] Vẫn tiến triển, bắt buộc phải điều trị tủy
@@ -980,7 +980,7 @@ Trả lời câu hỏi "cá nhân có khuynh hướng phát triển bệnh sâu 
 > **Xác định nguy cơ** = trả lời "cá nhân có khuynh hướng phát triển bệnh không"; vì sâu răng đa yếu tố nên đánh giá ký chủ (nước bọt, fluor), vi khuẩn (*S. mutans*), chế độ ăn.
 
 #### Hiểu · 3
-Hạn chế của các phương pháp chẩn đoán cổ điển theo SGK:
+Hạn chế của các phương pháp chẩn đoán sâu răng cổ điển:
 - [ ] Không phát hiện được lỗ sâu
 - [ ] Bắt buộc phải chụp phim
 - [ ] Chỉ dùng được cho răng vĩnh viễn
@@ -988,7 +988,7 @@ Hạn chế của các phương pháp chẩn đoán cổ điển theo SGK:
 > Ngày nay chẩn đoán **không đồng nghĩa** với chỉ phát hiện, ghi nhận lỗ sâu; phải đánh giá thêm **nguy cơ** và **hoạt động**.
 
 #### Nhớ · 3
-Ba nhóm chẩn đoán sâu răng theo SGK:
+Ba nhóm chẩn đoán sâu răng gồm:
 - [ ] Sâu men – sâu ngà – sâu tủy
 - [ ] Nguy cơ thấp – trung bình – cao
 - [x] Sâu răng nghi ngờ – sâu răng khởi phát (đốm trắng đục) – lỗ sâu thực sự
@@ -996,15 +996,15 @@ Ba nhóm chẩn đoán sâu răng theo SGK:
 > **"Ngờ – Chớm – Lỗ"**. "Thấp – trung bình – cao" là xếp loại **nguy cơ**, không phải 3 nhóm chẩn đoán.
 
 #### Nhớ · 3
-Khi đánh giá nguy cơ, xét nghiệm vi khuẩn mà mục Chẩn đoán của SGK nêu là xét nghiệm:
-- [ ] *Lactobacillus*
+Khi xác định nguy cơ sâu răng, yếu tố vi khuẩn được đánh giá bằng xét nghiệm:
+- [ ] *Porphyromonas gingivalis*
 - [x] *Streptococcus mutans*
 - [ ] *Actinomyces*
 - [ ] *Candida albicans*
-> Mục 3: "đánh giá vi khuẩn: xét nghiệm **Streptococcus mutans**". (Ngưỡng nguy cơ cao thì dùng cả SM và LB – mục 5.)
+> Mục 3: "đánh giá vi khuẩn: xét nghiệm **Streptococcus mutans**". (Ngưỡng nguy cơ cao thì dùng cả SM và LB – mục 5.) *(ngoài SGK)* *P. gingivalis* là vi khuẩn của bệnh nha chu, *Candida* là nấm.
 
 #### Hiểu · 4
-Theo SGK, tủy răng khi viêm dễ bị hoại tử chủ yếu vì:
+Tủy răng khi viêm dễ bị hoại tử chủ yếu vì:
 - [ ] Tủy không có mạch máu nuôi
 - [x] Tủy bị giới hạn trong thành ngà cứng, mạch máu vào răng qua lỗ chóp nhỏ hẹp
 - [ ] Tủy không có tế bào miễn dịch
@@ -1012,7 +1012,7 @@ Theo SGK, tủy răng khi viêm dễ bị hoại tử chủ yếu vì:
 > "Phòng kín, cửa nhỏ": tủy nằm trong **bức tường khoáng hoá chắc chắn (ngà)**, máu từ **vi mạch qua lỗ chóp nhỏ hẹp** → viêm phù không có chỗ giãn → dễ hoại tử.
 
 #### Nhớ · 4
-Biến chứng nào KHÔNG được SGK nêu khi sâu răng không được điều trị đúng và kịp thời?
+Biến chứng nào KHÔNG phải là biến chứng của sâu răng không được điều trị đúng và kịp thời?
 - [ ] Viêm mô tế bào, viêm xương
 - [ ] Nhiễm khuẩn huyết
 - [ ] Nhiễm khuẩn lan tới khớp, tim, màng não
@@ -1020,7 +1020,7 @@ Biến chứng nào KHÔNG được SGK nêu khi sâu răng không được đi�
 > Tủy → quanh chóp (áp xe) → mất răng; nặng hơn: **viêm mô tế bào, viêm xương, nhiễm khuẩn huyết**; lan xa **khớp, tim, màng não** → có thể tử vong.
 
 #### Hiểu · 4
-Phát biểu đúng theo SGK về sâu ngà:
+Phát biểu đúng về sâu ngà:
 - [ ] Sâu ngà chỉ cần theo dõi vì sẽ tự tái khoáng
 - [ ] Sâu ngà phải điều trị tủy ngay để tránh biến chứng
 - [x] Sâu ngà bắt buộc điều trị bảo tồn; nếu kiểm soát đủ các yếu tố, vùng sâu ngà rộng vẫn có thể tái khoáng bên dưới
@@ -1062,7 +1062,7 @@ Yếu tố cá nhân xác định nguy cơ sâu răng cao ở NGƯỜI TRẺ:
 > Người trẻ: sâu răng thấy trên lâm sàng · tiến triển **trong 6 tháng tới 1/3 ngoài ngà** · ≥ 2 tổn thương trước khi khám · mất khoáng mặt nhẵn + thấu quang mặt kế bên. Các lựa chọn còn lại là của **người lớn**.
 
 #### Nhớ · 5
-Yếu tố nguy cơ sâu răng cao ở NGƯỜI LỚN theo SGK – NGOẠI TRỪ:
+Yếu tố nguy cơ sâu răng cao ở NGƯỜI LỚN, NGOẠI TRỪ:
 - [ ] Nhiều miếng trám hở
 - [ ] Tụt nướu
 - [ ] Có tiền căn sâu chân răng
@@ -1070,7 +1070,7 @@ Yếu tố nguy cơ sâu răng cao ở NGƯỜI LỚN theo SGK – NGOẠI TRỪ
 > Người lớn: ≥ 2 tổn thương trong nhiều năm · **trám hở** · **mất khoáng cổ răng** · thấu quang mặt kế cận · **tụt nướu** · **tiền căn sâu chân răng**. "6 tháng – 1/3 ngoài ngà" là của **người trẻ**.
 
 #### Vận dụng · 5
-Bệnh nhân 24 tuổi đang chỉnh nha, có 3 đốm trắng mới; xét nghiệm *S. mutans* 450.000 CFU/mL. Việc làm ĐẦU TIÊN theo phác đồ SGK:
+Bệnh nhân 24 tuổi đang chỉnh nha, có 3 đốm trắng mới; xét nghiệm *S. mutans* 450.000 CFU/mL. Việc làm ĐẦU TIÊN trong phác đồ điều trị là:
 - [x] Súc chlorhexidine 15 mL trong 30 giây trước khi ngủ, 2–4 tuần
 - [ ] Trám composite ngay các đốm trắng
 - [ ] Súc fluor 0,5% trước khi ngủ 6 tháng, sau đó mới dùng chlorhexidine
@@ -1078,7 +1078,7 @@ Bệnh nhân 24 tuổi đang chỉnh nha, có 3 đốm trắng mới; xét nghi�
 > Có sang thương mới chớm/lỗ sâu → **đầu tiên hạ SM < 100.000**: chlorhexidine **15 mL – 30 giây – trước khi ngủ – 2–4 tuần** (+ xylitol, giảm đường, vệ sinh). Fluor 0,5% dùng **sau khi ngưng** chlorhexidine. Đang chỉnh nha cũng là yếu tố nguy cơ cao.
 
 #### Nhớ · 5
-Sau khi ngưng súc chlorhexidine, phác đồ SGK hướng dẫn tiếp:
+Trong phác đồ cho người có nguy cơ sâu răng cao, sau khi ngưng súc chlorhexidine thì tiếp tục:
 - [ ] Súc nước muối sinh lý trong 6 tháng
 - [ ] Ngưng mọi loại nước súc miệng
 - [ ] Súc fluor 0,5% sau mỗi bữa ăn trong 2 tuần
@@ -1102,7 +1102,7 @@ Cách dùng kẹo cao su xylitol trong phác đồ hạ *S. mutans*:
 > SGK: "2 thỏi/5 lần/mỗi ngày, nhất là sau bữa ăn" → **"2 × 5"**. Đề hay đảo thành "5 × 2".
 
 #### Nhớ · 5
-Vật liệu SGK nêu để che tủy:
+Vật liệu dùng để che tủy là:
 - [ ] Glass ionomer cement
 - [ ] Polycarboxylate cement
 - [ ] Compomer
@@ -1128,7 +1128,7 @@ Trong phác đồ hạ *S. mutans*, cần kiểm tra lại xét nghiệm SM tron
 ### Phần H – Phòng ngừa (mục 6)
 
 #### Nhớ · 6.1
-Mục đích của phòng ngừa sâu răng theo SGK:
+Mục đích của phòng ngừa sâu răng:
 - [x] Dùng mọi biện pháp cần thiết làm xáo trộn các yếu tố gây bệnh, nhằm đạt và duy trì sức khoẻ của răng
 - [ ] Trám bít toàn bộ hố rãnh cho mọi người
 - [ ] Tiêu diệt hoàn toàn vi khuẩn trong miệng
@@ -1136,7 +1136,7 @@ Mục đích của phòng ngừa sâu răng theo SGK:
 > Làm **xáo trộn các yếu tố gây bệnh** để **đạt và duy trì** tình trạng sức khoẻ của răng.
 
 #### Hiểu · 6.2
-Ba nguyên tắc phòng ngừa sâu răng theo SGK:
+Ba nguyên tắc phòng ngừa sâu răng:
 - [x] Giảm số lượng vi khuẩn – giảm carbohydrate – tăng sức đề kháng của răng
 - [ ] Chải răng – dùng chỉ nha khoa – súc miệng
 - [ ] Phát hiện sớm – điều trị sớm – phục hồi chức năng
@@ -1144,7 +1144,7 @@ Ba nguyên tắc phòng ngừa sâu răng theo SGK:
 > 3 nguyên tắc = đánh vào **3 vòng Keyes**: vi khuẩn (giảm vi khuẩn) – thức ăn (giảm carbohydrate) – răng (tăng đề kháng).
 
 #### Hiểu · 6.3.1
-Theo SGK, vì sao trẻ từ sơ sinh đến 2 tuổi không nên dùng kem đánh răng có fluor?
+Vì sao trẻ từ sơ sinh đến 2 tuổi không nên dùng kem đánh răng có fluor?
 - [ ] Vì răng sữa không cần fluor
 - [ ] Vì fluor làm chậm mọc răng
 - [x] Vì trẻ có thể nuốt phần lớn kem, mầm răng vĩnh viễn phía trước có thể nhiễm fluor
@@ -1152,7 +1152,7 @@ Theo SGK, vì sao trẻ từ sơ sinh đến 2 tuổi không nên dùng kem đá
 > Trẻ nuốt kem → **mầm răng vĩnh viễn phía trước** có thể nhiễm fluor; trẻ đã nhận đủ fluor qua thực phẩm, nước uống. (Khuyến cáo hiện nay khác – xem hộp ⚖️ ở mục 6.3.1.)
 
 #### Nhớ · 6.3.1
-Theo SGK, chải răng làm sạch được … mặt răng; phần còn lại cần chỉ tơ nha khoa, dùng ít nhất …
+Chải răng làm sạch được … mặt răng; phần còn lại cần chỉ tơ nha khoa, dùng ít nhất …
 - [x] 3 trong 5 mặt – 1 lần/ngày
 - [ ] 4 trong 5 mặt – 1 lần/ngày
 - [ ] 3 trong 5 mặt – 1 lần/tuần
@@ -1160,7 +1160,7 @@ Theo SGK, chải răng làm sạch được … mặt răng; phần còn lại c
 > Bàn chải sạch **3/5 mặt** (ngoài, trong, nhai); **2 mặt kẽ** cần chỉ nha khoa, **ít nhất 1 lần/ngày**.
 
 #### Hiểu · 6.3.1
-Cơ chế chống sâu răng của việc nhai kẹo cao su không đường (SGK):
+Cơ chế chống sâu răng của việc nhai kẹo cao su không đường:
 - [ ] Làm sạch cơ học, có thể thay hoàn toàn bàn chải
 - [ ] Diệt khuẩn trực tiếp như chlorhexidine
 - [ ] Tạo lớp phủ bít kín hố rãnh
@@ -1168,7 +1168,7 @@ Cơ chế chống sâu răng của việc nhai kẹo cao su không đường (SG
 > 2 cơ chế: **chở tác nhân chống sâu (F)** + **kích thích tiết nước bọt, tăng đệm** → giúp tái khoáng men.
 
 #### Nhớ · 6.3.1
-Bệnh nhân sâu răng trầm trọng, fluor chưa đủ hiệu quả, được kết hợp thêm chlorhexidine. Theo SGK phần phòng ngừa, nên dùng chlorhexidine:
+Bệnh nhân sâu răng trầm trọng, fluor chưa đủ hiệu quả, được kết hợp thêm chlorhexidine. Nên dùng chlorhexidine:
 - [ ] Ngay trước khi chải răng
 - [x] Sau khi chải răng 2 giờ
 - [ ] Ngay sau khi chải răng
@@ -1176,7 +1176,7 @@ Bệnh nhân sâu răng trầm trọng, fluor chưa đủ hiệu quả, được
 > Dùng chlorhexidine **sau chải răng 2 giờ** để phát huy tối đa hiệu quả (chất tạo bọt trong kem làm giảm tác dụng chlorhexidine – giải thích thêm ngoài SGK).
 
 #### Nhớ · 6.3.1
-Bệnh nhân tụt nướu do bệnh nha chu, kẽ giữa chân răng rộng hơn bình thường. SGK khuyên làm sạch kẽ bằng:
+Bệnh nhân tụt nướu do bệnh nha chu, kẽ giữa chân răng rộng hơn bình thường. Nên làm sạch kẽ bằng:
 - [ ] Chỉ nha khoa loại dày
 - [ ] Tăm tre
 - [x] Bàn chải kẽ răng thay cho chỉ nha khoa
@@ -1184,7 +1184,7 @@ Bệnh nhân tụt nướu do bệnh nha chu, kẽ giữa chân răng rộng hơ
 > Tụt nướu → kẽ rộng → **bàn chải kẽ** thay cho chỉ nha khoa.
 
 #### Nhớ · 6.3.1
-Trong kỹ thuật chải răng ở Hình 1.8 (kỹ thuật Bass), đầu lông bàn chải được đặt:
+Trong kỹ thuật chải răng Bass, đầu lông bàn chải được đặt:
 - [x] Nghiêng 45° về phía nướu, rung ngắn để đầu lông vào khe nướu và vùng kẽ
 - [ ] Vuông góc với mặt răng, chải ngang mạnh
 - [ ] Nghiêng 45° về phía mặt nhai, chải xoay tròn
@@ -1192,7 +1192,7 @@ Trong kỹ thuật chải răng ở Hình 1.8 (kỹ thuật Bass), đầu lông 
 > Lông **45° hướng về nướu**, **rung ngắn**, vài giây mỗi vị trí rồi dời sang răng kế (giữ nguyên hướng lông).
 
 #### Nhớ · 6.3.2
-Thức ăn SGK khuyên dùng vì giúp chải sạch răng khi ăn, nhai:
+Loại thức ăn nên dùng vì giúp làm sạch răng khi ăn, nhai:
 - [ ] Bánh mì, bánh quy
 - [ ] Sữa, sữa chua
 - [ ] Kẹo dẻo không đường
@@ -1200,7 +1200,7 @@ Thức ăn SGK khuyên dùng vì giúp chải sạch răng khi ăn, nhai:
 > Thức ăn **nhiều chất xơ**: **mía, thơm, củ sắn** (có cả ở mục 6.2 và 6.3.2).
 
 #### Vận dụng · 6.3.2
-Một người rất thích bánh ngọt. Lời khuyên đúng theo SGK:
+Một người rất thích bánh ngọt. Lời khuyên đúng:
 - [ ] Ăn bánh vào buổi tối trước khi ngủ cho đỡ đói
 - [x] Ăn sau bữa chính, rồi chải răng hoặc súc miệng sạch ngay sau khi ăn
 - [ ] Chia nhỏ bánh, ăn rải rác trong ngày
@@ -1216,7 +1216,7 @@ Fluor được chứng minh có hiệu quả phòng ngừa sâu răng vào năm:
 > SGK: năm **1901**.
 
 #### Nhớ · 6.3.3
-Hình thức sử dụng fluor TOÀN THÂN theo SGK:
+Hình thức sử dụng fluor TOÀN THÂN là:
 - [x] Fluor trong nước, muối fluor
 - [ ] Vecni fluor
 - [ ] Gel fluor
@@ -1224,7 +1224,7 @@ Hình thức sử dụng fluor TOÀN THÂN theo SGK:
 > Toàn thân: **nước, muối**. Tại chỗ: kem đánh răng, gel, viên, vecni fluor.
 
 #### Hiểu · 6.3.3
-Theo SGK, cách dùng fluor hiệu quả hơn là:
+Cách dùng fluor hiệu quả hơn là:
 - [ ] Uống thuốc fluor mỗi ngày từ lúc mới sinh
 - [ ] Bôi gel fluor nồng độ cao 1 lần mỗi năm
 - [ ] Chỉ dùng fluor khi đã có lỗ sâu
@@ -1232,7 +1232,7 @@ Theo SGK, cách dùng fluor hiệu quả hơn là:
 > Fluor **nồng độ thấp, liên tục**: kem đánh răng mỗi ngày từ khi răng mọc **hiệu quả hơn** uống fluor mỗi ngày từ lúc mới sinh.
 
 #### Nhớ · 6.3.3
-Theo SGK, trám bít hố rãnh được khuyên cho:
+Trám bít hố rãnh được chỉ định cho:
 - [ ] Mọi răng sữa của trẻ dưới 6 tuổi
 - [x] Răng có hố rãnh sâu và người có nguy cơ sâu răng trung bình hoặc cao
 - [ ] Chỉ răng đã có lỗ sâu ngà
@@ -1240,7 +1240,7 @@ Theo SGK, trám bít hố rãnh được khuyên cho:
 > Hố rãnh mặt nhai răng sau là nơi **yếu nhất, dễ sâu nhất**; trám bít cho răng có **hố rãnh sâu** và người nguy cơ **trung bình hoặc cao**.
 
 #### Nhớ · 6.3.3
-Khám răng định kỳ theo SGK Bài 1:
+Để kiểm soát vệ sinh và phát hiện sâu răng sớm, nên khám răng định kỳ:
 - [ ] 3 tháng/lần
 - [ ] 1 năm/lần
 - [x] 6 tháng/lần

@@ -31,8 +31,9 @@ Desktop/RHM 49/Kì 1 2026/SRH CH SGK/   (repo GitHub HungARARA/SRH-CH-SGK)
 ├── Bài N - <tên bài>.html         ← FILE ĐỂ HỌC (mở file này)
 └── nguon/
     ├── build.py                   ← script dựng .md → .html (dùng chung mọi bài)
+    ├── cat_hinh.py                ← cắt hình từ SGK bản chụp (xem mục 5 bước 4)
     ├── Bài N.md                   ← nội dung; sửa ở đây rồi dựng lại
-    └── hinh/bN-h<số hình>.png     ← hình cắt từ SGK (có trong repo; được nhúng sẵn vào .html)
+    └── hinh/bN-h<số hình>.jpg     ← hình cắt từ SGK (Bài 1: .png lấy từ file Word)
 ```
 
 ## 4. Nguồn tài liệu
@@ -53,7 +54,7 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
 | Bài | Tên | Trang | Trạng thái |
 |---|---|---|---|
 | 1 | Quan niệm mới trong chẩn đoán và điều trị bệnh sâu răng | 1–16 | ✅ xong (66 câu, 25 hộp 🔍) |
-| 2 | Quá trình mất khoáng và tái khoáng mô cứng | 17–31 | ⏳ |
+| 2 | Quá trình mất khoáng và tái khoáng mô cứng | 17–31 | ✅ xong (50 câu, 34 hộp 🔍, 9 hình SGK) |
 | 3 | Chẩn đoán bệnh sâu răng | 32–47 | ⏳ |
 | 4 | Điều trị và phòng ngừa bệnh sâu răng | 48–92 | ⏳ (dài, nên chia 2 ngày) |
 | 5 | Phân loại xoang sâu răng | 94–108 | ⏳ |
@@ -72,7 +73,16 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
    (`d[...]` đếm từ 0, nên trang sách S nằm ở `d[S+1]`.)
 2. **Lập danh sách "ý thi được"**: mọi định nghĩa, con số, danh sách (đếm đủ số ý), so sánh, cơ chế, chỉ định – chống chỉ định, thứ tự các bước, chú thích hình. Mỗi ý phải có trong bài viết **và** có ít nhất 1 câu trắc nghiệm.
 3. **Xem nhanh đề cũ** (tìm theo từ khoá trong `Đề thi Sâu Răng Học RHM/nguon/`) chỉ để biết độ sâu câu hỏi. **Không** ghi "khoá nào đã ra" vào bài.
-4. **Cắt hình SGK** cần dùng vào `nguon/hinh/` (ảnh lâm sàng, hình minh hoạ kỹ thuật). Sơ đồ khái niệm thì tự vẽ (SVG) cho rõ hơn ảnh chụp sách.
+4. **Hình** (người dùng chốt ngày 28/10/2026): xét từng hình SGK, chỉ lấy hình **thật sự giúp hiểu**.
+   - **Cắt từ SGK** khi hình rõ và cho thấy điều chữ không tả hết: ảnh lâm sàng, biểu đồ số liệu, sơ đồ SGK có nhãn rõ. Dùng `nguon/cat_hinh.py`:
+     ```bash
+     "C:/Users/1/AppData/Local/Programs/Python/Python313/python.exe" -I nguon/cat_hinh.py --luoi 23 40 370 420 590
+     ```
+     Lệnh trên xuất ảnh trang sách 23 có lưới toạ độ để dò khung. Khai khung vào `HINH` trong script, rồi chạy `cat_hinh.py <tên>`. Ảnh ra ở `nguon/hinh/bN-hN-x.jpg`.
+   - **Vẽ lại bằng SVG** khi hình SGK nhỏ, mờ, khó đọc (ảnh hiển vi, biểu đồ 3D), hoặc khi cần thêm cơ chế hay mốc số mà hình SGK không có.
+   - Chỗ SGK có hình thì **ưu tiên hình** (hình SGK hoặc sơ đồ vẽ), không thay bằng bảng, flow hay biểu đồ mô phỏng.
+   - Không để hai hình trùng ý. Đã có hình SGK thì bỏ bản vẽ lại giống nó.
+   - Chú thích viết bằng lời mình, nói **cách đọc hình** (cột nào, đường nào, số nào nghĩa là gì), không chép nguyên chú thích SGK.
 5. **Viết `nguon/Bài N.md`** theo khung ở mục 6 và quy tắc ở mục 7–8.
 6. **Dựng file** (chạy trong thư mục `SRH CH SGK`):
    ```bash
@@ -98,6 +108,7 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
 
 - Giọng **cầm tay chỉ việc**: câu ngắn, nói như giảng cho bạn cùng lớp. Thuật ngữ khó giải nghĩa ngay lần đầu gặp (ví dụ: *mất khoáng = acid rút calcium, phosphate ra khỏi men*).
 - Mỗi khái niệm trừu tượng đi kèm một ví dụ đời thường (quả táo dập, bức tường gạch, căn phòng kín…).
+- Phần **📖 SGK ghi**: đủ ý, **đúng thuật ngữ và con số** SGK, nhưng câu thì viết gọn lại bằng lời của mình, không chép nguyên đoạn sách.
 - **Không bịa.** Ý nào không có trong SGK thì ghi rõ *(ngoài SGK)*. Con số giữ đúng SGK, kể cả khi khác tài liệu khác; khi đó dùng hộp ⚖️ *Hai cách hiểu*: bảng SGK ↔ hiện nay, ghi rõ **"Thi chọn SGK"** và chữ nào trong đề cho biết người ra đề theo hướng nào.
 - Hộp 🔍 **Vì sao…?**: tiêu đề chính là câu hỏi "vì sao" gắn với một ý SGK (con số, danh sách, chỉ định, bẫy đề). Trả lời bằng cơ chế + hình ảnh đời thường, 2–6 dòng. Ý nào quan trọng mà có cơ chế để giải thích thì có một hộp (Bài 1 có 25 hộp). Không tô vàng trong hộp này vì đây không phải chữ để thuộc. Phần không có trong SGK ghi *(ngoài SGK)*; cơ chế lấy từ bài khác của SGK thì ghi bài và trang. Không dùng ý ngoài SGK làm đáp án trắc nghiệm.
 - Không nhắc "khoá Kxx đã ra" trong bài (đề máy là đề mới).
@@ -107,6 +118,7 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
 
 - Trắc nghiệm là **phần phụ**, làm sau khi phần kiến thức đã xong và đủ. Mục đích: tự kiểm tra đã hiểu, đã nhớ từng ý chưa.
 - 4 lựa chọn, 1 đáp án đúng. Mỗi mục SGK có ít nhất 1–2 câu; con số quan trọng có câu hỏi.
+- Đề và lựa chọn viết **như đề thi thật**: không ghi "Theo SGK", "theo Hình 2.x", "theo Bảng…", "(mục 4)", "theo Bài N". Câu nào cần nói rõ phạm vi để chỉ có một đáp án đúng thì nói bằng nội dung (ví dụ "ở hố rãnh", "ở người lớn", "trong phác đồ nguy cơ cao"), không nói bằng nguồn. Nguồn (mục, hình, trang) chỉ để ở nhãn câu và phần giải thích.
 - Số câu: **30–50 câu/bài** (bài dài như Bài 4, Bài 8 tối đa khoảng 70). Bài 1 là bản đầu nên có 66 câu.
 - Mức độ: ưu tiên câu kiểm tra **hiểu** – khoảng 40% **Nhớ** (đúng chữ SGK), 40% **Hiểu** (vì sao, so sánh), 20% **Vận dụng** (tình huống 2–3 dòng).
 - Câu lượng giá cuối bài SGK đưa vào nguyên thứ tự lựa chọn gốc, nhãn `Lượng giá SGK câu n`, đáp án lấy theo SGK tr. 198.
@@ -121,12 +133,12 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
 | đầu file `---` với `title:` `short:` `sgk:` `out:` `---` | tiêu đề trang, dòng phụ, tên file `.html` |
 | `## 1. Tên mục`, `### 1.2. …`, `#### 1.2.1. …` | mục có id theo số mục: `1.2.1` → `#m1-2-1` (dùng để link) |
 | `==từ khoá==` | tô vàng; bật "Che từ khoá" thì bị che, bấm để hiện |
-| `**đậm**`, `*nghiêng*`, `[chữ](#m6-2)` | in đậm, in nghiêng, link về mục |
+| `**đậm**`, `*nghiêng*`, `[chữ](#m6-2)` | in đậm, in nghiêng, link về mục (in nghiêng chỉ dùng `*…*`; `_…_` sẽ hiện nguyên dấu gạch dưới) |
 | `> [!NOTE]` / `[!TIP]` / `[!IMPORTANT]` / `[!WARNING]` / `[!CAUTION]` / `[!WHY]` | hộp 💡 Hiểu nhanh / 🧠 Mẹo nhớ / 📌 Lưu ý / ⚠️ Đề hay gài / ⚖️ Hai cách hiểu / 🔍 Vì sao. Chữ viết sau `]` thay cho tiêu đề mặc định (hộp 🔍 thì viết luôn câu hỏi, ví dụ `> [!WHY] Vì sao tủy viêm lại dễ chết?`). Nội dung hộp viết ở các dòng `>` tiếp theo (có thể có bảng, danh sách). |
 | khối ` ```flow `: mỗi dòng `A -> B -> C`; ô bắt đầu bằng `!` = đỏ, `+` = xanh | sơ đồ ô – mũi tên, tự xuống dòng trên điện thoại |
 | khối ` ```ph `: dòng `6-14` (giờ), mỗi dòng `Nhãn \| 7:00 12:00`, dòng `caption: …` | biểu đồ pH mảng bám theo giờ ăn, tự tính số phút dưới pH 5,5 |
 | `<figure>` … `<svg class="dg" style="max-width:520px" viewBox="0 0 440 …">` … `</figure>` | sơ đồ vẽ tay. Rộng viewBox khoảng 440–450 để chữ đọc được trên điện thoại. Lớp màu có sẵn: `c1 c2 c3` (vòng tròn xanh dương / cam / xanh lá), `en de pu` (men / ngà / tủy), `inf aff le` (ngà nhiễm trùng / ngà bị ảnh hưởng / sang thương men), `k d ld rl` (nét thường / nét chấm / đường dẫn / vạch đỏ), chữ `b m r s big` (đậm / mờ / đỏ / nhỏ / to) |
-| `![chú thích](hinh/bN-h1-2.png)` | hình nhúng thẳng vào `.html` (tự thu nhỏ, nén JPEG) |
+| `![Hình N.x (SGK) – chú thích](hinh/bN-hN-x.jpg)` (cả hình nằm trên một dòng) | hình nhúng thẳng vào `.html` (tự thu nhỏ còn rộng tối đa 1000 px, nén JPEG; hiện cao tối đa 85% màn hình) |
 | `## Trắc nghiệm …` rồi mỗi câu: `#### Nhớ · 1.2` + dòng đề + 4 dòng `- [ ]` / `- [x]` + dòng `> giải thích` | câu bấm được, tự đánh số, nhãn link về mục 1.2 |
 | *(tự động)* | mỗi lần chạy, `build.py` dựng lại `index.html` (trang chủ web): đủ 10 bài, bài đã có `.html` thì có link và số câu. Tên và trang của 10 bài nằm ở danh sách `BAI` trong `build.py`. |
 
@@ -134,6 +146,7 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
 
 - [ ] Script không báo lỗi: link hỏng, hình thiếu, câu thiếu/thừa đáp án; phân bố A/B/C/D đều.
 - [ ] Đối chiếu lại SGK: danh sách "ý thi được" ở bước 2 đều có mặt trong bài và trong trắc nghiệm.
+- [ ] Hình SGK: không cắt lẹm chữ hay nhãn, không dính chú thích SGK; hình nào cũng có lý do để có mặt và không trùng ý với hình khác.
 - [ ] Mở `.html`: sơ đồ đọc được; bấm thử đáp án, "Che từ khoá", "Chỉ xem câu sai", "Làm lại"; xem ở bề ngang điện thoại (khoảng 375px) không vỡ khung.
 - [ ] Mở `index.html`: bài mới đã có link. Sau khi push, mở trang web kiểm tra lại.
 - [ ] Cập nhật bảng bài ở mục 4.
