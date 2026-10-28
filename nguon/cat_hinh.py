@@ -19,9 +19,10 @@ from PIL import Image, ImageDraw, ImageFilter
 HERE = os.path.dirname(os.path.abspath(__file__))
 PDF = 'C:/Users/1/Desktop/Local HỌC TẬP Y KHOA VÀ FILE/Sâu Răng Học/Giáo Trình Sâu Răng Học Bản Chụp Tay Scan.pdf'
 
-# tên file: (trang sách, x0, y0, x1, y1, kiểu)
+# tên file: (trang sách, x0, y0, x1, y1, kiểu[, vùng tô trắng])
 # kiểu 'l' = hình vẽ, biểu đồ: đẩy nền trắng mạnh, xoá chữ trang sau in thấm qua
 # kiểu 'p' = ảnh chụp, hình có chữ trên nền màu: làm trắng nhẹ tay
+# vùng tô trắng = danh sách (x0, y0, x1, y1) cùng hệ toạ độ trang, để xoá chữ in thấm ở khoảng trống giữa các ảnh
 HINH = {
     'b2-h2-3': (23, 60, 385, 396, 566, 'l'),
     'b2-h2-4': (24, 137, 433, 359, 575, 'p'),
@@ -32,6 +33,12 @@ HINH = {
     'b2-h2-9b': (28, 258, 88, 442, 192, 'l'),
     'b2-h2-9c': (28, 150, 198, 380, 400, 'l'),
     'b2-h2-10': (30, 165, 70, 372, 195, 'l'),
+    'b3-h3-1': (38, 66, 248, 451, 370, 'p'),
+    'b3-h3-2': (39, 60, 248, 405, 467, 'p'),
+    'b3-h3-3': (42, 133, 66, 396, 232, 'p', [(262, 66, 396, 138.5)]),
+    'b3-h3-4': (43, 80, 68, 387, 168, 'p'),
+    'b3-h3-5': (43, 117, 378, 347, 552, 'p'),
+    'b3-h3-6': (44, 86, 188, 441, 412, 'p'),
 }
 
 
@@ -56,7 +63,7 @@ def trang(sach):
 
 
 def cat(ten, cache={}):
-    sach, x0, y0, x1, y1, kieu = HINH[ten]
+    sach, x0, y0, x1, y1, kieu, *xoa = HINH[ten]
     if sach not in cache:
         cache[sach] = np.asarray(trang(sach)).astype(np.float32)
     a = cache[sach]
@@ -72,6 +79,8 @@ def cat(ten, cache={}):
     trang_ = giay * (0.90 if kieu == 'l' else 0.98)
     den = np.percentile(c.reshape(-1, 3), 0.5, axis=0) * 0.85
     c = np.clip((c - den) / (trang_ - den), 0, 1) ** (1.0 if kieu == 'l' else 1.05)
+    for a0, b0, a1, b1 in (xoa[0] if xoa else []):
+        c[max(round(b0 * s) - Y0, 0):round(b1 * s) - Y0, max(round(a0 * s) - X0, 0):round(a1 * s) - X0] = 1.0
     im = Image.fromarray((c * 255 + 0.5).astype(np.uint8))
     im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=2))
     if im.width > 1000:

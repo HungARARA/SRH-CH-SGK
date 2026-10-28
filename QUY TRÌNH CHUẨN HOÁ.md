@@ -55,7 +55,7 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
 |---|---|---|---|
 | 1 | Quan niệm mới trong chẩn đoán và điều trị bệnh sâu răng | 1–16 | ✅ xong (66 câu, 25 hộp 🔍) |
 | 2 | Quá trình mất khoáng và tái khoáng mô cứng | 17–31 | ✅ xong (50 câu, 34 hộp 🔍, 9 hình SGK) |
-| 3 | Chẩn đoán bệnh sâu răng | 32–47 | ⏳ |
+| 3 | Chẩn đoán bệnh sâu răng | 32–47 | ✅ xong (50 câu, 48 hộp 🔍, 6 hình SGK) |
 | 4 | Điều trị và phòng ngừa bệnh sâu răng | 48–92 | ⏳ (dài, nên chia 2 ngày) |
 | 5 | Phân loại xoang sâu răng | 94–108 | ⏳ |
 | 6 | Các yếu tố sinh học trong sửa soạn xoang | 109–113 | ⏳ |
@@ -78,7 +78,7 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
      ```bash
      "C:/Users/1/AppData/Local/Programs/Python/Python313/python.exe" -I nguon/cat_hinh.py --luoi 23 40 370 420 590
      ```
-     Lệnh trên xuất ảnh trang sách 23 có lưới toạ độ để dò khung. Khai khung vào `HINH` trong script, rồi chạy `cat_hinh.py <tên>`. Ảnh ra ở `nguon/hinh/bN-hN-x.jpg`.
+     Lệnh trên xuất ảnh trang sách 23 có lưới toạ độ để dò khung. Khai khung vào `HINH` trong script, rồi chạy `cat_hinh.py <tên>`. Ảnh ra ở `nguon/hinh/bN-hN-x.jpg`. Nếu chữ của trang bên in thấm vào khoảng trống giữa các ảnh, khai thêm phần tử thứ 7 là danh sách vùng tô trắng (cùng hệ toạ độ trang; ví dụ `b3-h3-3`).
    - **Vẽ lại bằng SVG** khi hình SGK nhỏ, mờ, khó đọc (ảnh hiển vi, biểu đồ 3D), hoặc khi cần thêm cơ chế hay mốc số mà hình SGK không có.
    - Chỗ SGK có hình thì **ưu tiên hình** (hình SGK hoặc sơ đồ vẽ), không thay bằng bảng, flow hay biểu đồ mô phỏng.
    - Không để hai hình trùng ý. Đã có hình SGK thì bỏ bản vẽ lại giống nó.
@@ -90,7 +90,7 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
    ```
    Script in ra: dung lượng, số câu, phân bố đáp án A/B/C/D, link hỏng, hình thiếu, câu thiếu/thừa đáp án.
 7. **Kiểm tra** theo mục 10, rồi cập nhật cột "Trạng thái" ở bảng bài (mục 4).
-8. **Hỏi người dùng** có commit + push không. Push lên `main` thì trang web tự cập nhật.
+8. **Tự commit + push** lên `main`, không hỏi trước (người dùng chốt ngày 29/10/2026). Push lên `main` thì trang web tự cập nhật; khoảng 1 phút sau mở trang web kiểm tra bài mới. Chỉ hỏi người dùng khi có vấn đề: script báo lỗi, push bị từ chối, xung đột với bản trên GitHub, trang web không cập nhật.
 
 ## 6. Khung chuẩn của mỗi bài (giữ đúng thứ tự)
 

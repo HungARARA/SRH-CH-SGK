@@ -4,7 +4,7 @@ Thư mục này chuẩn hoá kiến thức **Sâu Răng Học** (giáo trình Tr
 
 ## Lệnh tắt
 
-- **`soạn bài N srh`** (ví dụ `soạn bài 2 srh`): soạn Bài N đúng theo `QUY TRÌNH CHUẨN HOÁ.md`. Đọc file đó trước rồi làm theo các bước ở mục 5. **Không hỏi lại** định dạng hay hướng làm, vì người dùng đã chốt.
+- **`soạn bài N srh`** (ví dụ `soạn bài 2 srh`): soạn Bài N đúng theo `QUY TRÌNH CHUẨN HOÁ.md`. Đọc file đó trước rồi làm theo các bước ở mục 5. **Không hỏi lại** định dạng hay hướng làm, vì người dùng đã chốt. Làm xong thì **tự commit + push** lên `main`, không hỏi trước (xem mục Trạng thái).
 
 ## Người dùng muốn gì
 
@@ -42,9 +42,11 @@ Nếu các đường dẫn trên bị đổi thì tìm trên Desktop theo tên f
 - Cắt hình SGK: `nguon/cat_hinh.py` (khai khung cắt trong `HINH`; `--luoi` để dò khung). Script tự xoay thẳng trang ảnh chụp, làm trắng nền, lưu `nguon/hinh/<tên>.jpg`.
 - Cú pháp Markdown mở rộng mà `build.py` hiểu được: xem `QUY TRÌNH CHUẨN HOÁ.md` mục 9. In nghiêng chỉ dùng `*…*`; `_…_` không được hiểu.
 
-## Trạng thái (28/10/2026)
+## Trạng thái (29/10/2026)
 
 - **Bài 1 xong**, có 25 hộp 🔍 "Vì sao…?". Có 66 câu vì đây là bản đầu, làm trước khi quy trình giảm xuống 30–50 câu. Đề trắc nghiệm đã viết lại theo kiểu đề thi thật.
 - **Bài 2 xong**: 50 câu, 34 hộp 🔍. Có 9 hình cắt từ SGK (2.3, 2.4, 2.5, 2.6, 2.8, 2.9A–C, 2.10). Hình 2.1, 2.2, 2.7b, 2.11 thì vẽ lại bằng SVG, vì ảnh SGK mờ hoặc khó đọc. Nội dung đã rà lại với SGK ngày 28/10/2026.
-- **Bài 3–10 chưa làm.** Trang sách của từng bài có trong `QUY TRÌNH CHUẨN HOÁ.md` mục 4.
-- **Trang web** ở link trên: chỉ cần push lên GitHub (repo `HungARARA/SRH-CH-SGK`, nhánh `main`) là trang tự cập nhật. Soạn xong bài nào thì hỏi người dùng có muốn commit + push không.
+- **Bài 3 xong**: 50 câu, 48 hộp 🔍, 8 hộp ⚖️. Có 6 hình cắt từ SGK (3.1–3.6). Hình 3.7 (hai phim cánh cắn) quá mờ nên vẽ lại bằng SVG cơ chế góc chiếu. Bốn câu lượng giá Bài 3 hỏi cả ý nằm ở Bài 4 (tr. 59–63: FOTI, DIAGNOdent, QLF, ECM, trám kiểm soát); bài đã dẫn sang các trang đó.
+- **Ghi chú cho bài sau**: Bài 5 (tr. 106) gộp "sâu thứ phát hoặc tái phát" = sâu sát miếng trám, còn Bài 3 tách hai khái niệm; Bài 5 (tr. 102) ghi sâu ngà sâu 2–4 mm. Soạn Bài 4, 5 thì ghi hộp ⚖️ dẫn về Bài 3 (mục 4.5, 5.2).
+- **Bài 4–10 chưa làm.** Trang sách của từng bài có trong `QUY TRÌNH CHUẨN HOÁ.md` mục 4.
+- **Trang web** ở link trên: chỉ cần push lên GitHub (repo `HungARARA/SRH-CH-SGK`, nhánh `main`) là trang tự cập nhật. Soạn xong bài nào (hay sửa xong bài nào) thì **tự commit thẳng vào `main` rồi push**, không hỏi trước (người dùng chốt ngày 29/10/2026). Chỉ dừng lại hỏi khi có vấn đề: script dựng báo lỗi, push bị từ chối, xung đột với bản trên GitHub, hay trang web không cập nhật.
