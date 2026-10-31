@@ -554,13 +554,15 @@ Xét nghiệm lại S. mutans trong 1–2 tháng -> +SM < 100.000 và LB < 100.0
 > - Thứ tự: **hạ vi khuẩn trước – trám sau**. "Trám ngay khi phát hiện lỗ" là sai với phác đồ này.
 > - Chlorhexidine ở phác đồ: **trước khi ngủ**; ở phần phòng ngừa: **sau chải răng 2 giờ** (mục 6.3.1). Hai ý không mâu thuẫn, đề có thể hỏi riêng từng ý.
 > - Xylitol **2 thỏi × 5 lần**, đề hay đảo thành "5 thỏi × 2 lần".
+> - Bài 4 ghi con số khác cho cùng các chất: chlorhexidine **0,12%**, súc 30 giây lúc ngủ, **khoảng 2 tuần**, giữ hiệu quả **12–26 tuần** (mục 5.4); xylitol **1 viên sau ăn, nhai 5–30 phút** (mục 5.7). Đề có các con số đó thì theo Bài 4.
+> - Bài 4 (mục 6) còn nói ngược thứ tự: **phục hồi (dẹp ổ sâu) trước**, vì dùng kháng khuẩn trước làm xáo trộn hệ tạp khuẩn. Đề nhắc phác đồ có chlorhexidine, xét nghiệm SM, ngưỡng 100.000 thì theo Bài 1 (xem hộp ⚖️ ở Bài 4, mục 6).
 
 > [!CAUTION] Hai cách hiểu – nồng độ nước súc miệng fluor
-> | SGK | Thực hành hiện nay |
+> | SGK Bài 1 | SGK Bài 4 (mục 5.2) và thực hành hiện nay |
 > |---|---|
-> | Sau khi ngưng chlorhexidine: súc ==fluor 0,5%== trước khi ngủ, 6 tháng | Loại súc **hằng ngày** thường là **NaF 0,05%**; loại **0,2%** dùng **hằng tuần** |
+> | Sau khi ngưng chlorhexidine: súc ==fluor 0,5%== trước khi ngủ, 6 tháng | Bài 4: **0,05% dùng hằng ngày** (tự dùng tại nhà); **0,2% mỗi tuần một lần** (chương trình súc miệng có giám sát ở trường học). Thực hành hiện nay dùng đúng hai mức này (NaF) |
 >
-> **Thi chọn 0,5% (SGK).** Đi làm thì nhớ thêm con số 0,05%.
+> **Thi**: đề hỏi trong phác đồ sau chlorhexidine → **0,5%** (Bài 1). Đề hỏi nước súc **hằng ngày tại nhà** → **0,05%**; **hằng tuần ở trường** → **0,2%** (Bài 4).
 
 ## 6. Phòng ngừa sâu răng · tr. 13–15
 

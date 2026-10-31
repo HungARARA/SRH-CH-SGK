@@ -211,11 +211,11 @@ caption: Biểu đồ minh hoạ *(ngoài SGK, dạng đường cong Stephan –
 > - Ở phần tóm lại cuối mục 1, SGK xếp nước bọt vào **nhóm phụ**.
 
 > [!CAUTION] Hai cách hiểu – kháng thể của nước bọt
-> | SGK | Sinh lý học *(ngoài SGK)* |
+> | SGK Bài 3 (mục 1.3) | SGK Bài 4 (mục 5.2, tr. 69) và sinh lý học *(ngoài SGK)* |
 > |---|---|
-> | nước bọt cung cấp ==IgG, IgM== để kháng vi khuẩn | kháng thể **nhiều nhất** trong nước bọt là **IgA tiết** (do tuyến nước bọt tiết ra); IgG, IgM có ít, chủ yếu thấm từ dịch khe nướu |
+> | nước bọt cung cấp ==IgG, IgM== để kháng vi khuẩn | Bài 4: tế bào miễn dịch cư trú ở tuyến nước bọt sản xuất **kháng thể IgA**, tiết vào nước bọt, làm vón cục *S. mutans* (cơ sở của vắc-xin phòng sâu răng). Sinh lý học: kháng thể **nhiều nhất** trong nước bọt là **IgA tiết**; IgG, IgM có ít, chủ yếu thấm từ dịch khe nướu |
 >
-> **Thi chọn SGK: IgG, IgM.** Đề có chữ "chủ yếu", "nhiều nhất" và có lựa chọn IgA là người ra đề theo sinh lý học.
+> **Thi**: đề hỏi theo Bài 3 (nước bọt bảo vệ răng nhờ các yếu tố nào) → **IgG, IgM**. Đề hỏi kháng thể **tiết vào nước bọt** trong cơ chế vắc-xin, hay có chữ "chủ yếu", "nhiều nhất" → **IgA** (Bài 4).
 
 ### 1.4. Một số yếu tố khác · tr. 34–35
 

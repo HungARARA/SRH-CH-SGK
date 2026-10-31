@@ -42,11 +42,12 @@ Nếu các đường dẫn trên bị đổi thì tìm trên Desktop theo tên f
 - Cắt hình SGK: `nguon/cat_hinh.py` (khai khung cắt trong `HINH`; `--luoi` để dò khung). Script tự xoay thẳng trang ảnh chụp, làm trắng nền, lưu `nguon/hinh/<tên>.jpg`.
 - Cú pháp Markdown mở rộng mà `build.py` hiểu được: xem `QUY TRÌNH CHUẨN HOÁ.md` mục 9. In nghiêng chỉ dùng `*…*`; `_…_` không được hiểu.
 
-## Trạng thái (29/10/2026)
+## Trạng thái (31/10/2026)
 
 - **Bài 1 xong**, có 25 hộp 🔍 "Vì sao…?". Có 66 câu vì đây là bản đầu, làm trước khi quy trình giảm xuống 30–50 câu. Đề trắc nghiệm đã viết lại theo kiểu đề thi thật.
 - **Bài 2 xong**: 50 câu, 34 hộp 🔍. Có 9 hình cắt từ SGK (2.3, 2.4, 2.5, 2.6, 2.8, 2.9A–C, 2.10). Hình 2.1, 2.2, 2.7b, 2.11 thì vẽ lại bằng SVG, vì ảnh SGK mờ hoặc khó đọc. Nội dung đã rà lại với SGK ngày 28/10/2026.
 - **Bài 3 xong**: 50 câu, 48 hộp 🔍, 8 hộp ⚖️. Có 6 hình cắt từ SGK (3.1–3.6). Hình 3.7 (hai phim cánh cắn) quá mờ nên vẽ lại bằng SVG cơ chế góc chiếu. Bốn câu lượng giá Bài 3 hỏi cả ý nằm ở Bài 4 (tr. 59–63: FOTI, DIAGNOdent, QLF, ECM, trám kiểm soát); bài đã dẫn sang các trang đó.
-- **Ghi chú cho bài sau**: Bài 5 (tr. 106) gộp "sâu thứ phát hoặc tái phát" = sâu sát miếng trám, còn Bài 3 tách hai khái niệm; Bài 5 (tr. 102) ghi sâu ngà sâu 2–4 mm. Soạn Bài 4, 5 thì ghi hộp ⚖️ dẫn về Bài 3 (mục 4.5, 5.2).
-- **Bài 4–10 chưa làm.** Trang sách của từng bài có trong `QUY TRÌNH CHUẨN HOÁ.md` mục 4.
+- **Bài 4 xong**: 71 câu (bài dài nhất, chia 2 ngày học), 63 hộp 🔍, 10 hộp ⚖️. Có 13 hình cắt từ SGK (4.2–4.4, 4.6–4.12, 4.18, 4.22, 4.23). Hình 4.1 (cân bằng sâu răng) chữ quá nhỏ nên vẽ lại SVG; Hình 4.24–4.25 thay bằng SVG cơ chế trám bít hố rãnh; thêm SVG thang nồng độ fluor (log). Bỏ ảnh máy (4.13–4.15), ảnh hiển vi mờ (4.5), ảnh đen trắng mờ (4.16, 4.17, 4.19–4.21). Đã thêm dẫn chiếu sang Bài 4 ở Bài 1 (súc fluor 0,05/0,2%, chlorhexidine, xylitol, thứ tự điều trị) và Bài 3 (IgA).
+- **Ghi chú cho bài sau**: Bài 5 (tr. 106) gộp "sâu thứ phát hoặc tái phát" = sâu sát miếng trám, còn Bài 3 tách hai khái niệm; Bài 5 (tr. 102) ghi sâu ngà sâu 2–4 mm. Soạn Bài 5 thì ghi hộp ⚖️ dẫn về Bài 3 (mục 4.5, 5.2). Trong SVG, đặt lớp chữ (`s`, `m`…) lên **từng thẻ `text`**: CSS đặt cỡ chữ, màu thẳng lên `text` nên lớp đặt trên `<g>` không có tác dụng với chữ.
+- **Bài 5–10 chưa làm.** Trang sách của từng bài có trong `QUY TRÌNH CHUẨN HOÁ.md` mục 4.
 - **Trang web** ở link trên: chỉ cần push lên GitHub (repo `HungARARA/SRH-CH-SGK`, nhánh `main`) là trang tự cập nhật. Soạn xong bài nào (hay sửa xong bài nào) thì **tự commit thẳng vào `main` rồi push**, không hỏi trước (người dùng chốt ngày 29/10/2026). Chỉ dừng lại hỏi khi có vấn đề: script dựng báo lỗi, push bị từ chối, xung đột với bản trên GitHub, hay trang web không cập nhật.

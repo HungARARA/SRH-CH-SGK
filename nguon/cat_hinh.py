@@ -22,6 +22,7 @@ PDF = 'C:/Users/1/Desktop/Local HỌC TẬP Y KHOA VÀ FILE/Sâu Răng Học/Gi�
 # tên file: (trang sách, x0, y0, x1, y1, kiểu[, vùng tô trắng])
 # kiểu 'l' = hình vẽ, biểu đồ: đẩy nền trắng mạnh, xoá chữ trang sau in thấm qua
 # kiểu 'p' = ảnh chụp, hình có chữ trên nền màu: làm trắng nhẹ tay
+# kiểu 's' = sơ đồ khối màu trên nền giấy: như 'l', thêm xoá mọi vệt xám nhạt (chữ trang sau in thấm), giữ nét đậm và màu
 # vùng tô trắng = danh sách (x0, y0, x1, y1) cùng hệ toạ độ trang, để xoá chữ in thấm ở khoảng trống giữa các ảnh
 HINH = {
     'b2-h2-3': (23, 60, 385, 396, 566, 'l'),
@@ -39,6 +40,19 @@ HINH = {
     'b3-h3-4': (43, 80, 68, 387, 168, 'p'),
     'b3-h3-5': (43, 117, 378, 347, 552, 'p'),
     'b3-h3-6': (44, 86, 188, 441, 412, 'p'),
+    'b4-h4-2': (50, 100, 222, 402, 400, 'l'),
+    'b4-h4-3': (51, 88, 62, 376, 226, 'p'),
+    'b4-h4-4': (51, 88, 374, 378, 528, 's'),
+    'b4-h4-6': (54, 96, 58, 410, 246, 'p'),
+    'b4-h4-7': (55, 58, 62, 398, 500, 'p', [(238, 390, 398, 500)]),
+    'b4-h4-8': (56, 106, 55, 422, 228, 'p'),
+    'b4-h4-9': (56, 143, 444, 394, 571, 'p'),
+    'b4-h4-10': (57, 80, 64, 376, 200, 'p'),
+    'b4-h4-11': (57, 67, 492, 398, 600, 'p'),
+    'b4-h4-12': (58, 155, 55, 374, 201, 'p'),
+    'b4-h4-18': (76, 160, 62, 403, 468, 'p'),
+    'b4-h4-22': (80, 74, 60, 435, 343, 'p'),
+    'b4-h4-23': (81, 52, 230, 420, 410, 'l'),
 }
 
 
@@ -76,9 +90,12 @@ def cat(ten, cache={}):
         a[Y0:Y1, max(X0 - m, 0):X0].reshape(-1, 3), a[Y0:Y1, X1:X1 + m].reshape(-1, 3)])
     giay = np.percentile(vong, 80, axis=0)
     c = a[Y0:Y1, X0:X1]
-    trang_ = giay * (0.90 if kieu == 'l' else 0.98)
+    trang_ = giay * (0.98 if kieu == 'p' else 0.90)
     den = np.percentile(c.reshape(-1, 3), 0.5, axis=0) * 0.85
-    c = np.clip((c - den) / (trang_ - den), 0, 1) ** (1.0 if kieu == 'l' else 1.05)
+    c = np.clip((c - den) / (trang_ - den), 0, 1) ** (1.05 if kieu == 'p' else 1.0)
+    if kieu == 's':
+        xam = (c.max(axis=2) - c.min(axis=2) < 0.12) & (c.mean(axis=2) > 0.55)
+        c[xam] = 1.0
     for a0, b0, a1, b1 in (xoa[0] if xoa else []):
         c[max(round(b0 * s) - Y0, 0):round(b1 * s) - Y0, max(round(a0 * s) - X0, 0):round(a1 * s) - X0] = 1.0
     im = Image.fromarray((c * 255 + 0.5).astype(np.uint8))
