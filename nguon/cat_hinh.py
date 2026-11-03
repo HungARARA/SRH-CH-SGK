@@ -24,6 +24,9 @@ PDF = 'C:/Users/1/Desktop/Local HỌC TẬP Y KHOA VÀ FILE/Sâu Răng Học/Gi�
 # kiểu 'p' = ảnh chụp, hình có chữ trên nền màu: làm trắng nhẹ tay
 # kiểu 's' = sơ đồ khối màu trên nền giấy: như 'l', thêm xoá mọi vệt xám nhạt (chữ trang sau in thấm), giữ nét đậm và màu
 # vùng tô trắng = danh sách (x0, y0, x1, y1) cùng hệ toạ độ trang, để xoá chữ in thấm ở khoảng trống giữa các ảnh
+# vùng xoá xám (phần tử thứ 8) = như vùng tô trắng, nhưng chỉ xoá vệt xám nhạt như kiểu 's' (giữ nét đậm, màu):
+#   dùng khi một hình có cả phần sơ đồ dính chữ in thấm lẫn phần ảnh chụp; phần tử thứ 5 của vùng (nếu có) = ngưỡng
+#   độ sáng (mặc định 0,55), nâng lên (ví dụ 0,8) khi hình có mảng tô xám vừa cần giữ (b5-bang5-1)
 HINH = {
     'b2-h2-3': (23, 60, 385, 396, 566, 'l'),
     'b2-h2-4': (24, 137, 433, 359, 575, 'p'),
@@ -53,6 +56,15 @@ HINH = {
     'b4-h4-18': (76, 160, 62, 403, 468, 'p'),
     'b4-h4-22': (80, 74, 60, 435, 343, 'p'),
     'b4-h4-23': (81, 52, 230, 420, 410, 'l'),
+    'b5-h5-1': (95, 50, 188, 442, 281, 'l'),
+    'b5-h5-3': (96, 88, 115, 452, 186, 'l'),
+    'b5-h5-4': (96, 170, 410, 385, 578, 'p'),
+    'b5-bang5-1': (97, 57, 151, 397, 288, 'p', [], [(57, 151, 397, 288, 0.8)]),
+    'b5-h5-5': (97, 155, 455, 310, 609, 'l'),
+    'b5-h5-11': (100, 97, 290, 425, 497, 'p'),
+    'b5-h5-12': (101, 92, 62, 388, 336, 'p', [], [(92, 62, 388, 220), (350, 220, 388, 336)]),
+    'b5-bang5-2': (104, 52, 86, 448, 208, 'p'),
+    'b5-h5-14': (106, 152, 316, 347, 452, 'p'),
 }
 
 
@@ -77,7 +89,8 @@ def trang(sach):
 
 
 def cat(ten, cache={}):
-    sach, x0, y0, x1, y1, kieu, *xoa = HINH[ten]
+    sach, x0, y0, x1, y1, kieu, *them = HINH[ten]
+    xoa, xam_vung = (list(them) + [[], []])[:2]
     if sach not in cache:
         cache[sach] = np.asarray(trang(sach)).astype(np.float32)
     a = cache[sach]
@@ -93,10 +106,14 @@ def cat(ten, cache={}):
     trang_ = giay * (0.98 if kieu == 'p' else 0.90)
     den = np.percentile(c.reshape(-1, 3), 0.5, axis=0) * 0.85
     c = np.clip((c - den) / (trang_ - den), 0, 1) ** (1.05 if kieu == 'p' else 1.0)
+    nhat = c.max(axis=2) - c.min(axis=2) < 0.12
+    sang = c.mean(axis=2)
     if kieu == 's':
-        xam = (c.max(axis=2) - c.min(axis=2) < 0.12) & (c.mean(axis=2) > 0.55)
-        c[xam] = 1.0
-    for a0, b0, a1, b1 in (xoa[0] if xoa else []):
+        c[nhat & (sang > 0.55)] = 1.0
+    for a0, b0, a1, b1, *nguong in xam_vung:
+        v = (slice(max(round(b0 * s) - Y0, 0), round(b1 * s) - Y0), slice(max(round(a0 * s) - X0, 0), round(a1 * s) - X0))
+        c[v][nhat[v] & (sang[v] > (nguong or [0.55])[0])] = 1.0
+    for a0, b0, a1, b1 in xoa:
         c[max(round(b0 * s) - Y0, 0):round(b1 * s) - Y0, max(round(a0 * s) - X0, 0):round(a1 * s) - X0] = 1.0
     im = Image.fromarray((c * 255 + 0.5).astype(np.uint8))
     im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=2))
