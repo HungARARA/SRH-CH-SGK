@@ -970,7 +970,7 @@ Vi khuẩn mảng bám chuyển hóa carbohydrate -> !pH mảng bám < 5,5 -> Kh
 </figure>
 
 > [!WHY] Vì sao sâu ngà chỉ ê khi có kích thích, ngừng kích thích là hết?
-> Trong ống ngà có **dịch** và có đuôi tế bào tạo ngà nối về tủy. Lạnh, ngọt, chua làm dịch trong ống **chuyển động**, kích thích đầu dây thần kinh ở rìa tủy nên **ê buốt** (Bài 1, mục 2.2). Ngừng kích thích thì dịch đứng yên, hết ê ngay: dấu hiệu **tủy còn khỏe**, chỉ đang "báo động". *(ngoài SGK)* Nếu đau **tự phát**, hoặc ê **kéo dài** sau khi ngừng kích thích, thì phải nghĩ tới tủy đã bị ảnh hưởng nhiều hơn. Bài 5 (tr. 102) ghi sâu ngà sâu (lỗ **2–4 mm**) có thể ê buốt **kéo dài 30 giây – 1 phút** sau khi ngừng kích thích.
+> Trong ống ngà có **dịch** và có đuôi tế bào tạo ngà nối về tủy. Lạnh, ngọt, chua làm dịch trong ống **chuyển động**, kích thích đầu dây thần kinh ở rìa tủy nên **ê buốt** (thuyết thủy động học: SGK Bài 6 tr. 110; Bài 1 mục 2.2). Ngừng kích thích thì dịch đứng yên, hết ê ngay: dấu hiệu **tủy còn khỏe**, chỉ đang "báo động". *(ngoài SGK)* Nếu đau **tự phát**, hoặc ê **kéo dài** sau khi ngừng kích thích, thì phải nghĩ tới tủy đã bị ảnh hưởng nhiều hơn. Bài 5 (tr. 102) ghi sâu ngà sâu (lỗ **2–4 mm**) có thể ê buốt **kéo dài 30 giây – 1 phút** sau khi ngừng kích thích.
 
 > [!WHY] Vì sao chỉ dùng thám trâm khi thực sự có lỗ, và lỗ không liên quan tủy?
 >

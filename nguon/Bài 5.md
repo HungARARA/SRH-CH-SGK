@@ -18,8 +18,8 @@ out: Bài 5 - Phân loại xoang sâu răng.html
 
 1. Trình bày được **các cách phân loại xoang** thông thường trên lâm sàng → [mục 1](#m1) (vị trí), [mục 2](#m2) (độ sâu), [mục 3](#m3) (tiến triển), [mục 4](#m4) (các cách khác).
 2. Phân loại được **xoang sâu theo G.V. Black** → [mục 1.2](#m1-2) (Bảng 5.1, Hình 5.5).
-3. Mô tả được **cấu trúc giải phẫu xoang trám** theo G.V. Black → phần chữ Bài 5 **không viết** mục này; nguyên tắc tạo xoang trám của G.V. Black nằm ở **Bài 6** (SGK tr. 111–113).
-4. Thực hiện được **kỹ thuật tạo xoang trám** theo G.V. Black → kỹ năng thực hành; phần lý thuyết ở **Bài 6**.
+3. Mô tả được **cấu trúc giải phẫu xoang trám** theo G.V. Black → phần chữ Bài 5 **không viết** mục này; nguyên tắc tạo xoang trám của G.V. Black nằm ở **Bài 6** mục 2.2, 3.1 và 4 (SGK tr. 111–113).
+4. Thực hiện được **kỹ thuật tạo xoang trám** theo G.V. Black → kỹ năng thực hành; phần lý thuyết ở **Bài 6** (mục 2.2: nguyên tắc tạo xoang; mục 3.2: lưu ý khi khoan; mục 4: thành xoang theo trụ men).
 
 ## Bức tranh 1 phút
 
@@ -400,7 +400,7 @@ out: Bài 5 - Phân loại xoang sâu răng.html
 > [!WHY] Vì sao sâu ngà mới ê buốt, sâu ngà sâu ê kéo dài, còn sâu tủy đau tự phát?
 >
 > - *(ngoài SGK)* **Sâu men không ê** vì men **không có thần kinh, không có ống ngà** để truyền kích thích.
-> - **Sâu ngà**: trong ống ngà có **dịch**. Lạnh, ngọt, chua, chạm vào làm dịch **chuyển động**, kích thích đầu dây thần kinh ở rìa tủy → ê buốt (Bài 3 mục 5.2). **Ngà nông**: tủy còn xa và khỏe, ngừng kích thích là dịch đứng yên → **hết ngay** (SGK).
+> - **Sâu ngà**: trong ống ngà có **dịch**. Lạnh, ngọt, chua, chạm vào làm dịch **chuyển động**, kích thích đầu dây thần kinh ở rìa tủy → ê buốt (thuyết thủy động học: SGK Bài 6 tr. 110; Bài 3 mục 5.2). **Ngà nông**: tủy còn xa và khỏe, ngừng kích thích là dịch đứng yên → **hết ngay** (SGK).
 > - **Ngà sâu** (lỗ 2–4 mm): lớp ngà còn lại giữa lỗ sâu và tủy **mỏng**; *(ngoài SGK)* ống ngà gần tủy **to và dày đặc** hơn, tủy đã bị kích thích nhiều lần nên **nhạy hơn** → ê **kéo dài 30 giây – 1 phút** sau khi ngừng, **nạo lỗ** cũng ê (SGK).
 > - **Sâu tủy**: tủy đã **bị ảnh hưởng và nhiễm trùng** (SGK). *(ngoài SGK)* Tủy viêm nằm trong **buồng kín** bằng ngà, phù nề mà không có chỗ nở ra → áp lực tăng → **đau tự phát**; ban đêm nằm xuống, máu dồn lên đầu nhiều hơn nên **đau về đêm**. Không chữa → **hoại tử tủy** (SGK).
 

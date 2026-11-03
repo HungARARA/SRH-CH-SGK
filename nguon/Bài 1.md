@@ -363,7 +363,7 @@ Acid phá huỷ, "mở đường" -> Một ít vi khuẩn xâm nhập ống ngà
 ![Hình 1.3 (SGK) – Sâu ngà **hoạt động**, lấp đầy mảng bám; bề mặt **nâu đậm** do ngà đổi màu. Kiểm soát mảng bám + kem có fluor → sau **2–3 tuần** hết nhạy cảm với nóng, lạnh, ngọt; sau **4 tháng** cứng khi thăm dò (thành sang thương **bất hoạt**, ngà cứng hơn do tích tụ khoáng).](hinh/b1-h1-3.png)
 
 > [!WHY] Vì sao lớp trong ê buốt, và vì sao giữ sạch vài tuần là hết ê?
-> *(ngoài SGK)* Trong ống ngà có **dịch** và có **đuôi tế bào tạo ngà** nối về tủy. Nóng, lạnh, ngọt làm dịch trong ống **chuyển động**, kích thích dây thần kinh ở rìa tủy nên thấy **ê buốt** (thuyết thủy động). Lớp ngoài đã chết, ống ngà bị phá nên không truyền được cảm giác.
+> Trong ống ngà có **dịch** và có **đuôi tế bào tạo ngà** nối về tủy. Kích thích (nóng, lạnh, cơ học, thổi khô) làm dịch trong ống **chuyển động**, kéo đuôi tế bào, kích thích thần kinh trong tủy nên thấy **ê buốt**: đó là **thuyết thủy động học** (SGK Bài 6 tr. 110). *(ngoài SGK)* Đồ ngọt cũng làm dịch chuyển động do chênh lệch nồng độ. Lớp ngoài đã chết, ống ngà bị phá nên không truyền được cảm giác.
 >
 > Ở Hình 1.3: hết mảng bám thì hết acid. Khoáng từ nước bọt và kem fluor dần **bít miệng các ống ngà**, dịch không còn bị khuấy nên **hết ê sau 2–3 tuần**. Khoáng tiếp tục đắp vào, tới **4 tháng** thì ngà **cứng** khi thăm dò, tức sang thương đã bất hoạt.
 

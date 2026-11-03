@@ -141,6 +141,7 @@ out: Bài 2 - Quá trình mất khoáng và tái khoáng mô cứng.html
 >
 > - **99%** là **trọng lượng khô**; **11%** nước và **2%** chất hữu cơ là **thể tích**. Đề hay tráo "trọng lượng" ↔ "thể tích".
 > - Bảng 2.1: chất hữu cơ của men **1%** (trọng lượng khô) – khác con số **2% thể tích** ở trên.
+> - Bài 6 (tr. 109–110) ghi men **95–97%** vô cơ, ngà **70%** vô cơ vì tính **cả nước**; Bảng 2.1 (99, 80) tính theo **trọng lượng khô**. Đề không ghi "trọng lượng khô" thì dùng số Bài 6 (hộp ⚖️ Bài 6 mục 1.1).
 > - Carbonate, sodium, fluoride là **tạp chất**, không phải thành phần chính.
 > - HA **lớn hơn** men ở cả mật độ lẫn độ cứng Knoop.
 > - Màu vàng của răng là do **ngà**, không do men. Đốm trắng như phấn hiện ra khi **thổi khô**, không phải khi men ngập nước.
@@ -205,7 +206,7 @@ out: Bài 2 - Quá trình mất khoáng và tái khoáng mô cứng.html
 
 > [!WHY] Vì sao uống nước nóng không làm răng tan nhanh hơn uống nước lạnh?
 > Muối thường như NaCl: nóng thì tan nhiều hơn. HA và hầu hết calcium phosphate **không như vậy** (SGK). *(ngoài SGK)* Calcium phosphate thuộc nhóm muối "tan ngược": nhiệt độ cao **không làm tăng**, thậm chí còn làm giảm nhẹ độ tan.
-> Thứ quyết định men tan hay không là **pH** và **lượng ion** trong dịch ([mục 3](#m3)), không phải nhiệt độ. (Ê buốt khi uống nóng, lạnh lúc đã lộ ngà là chuyện khác: dịch trong ống ngà chuyển động – Bài 1, mục 2.2.3.)
+> Thứ quyết định men tan hay không là **pH** và **lượng ion** trong dịch ([mục 3](#m3)), không phải nhiệt độ. (Ê buốt khi uống nóng, lạnh lúc đã lộ ngà là chuyện khác: dịch trong ống ngà chuyển động: thuyết thủy động học, SGK Bài 6 tr. 110; Bài 1 mục 2.2.3.)
 
 > [!TIP]
 >
