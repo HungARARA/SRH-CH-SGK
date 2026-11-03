@@ -367,7 +367,7 @@ Nguyên tắc tạo xoang trám (4 ý):
 > [!WHY] Vì sao vật liệu trám "quyết định kiểu tạo xoang"?
 > Mỗi vật liệu được giữ trên răng theo một cách, nên cần một kiểu xoang khác:
 > - **Amalgam**: không dính → cần **hình hộp, lưu cơ học** ([mục 2.2](#m2-2)).
-> - *(ngoài SGK; Bài 8 học kỹ)* **Composite**: **dán** vào men đã xoi mòn bằng acid và vào ngà nhờ hệ thống dán → chỉ cần lấy mô sâu, không phải cắt thêm mô lành để giữ; bờ men còn được **vát** (Bài 8).
+> - **Composite** (Bài 8 mục 1–2, 6.2): **dán** vào men đã xoi mòn bằng acid và vào ngà nhờ hệ thống dán (**vi lưu cơ học**) → **bảo tồn tối đa mô răng**, mức độ sửa soạn tùy **kích thước, hình dạng, vị trí** sang thương; bờ men còn được **vát**.
 > - **GIC** (Bài 7 tr. 114, 118): **gắn kết hóa học** với mô cứng, **giải phóng fluor** → **không tạo hình thể lưu**; hình xoang chỉ là kết quả của việc lấy sạch ngà sâu và bỏ men không có ngà nâng đỡ.
 >
 > Cùng một lỗ sâu, đổi vật liệu là đổi hình xoang.

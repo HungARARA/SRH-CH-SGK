@@ -187,7 +187,7 @@ Bột thủy tinh silicate + acid polyalkenoic -> Phản ứng acid – base: đ
 
 > [!WHY] Vì sao không được xoi mòn acid, không dùng bond – resine, mà chỉ dùng "dentin conditioner"?
 > - GIC dính nhờ **liên kết ion** giữa COO⁻ của nó và **Ca²⁺ của mô răng** (sơ đồ, chữ **F**). Muốn vậy, mặt răng phải **sạch** và **còn khoáng**.
-> - *(ngoài SGK)* **Acid etching** (acid phosphoric 30–40%, dùng khi trám composite: Bài 8) là acid **mạnh**: rút sạch calcium ở lớp ngoài cùng của ngà, chỉ để lại lưới collagen → GIC **mất chỗ bám**. **Bond – resine** là một **lớp nhựa** phủ lên bề mặt → GIC chạm vào nhựa chứ không chạm vào răng → **không có liên kết ion**.
+> - **Acid etching** (acid phosphoric **35–37%**, dùng khi trám composite: Bài 8 mục 6.3.1) là acid **mạnh**: *(ngoài SGK)* rút sạch calcium ở lớp ngoài cùng của ngà, chỉ để lại lưới collagen → GIC **mất chỗ bám**. **Bond – resine** là một **lớp nhựa** phủ lên bề mặt → GIC chạm vào nhựa chứ không chạm vào răng → **không có liên kết ion**.
 > - **Dentin conditioner** chính là **acid polyacrylic** (cùng loại với chất lỏng GIC, [mục 1.2](#m1-2)) nhưng **loãng (10–20%)**. *(ngoài SGK)* Nó đủ để lấy lớp mùn, làm sạch bề mặt mà vẫn giữ khoáng → mặt răng **sẵn sàng bắt tay** với GIC. Giống **lau sạch bụi** trên tường trước khi dán băng keo hai mặt, chứ không cạo trôi cả lớp vữa.
 
 > [!WHY] Vì sao còn ngà bệnh, nước bọt, máu, dầu tay khoan thì có "vi kẽ"?
@@ -738,7 +738,7 @@ Vecni lần 1 -> Lấy phần dư, mài không nước -> Vecni lần 2 -> !Khô
 6. Dùng ==mũi kim cương mịn mài phần dư==.
 
 > [!WHY] Vì sao xoang V hợp GIC hơn composite?
-> - **Không có men** ở thành nướu: *(ngoài SGK)* composite bám chắc nhất vào **men đã xoi mòn** (Bài 8); trên ngà, xê măng thì kém hơn. GIC dính bằng **liên kết ion** với Ca²⁺ của **ngà, xê măng** ([mục 0](#m0)).
+> - **Không có men** ở thành nướu: *(ngoài SGK)* composite bám chắc nhất vào **men đã xoi mòn**; trên ngà, xê măng thì kém hơn (Bài 8 mục 2.1: ngà nhiều nước nên liên kết **tuổi thọ ngắn hơn**; mục 5: sâu thứ cấp hay ở **cổ răng**). GIC dính bằng **liên kết ion** với Ca²⁺ của **ngà, xê măng** ([mục 0](#m0)).
 > - **Dưới nướu, dễ ướt nước bọt và máu**: *(ngoài SGK)* composite và hệ thống dán cần vùng làm việc **khô tuyệt đối**; GIC ít nhạy với độ ẩm hơn (bản thân nó cần nước: [mục 1.3](#m1-3)), dù vẫn phải cô lập và lau khô.
 > - Cổ răng là nơi **sâu chân răng**, mảng bám đọng dọc viền nướu (Bài 5 mục 1.1): GIC **nhả fluor** giúp chống sâu tái phát ở bờ.
 > - *(ngoài SGK)* Cổ răng còn bị **uốn** nhẹ mỗi lần nhai: GIC có độ đàn hồi gần với ngà nên ít bong ở tổn thương cổ răng (mòn cổ răng: Bài 10).
@@ -777,7 +777,7 @@ Vecni lần 1 -> Lấy phần dư, mài không nước -> Vecni lần 2 -> !Khô
 > [!WHY] Vì sao GIC hợp làm lớp lót dưới composite, amalgam ở xoang sâu?
 > - **Tương hợp sinh học với răng** (SGK): *(ngoài SGK)* acid của GIC là acid yếu, chuỗi dài, **khó thấm sâu** qua ống ngà, nên ít kích thích tủy (khi đặt đúng cách, không nguyên khối: [mục 1.3](#m1-3)).
 > - **Dính ngà, bít ống ngà** → chống ê buốt (thủy động học), chặn vi khuẩn còn sót; **nhả fluor** ở đáy xoang ([mục 2.3](#m2-3)).
-> - *(ngoài SGK)* Dưới **amalgam**: cách nhiệt. Dưới **composite**: GIC thế chỗ một phần thể tích composite → bớt **co khi trùng hợp** kéo bờ trám (Bài 8 học kỹ).
+> - *(ngoài SGK)* Dưới **amalgam**: cách nhiệt. Dưới **composite**: GIC thế chỗ một phần thể tích composite → bớt **co khi trùng hợp** kéo bờ trám (co trùng hợp: Bài 8 mục 3, 4; Bài 8 mục 6.3.7 cũng lót **GIC** dưới composite ở xoang sâu).
 > - **Không cần tạo xoang đặc biệt, ngàm cơ học** vì GIC dính hóa học ([mục 4](#m4)): chỉ cần lấy sạch ngà mềm.
 
 > [!WHY] Vì sao sandwich: GIC ở dưới, composite ở trên, và GIC dừng "dưới tiếp điểm"?
@@ -786,7 +786,7 @@ Vecni lần 1 -> Lấy phần dư, mài không nước -> Vecni lần 2 -> !Khô
 > - Ví dụ: **bánh mì kẹp**: lớp mềm có ích nằm giữa, lớp vỏ cứng che bên trên.
 
 > [!WHY] Vì sao lót nền xong "nên chờ sau 24 giờ" mới trám kết thúc?
-> - GIC cần thời gian để **đông cứng và "chín"** ([mục 1.3](#m1-3)). *(ngoài SGK)* Bước trám composite phía trên có **xoi mòn acid, rửa nước, thổi khô** (Bài 8): làm ngay trên GIC còn non thì acid và nước **làm hỏng mặt GIC**, thổi khô làm nó **mất nước, nứt**. Chờ 24 giờ thì lớp lót đã chắc.
+> - GIC cần thời gian để **đông cứng và "chín"** ([mục 1.3](#m1-3)). *(ngoài SGK)* Bước trám composite phía trên có **xoi mòn acid, rửa nước, làm khô** (Bài 8 mục 6.3.1): làm ngay trên GIC còn non thì acid và nước **làm hỏng mặt GIC**, thổi khô làm nó **mất nước, nứt**. Chờ 24 giờ thì lớp lót đã chắc.
 
 > [!CAUTION] Hai cách hiểu – chờ 24 giờ sau khi lót nền GIC?
 > | SGK (tr. 121) | Hiện nay *(ngoài SGK)* |
