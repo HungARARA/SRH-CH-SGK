@@ -547,7 +547,7 @@ Xét nghiệm lại S. mutans trong 1–2 tháng -> +SM < 100.000 và LB < 100.0
 > [!TIP]
 > - Chlorhexidine: **"15 – 30 – 2/4"** = 15 mL · 30 giây · 2–4 tuần (trước khi ngủ).
 > - Xylitol **"2 × 5"**. Fluor súc miệng **"0,5% – 6 tháng"**. Xét nghiệm lại **"1–2 tháng"**.
-> - Vật liệu: che tủy = **Ca(OH)₂**; lót/nền = **2 loại xi măng** (GIC, polycarboxylate); kết thúc = **"A – C – C"** (Amalgam, Composite, Compomer).
+> - Vật liệu: che tủy = **Ca(OH)₂**; lót/nền = **2 loại xi măng** (GIC, polycarboxylate; GIC lót nền học kỹ ở Bài 7 mục 5.4.1); kết thúc = **"A – C – C"** (Amalgam, Composite, Compomer).
 
 > [!WARNING]
 > - 3 con số hay bị tráo: nguy cơ cao SM **> 200.000**, LB **> 1.000.000**; được phép trám khi **cả hai < 100.000**.

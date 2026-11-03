@@ -324,7 +324,7 @@ Nguyên tắc tạo xoang trám (4 ý):
 > *(ngoài SGK)* Amalgam là hợp kim:
 > - **Không dính** vào men, ngà → không có keo nào giữ nó. Muốn miếng trám không rơi ra thì **hình dạng xoang** phải giữ nó, như **nút chai** nằm chặt trong cổ chai: đó là **lưu cơ học** (thành xoang hơi khép lại về phía mặt răng, các rãnh lưu bên trong).
 > - **Giòn khi mỏng** → cần một **khối đủ dày**, đáy phẳng, thành đứng: **hình hộp** chứa được "lượng lớn vật liệu" để **chịu lực** nhai (SGK).
-> - Ngày nay composite, GIC **dán** được vào răng nên không cần cắt bỏ mô lành để tạo hộp, tạo lưu nhiều như vậy (Bài 5 mục 1.2: vật liệu mới như Composite đã làm đổi quan niệm của Black; Bài 7, Bài 8 học kỹ).
+> - Ngày nay composite, GIC **dán** được vào răng nên không cần cắt bỏ mô lành để tạo hộp, tạo lưu nhiều như vậy (Bài 5 mục 1.2: vật liệu mới như Composite đã làm đổi quan niệm của Black; Bài 7 mục 4: xoang GIC **không tạo hình thể lưu**; Bài 8 học composite).
 
 > [!WHY] Vì sao phải "mở rộng xoang đến những vùng có thể làm sạch"?
 > *(ngoài SGK)* Bờ miếng trám là nơi **dễ sâu lại** nhất (khe nhỏ giữa vật liệu và răng). Nếu bờ nằm trong **rãnh sâu** hay **kẽ răng** mà bàn chải, nước bọt không tới, mảng bám đọng ngay ở bờ → sâu tái phát. Black kéo bờ trám ra tới chỗ **tự làm sạch được** và bao luôn các **rãnh sâu kế cận** ([mục 3.1](#m3-1): "**mở rộng phòng ngừa**"). Cái giá là mất thêm mô lành. Thời đó chưa có fluor, trám bít hố rãnh, vật liệu dán: đây là cách phòng sâu tái phát tốt nhất họ có.
@@ -368,7 +368,7 @@ Nguyên tắc tạo xoang trám (4 ý):
 > Mỗi vật liệu được giữ trên răng theo một cách, nên cần một kiểu xoang khác:
 > - **Amalgam**: không dính → cần **hình hộp, lưu cơ học** ([mục 2.2](#m2-2)).
 > - *(ngoài SGK; Bài 8 học kỹ)* **Composite**: **dán** vào men đã xoi mòn bằng acid và vào ngà nhờ hệ thống dán → chỉ cần lấy mô sâu, không phải cắt thêm mô lành để giữ; bờ men còn được **vát** (Bài 8).
-> - *(ngoài SGK; Bài 7 học kỹ)* **GIC**: **gắn kết hóa học** với mô cứng, **nhả fluor** → xoang tối thiểu.
+> - **GIC** (Bài 7 tr. 114, 118): **gắn kết hóa học** với mô cứng, **giải phóng fluor** → **không tạo hình thể lưu**; hình xoang chỉ là kết quả của việc lấy sạch ngà sâu và bỏ men không có ngà nâng đỡ.
 >
 > Cùng một lỗ sâu, đổi vật liệu là đổi hình xoang.
 
@@ -528,7 +528,7 @@ Nguyên tắc tạo xoang trám (4 ý):
 > [!WHY] Vì sao thổi khô xoang quá mức làm lành thương chậm lại?
 > - Thổi mạnh, lâu làm dịch ở miệng ống ngà **bốc hơi**, dịch trong ống bị **kéo ra ngoài** nhanh: đúng kiểu kích thích của **thuyết thủy động học** ([mục 1.2](#m1-2)), bệnh nhân **ê buốt**.
 > - *(ngoài SGK)* Dịch bị hút mạnh có thể kéo cả **nhân tế bào tạo ngà** vào trong ống ngà; tế bào bị tổn thương, có khi chết. Tủy phải **dọn dẹp và thay tế bào mới** rồi mới tạo được ngà để tự vá → "**phản ứng lành thương bị trì hoãn**" (SGK).
-> - Bài 8 (tr. 131) còn nói: ngà bị làm khô quá sau khi xoi mòn thì lớp sợi collagen bị ảnh hưởng, vật liệu dán khó thấm vào. Vì vậy chỉ thổi **nhẹ, vừa đủ**.
+> - Bài 8 (tr. 131) còn nói: ngà bị làm khô quá sau khi xoi mòn thì lớp sợi collagen bị ảnh hưởng, vật liệu dán khó thấm vào. Bài 7 (mục 1.3, tr. 115) dặn tương tự khi trám GIC: phản ứng GIC **cần nước để cân bằng**, thổi khô xoang quá thì **liên kết với răng yếu đi**. Vì vậy chỉ thổi **nhẹ, vừa đủ**.
 
 > [!WHY] Vì sao không được xoi mòn men quá mức?
 > - **Xoi mòn** là bôi **acid** lên men để hòa tan có chọn lọc bề mặt các trụ men, tạo **vô số lỗ nhỏ**; nhựa dán chảy vào các lỗ đó, đông cứng thành những "**vi nối**" giữ composite (Bài 8 tr. 129).

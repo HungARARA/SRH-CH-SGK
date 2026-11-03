@@ -1141,6 +1141,8 @@ Lỗ sâu ngà -> Có chỉ định trám kiểm soát? sâu cấp nhiều răng
 > |---|---|
 > | ==Ca(OH)₂==; nếu không có thì ==Eugenate vô khuẩn== | miếng trám tạm để điều trị, theo dõi thường làm bằng **GIC** (glass ionomer): dán vào mô răng, **giải phóng fluor**, đủ bền để dùng nhiều tháng (Hội Nha khoa Trẻ em Hoa Kỳ – AAPD gọi là *interim therapeutic restoration*). Ca(OH)₂ hiện thường dùng làm **lớp lót** dưới miếng trám, không dùng một mình để trám |
 >
+> Bài 7 (Hình 7.3, tr. 122) cũng có một cách gần với hướng này: xoang **sâu sát tủy**, sau khi lót một lớp mỏng (Fuji Lining hoặc Fuji VII), có thể dùng **GIC IX trám tạm** để **theo dõi khoảng 4 tháng**.
+>
 > **Thi chọn SGK: Ca(OH)₂, thay thế bằng Eugenate vô khuẩn.**
 
 > [!WHY] Vì sao trám vĩnh viễn cần đủ 7 nguyên tắc?
