@@ -702,6 +702,7 @@ Vi khuẩn mảng bám chuyển hóa carbohydrate -> !pH mảng bám < 5,5 -> Kh
 > - Thứ tự sâu ngà tính **từ phía tủy ra**: vùng 1 = **xơ cứng** (gần tủy nhất), vùng 4 = **phá hủy**.
 > - Sâu ngà sớm có đáy nón ở **ĐNMN** và lan **sang bên theo ĐNMN**.
 > - Đừng lẫn tên vùng: **"vùng tối", "vùng trong mờ"** là của **men**; **"vùng xơ cứng"** là của **ngà**.
+> - Riêng Bài 9 (Bảng 9.1) chia sâu ngà tiến triển chậm thành **6 vùng**, đánh số **từ ngoài vào**, và có **vùng đục (vùng tối)**, **vùng trong suốt** (xơ hóa) ngay trong **ngà**. Đề có "6 vùng", "NewBrun" là theo Bài 9 (hộp ⚖️ ở Bài 9 mục 2.1).
 > - Bài 2 (Hình 2.8) đánh số **5 vùng**: ngà phản ứng – xơ cứng/trong mờ – khử khoáng – vi khuẩn xâm nhập và phá hủy – hướng lan. Bài 3 kể **4 vùng**. Đề hỏi "4 vùng" thì theo Bài 3.
 
 ### 3.3. Sâu chân răng · tr. 39
@@ -1134,14 +1135,14 @@ Lỗ sâu ngà -> Có chỉ định trám kiểm soát? sâu cấp nhiều răng
 > - **Chờ xem tủy**: tổn thương lớn, **nghi ngờ bệnh lý tủy** thì trám tạm để theo dõi. *(ngoài SGK)* Nếu tủy hồi phục thì trám vĩnh viễn; nếu tủy chết thì phải chữa tủy, khỏi tốn một miếng trám vĩnh viễn phải tháo ra.
 
 > [!WHY] Vì sao vật liệu trám kiểm soát là Ca(OH)₂, hoặc Eugenate?
-> *(ngoài SGK)* **Ca(OH)₂** có tính **kiềm rất mạnh** nên **diệt khuẩn**, và kích thích tủy **tạo ngà** bảo vệ (Bài 9, che tủy). **Eugenate** (xi măng oxide kẽm – eugenol) có tác dụng **kháng khuẩn**, **làm dịu tủy** và bịt kín tốt. "**Vô khuẩn**" để không mang thêm vi khuẩn vào lỗ đã làm sạch. Cả hai hợp với mục tiêu "làm ngừng bệnh và giữ tủy" của trám kiểm soát, chứ không nhằm bền lâu.
+> *(ngoài SGK)* **Ca(OH)₂** có tính **kiềm rất mạnh** nên **diệt khuẩn**, và kích thích tủy **tạo ngà** bảo vệ (Bài 9 mục 4). **Eugenate** (xi măng oxide kẽm – eugenol) có tác dụng **kháng khuẩn**, **làm dịu tủy** và bịt kín tốt. "**Vô khuẩn**" để không mang thêm vi khuẩn vào lỗ đã làm sạch. Cả hai hợp với mục tiêu "làm ngừng bệnh và giữ tủy" của trám kiểm soát, chứ không nhằm bền lâu.
 
 > [!CAUTION] Hai cách hiểu – vật liệu trám kiểm soát
 > | SGK | Thực hành hiện nay *(ngoài SGK)* |
 > |---|---|
 > | ==Ca(OH)₂==; nếu không có thì ==Eugenate vô khuẩn== | miếng trám tạm để điều trị, theo dõi thường làm bằng **GIC** (glass ionomer): dán vào mô răng, **giải phóng fluor**, đủ bền để dùng nhiều tháng (Hội Nha khoa Trẻ em Hoa Kỳ – AAPD gọi là *interim therapeutic restoration*). Ca(OH)₂ hiện thường dùng làm **lớp lót** dưới miếng trám, không dùng một mình để trám |
 >
-> Bài 7 (Hình 7.3, tr. 122) cũng có một cách gần với hướng này: xoang **sâu sát tủy**, sau khi lót một lớp mỏng (Fuji Lining hoặc Fuji VII), có thể dùng **GIC IX trám tạm** để **theo dõi khoảng 4 tháng**.
+> Bài 7 (Hình 7.3, tr. 122) cũng có một cách gần với hướng này: xoang **sâu sát tủy**, sau khi lót một lớp mỏng (Fuji Lining hoặc Fuji VII), có thể dùng **GIC IX trám tạm** để **theo dõi khoảng 4 tháng**. Bài 9 (mục 2.4.2, tr. 177) cũng gần như vậy: kỹ thuật từng bước lót **Ca(OH)₂** rồi **trám lại bằng GIC**, trám tạm phải **kín hoàn toàn**.
 >
 > **Thi chọn SGK: Ca(OH)₂, thay thế bằng Eugenate vô khuẩn.**
 

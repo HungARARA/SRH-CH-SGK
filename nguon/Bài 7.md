@@ -480,7 +480,7 @@ Bột thủy tinh silicate + acid polyalkenoic -> Phản ứng acid – base: đ
 > - Đây là nguyên tắc **chung** cho mọi xoang (Bài 6 mục 2.2, nguyên tắc 3).
 
 > [!WHY] Vì sao "bảo vệ tủy nếu cần" và "làm sạch xoang" vẫn là nguyên tắc?
-> - **Bảo vệ tủy nếu cần**: xoang sâu, lớp ngà còn lại mỏng (Bài 6 mục 3.2: ngà còn lại càng mỏng càng dễ kích thích tủy) → lót một lớp mỏng trước khi trám (Hình 7.3: **Fuji Lining** hoặc **Fuji VII**); lộ tủy thì che tủy (Bài 9). "**Nếu cần**" vì xoang nông thì không phải lót.
+> - **Bảo vệ tủy nếu cần**: xoang sâu, lớp ngà còn lại mỏng (Bài 6 mục 3.2: ngà còn lại càng mỏng càng dễ kích thích tủy) → lót một lớp mỏng trước khi trám (Hình 7.3: **Fuji Lining** hoặc **Fuji VII**); lộ tủy thì che tủy (Bài 9 mục 3). "**Nếu cần**" vì xoang nông thì không phải lót.
 > - **Làm sạch xoang**: GIC chỉ dính được trên mặt ngà **sạch** ([mục 1.3](#m1-3), lưu ý 1): lấy mảnh vụn, máu, nước bọt, dầu; quét **conditioner** rồi rửa ([mục 5.1](#m5-1)).
 
 > [!WHY] Vì sao dùng đúng 4 dụng cụ này?

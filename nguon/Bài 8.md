@@ -1372,7 +1372,7 @@ Sơ đồ xếp theo thứ tự làm trên ghế *(ngoài SGK)*; SGK kể các b
 > [!WHY] Vì sao dưới composite phải lót, và lót bằng GIC (sát tủy thì thêm Ca(OH)₂)?
 > - Hai thứ có thể làm hại tủy qua lớp ngà mỏng: **acid xoi mòn** (35–37%, mạnh) và **monomer tự do** (chỉ 55–65% monomer trùng hợp: [mục 4](#m4)). Ngà còn lại càng mỏng, ống ngà càng **dày đặc, rộng** (Bài 6 mục 1.2) → hóa chất càng dễ vào tủy.
 > - **GIC** dính **hóa học vào ngà**, bịt ống ngà, và là "**chất dán chặn acid etching, nhựa**" (SGK); lại nhả fluor (Bài 7). Lớp chỉ cần **mỏng** (SGK: bề dày tối thiểu) để chừa chỗ cho composite và để men, ngà quanh bờ vẫn được dán.
-> - **Ca(OH)₂** có tác dụng **kích thích tạo ngà thứ cấp** (SGK) khi ngà còn **< 0,5 mm** hoặc **lộ tủy**; nhưng nó **mềm, tan được**, không dính → phải **phủ GIC** lên trên (Hình 8.19 B). Chi tiết che tủy học ở **Bài 9**.
+> - **Ca(OH)₂** có tác dụng **kích thích tạo ngà thứ cấp** (SGK) khi ngà còn **< 0,5 mm** hoặc **lộ tủy**; nhưng nó **mềm, tan được**, không dính → phải **phủ GIC** lên trên (Hình 8.19 B). Chi tiết che tủy học ở **Bài 9** (kỹ thuật: mục 2.4, 3.4; vật liệu: mục 4).
 > - **GIC cứng nhanh** (SGK: hoàn tất trong **90 giây**) vì là loại lót mỏng; khác với Bài 7 (lót nền GIC rồi **chờ 24 giờ** mới trám kết thúc: cặp dễ nhầm).
 > - Xoang **II lớn** thì Bài 7 (mục 5.4.1) đi xa hơn: **sandwich**, GIC trám đầy **phía dưới** (tới **dưới tiếp điểm**), composite làm **phía trên** chịu lực và thẩm mỹ.
 
@@ -1385,7 +1385,7 @@ Sơ đồ xếp theo thứ tự làm trên ghế *(ngoài SGK)*; SGK kể các b
 > |---|---|
 > | hạng **A, B, C** (còn **0,5 mm** ngà) → **GIC** lớp mỏng; ngà **< 0,5 mm** hoặc **lộ tủy** (hạng **D**) → **Ca(OH)₂** rồi **GIC** | (A) lót **GIC** cho chiều sâu **A, B, C**; (B) lót **Ca(OH)₂ – GIC** cho chiều sâu **C, D** |
 >
-> Hạng C nằm ở **ranh giới 0,5 mm**: hình xếp C vào cả hai. *(ngoài SGK)* Trên lâm sàng, xoang sát ranh giới mà nghi lộ tủy li ti thì thêm Ca(OH)₂ cho an toàn. Hướng hiện nay: với composite và hệ thống dán tốt, ngà còn lại **> 0,5 mm** thường **dán thẳng**, không cần lót; xoang rất sát tủy dùng Ca(OH)₂ hoặc vật liệu silicate calcium (MTA…: Bài 9).
+> Hạng C nằm ở **ranh giới 0,5 mm**: hình xếp C vào cả hai. *(ngoài SGK)* Trên lâm sàng, xoang sát ranh giới mà nghi lộ tủy li ti thì thêm Ca(OH)₂ cho an toàn. Hướng hiện nay: với composite và hệ thống dán tốt, ngà còn lại **> 0,5 mm** thường **dán thẳng**, không cần lót; xoang rất sát tủy dùng Ca(OH)₂ hoặc vật liệu silicate calcium (MTA…: Bài 9 mục 4.2).
 >
 > **Thi chọn theo chữ**: **A, B, C** → **GIC lớp mỏng** (hoàn tất trong 90 giây); **D** (< 0,5 mm hoặc lộ tủy) → **Ca(OH)₂ rồi GIC**.
 

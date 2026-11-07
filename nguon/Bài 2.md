@@ -839,7 +839,7 @@ Vẽ gọn lại, kèm hai mốc pH cần thuộc:
 >
 > - Mỗi ống ngà chứa **nhú Tomes** – phần kéo dài của **nguyên bào ngà** có thân nằm sát tủy (Hình 2.1). Nhờ tế bào này, ngà là **mô sống**, biết phản ứng (Bài 1, mục 2.2.2).
 > - Khi acid, vi khuẩn tấn công từ xa, khoáng được **đắp vào trong ống ngà**: khoảng quanh nguyên bào ngà (PS) rồi cả nhú (OP) khoáng hóa dần, tới khi **ống ngà khoáng hóa hoàn toàn (DT)** (Hình 2.11). Ống bị bít nên acid, vi khuẩn khó đi tiếp – đó là **vùng xơ cứng / trong mờ** (vùng ②, Hình 2.8), tức **xơ cứng ống ngà** màu vàng nâu ở Bài 1.
-> - Ở phía tủy, tế bào còn đắp thêm một lớp ngà mới: **ngà phản ứng** (vùng ①, Hình 2.8).
+> - Ở phía tủy, tế bào còn đắp thêm một lớp ngà mới: **ngà phản ứng** (vùng ①, Hình 2.8). Bài 9 (Bảng 9.1) gọi đây là **vùng 6** vì đánh số từ ngoài vào, và tả rõ hơn: ống ngà thưa thớt, hướng đi không đều đặn.
 > - Hình 2.10: ống ngà gần ĐNMN **nhỏ và thưa**, gần tủy **to và dày** → càng vào sâu gần tủy, ngà càng **thấm**, acid và độc tố vi khuẩn càng dễ tới tủy.
 
 > [!TIP]

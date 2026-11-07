@@ -388,11 +388,11 @@ out: Bài 5 - Phân loại xoang sâu răng.html
 > - **(4) Thâm nhiễm** và **(5) phá hủy**: **vi khuẩn** đã vào ống ngà rồi **phá hủy** khung ngà. Hai vùng này ứng với **ngà nhiễm trùng** của Bài 1: **phải lấy bỏ** *(suy ra)*.
 
 > [!CAUTION] Hai cách hiểu – sâu ngà có mấy vùng?
-> | Bài 2 (Hình 2.8) | Bài 3 (mục 3.2) | Bài 5 (Hình 5.12) |
-> |---|---|---|
-> | **5** vùng: ngà phản ứng – xơ cứng/trong mờ – khử khoáng – vi khuẩn xâm nhập và phá hủy – hướng lan | **4** vùng (từ tủy ra): ==xơ cứng== – ==hủy khoáng== – ==xâm nhập vi khuẩn== – ==phá hủy== | **5** vùng (từ tủy ra): ==thoái hóa sợi Tomes== – ==xơ hóa== – ==bị ảnh hưởng== (khử khoáng một phần) – ==thâm nhiễm== (vi khuẩn) – ==bị phá hủy== |
+> | Bài 2 (Hình 2.8) | Bài 3 (mục 3.2) | Bài 5 (Hình 5.12) | Bài 9 (Bảng 9.1) |
+> |---|---|---|---|
+> | **5** vùng: ngà phản ứng – xơ cứng/trong mờ – khử khoáng – vi khuẩn xâm nhập và phá hủy – hướng lan | **4** vùng (từ tủy ra): ==xơ cứng== – ==hủy khoáng== – ==xâm nhập vi khuẩn== – ==phá hủy== | **5** vùng (từ tủy ra): ==thoái hóa sợi Tomes== – ==xơ hóa== – ==bị ảnh hưởng== (khử khoáng một phần) – ==thâm nhiễm== (vi khuẩn) – ==bị phá hủy== | **6** vùng (**từ ngoài vào**): phá hủy – xâm nhập – khử khoáng – xơ hóa – đục – phản ứng |
 >
-> **Thi**: đề hỏi "**4 vùng**" thì theo Bài 3; đề có "**sợi Tomes**" (hay "Tonie"), "**ngà thâm nhiễm**", "**5 vùng**" thì theo Bài 5. Cả ba bài cùng một thứ tự: **phòng thủ (xơ) ở sâu → mất khoáng → vi khuẩn → phá hủy ở ngoài cùng**.
+> **Thi**: đề hỏi "**4 vùng**" thì theo Bài 3; đề có "**sợi Tomes**" (hay "Tonie"), "**ngà thâm nhiễm**", "**5 vùng**" thì theo Bài 5; đề có "**6 vùng**", "**NewBrun**", "**vùng đục**" thì theo Bài 9. Cả bốn bài cùng một thứ tự: **phòng thủ (xơ) ở sâu → mất khoáng → vi khuẩn → phá hủy ở ngoài cùng**. Để ý cách đánh số: xơ hóa là **vùng 2** ở Bài 5 nhưng **vùng 4** ở Bài 9.
 
 > [!WHY] Vì sao sâu ngà hoạt động thì đáy mềm, không đổi màu; mãn tính thì cứng, nâu đen, sạch?
 > **Hoạt động**: acid và enzyme vi khuẩn đang phá **nhanh**, ngà mềm ra, **chưa kịp ngấm sắc tố**; mảng bám, **vụn thức ăn và ngà hoại tử** còn bám đầy (SGK). **Mãn tính** (đi chậm hoặc đã ngừng): ngà **xơ hóa, tái khoáng** nên **cứng hơn**; nằm lâu thì **ngấm sắc tố** thành **nâu, đen**; ít mảng bám nên **sạch hơn** (SGK). Mẹo của Bài 3: "**cứng là chính, màu là phụ**": sờ thấy cứng mới chắc là đã chậm, đã dừng.

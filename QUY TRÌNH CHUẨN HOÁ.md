@@ -62,7 +62,7 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
 | 6 | Các yếu tố sinh học trong sửa soạn xoang | 109–113 | ✅ xong (49 câu, 27 hộp 🔍, Hình 6.1 vẽ lại SVG) |
 | 7 | Nguyên tắc tạo xoang và trám bằng xi măng glass ionomer (GIC) | 114–122 | ✅ xong (50 câu, 46 hộp 🔍, 4 hình SGK) |
 | 8 | Nguyên tắc tạo xoang và trám bằng vật liệu composite | 123–170 | ✅ xong (70 câu, 55 hộp 🔍, 17 hình SGK; dài, chia 2 ngày) |
-| 9 | Che tủy | 171–187 | ⏳ |
+| 9 | Che tủy | 171–187 | ✅ xong (50 câu, 35 hộp 🔍, 7 hình SGK) |
 | 10 | Mòn răng | 188–197 | ⏳ |
 
 ## 5. Các bước làm một bài
