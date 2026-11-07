@@ -10,7 +10,7 @@ out: Bài 8 - Nguyên tắc tạo xoang và trám bằng vật liệu composite.
 > 1. **Đọc "Bức tranh 1 phút"** để thấy cả bài trả lời **ba câu hỏi**: composite **dính vào răng bằng cách nào** (mục 1–2), composite **là gì, cứng lại ra sao, bền tới đâu** (mục 2–5), và **trám thế nào cho đúng** (mục 6). Chưa cần thuộc.
 > 2. **Đọc từng mục** (đúng số mục trong sách). Bài dài 48 trang nên chia: **ngày 1** đọc mục **0 → 3** (chất dán, hệ thống dán, thành phần và phân loại composite, đèn quang trùng hợp); **ngày 2** đọc mục **4 → 6** (tính chất, cân nhắc lâm sàng, chỉ định và các bước trám). Mỗi mục: hộp 💡 *Hiểu nhanh* → **📖 SGK ghi** (ý của sách viết gọn, giữ đúng thuật ngữ và con số) → các hộp 🔍 *Vì sao…?* (cơ chế: đọc để hiểu, không cần thuộc; ý ngoài SGK đều ghi rõ, thi vẫn chọn theo SGK). Chữ ==tô vàng== là từ khoá/con số đề hay lấy rồi đổi đi một chữ.
 > 3. **Bấm "Che từ khoá"** (thanh trên cùng) → đọc lại; gặp ô bị che thì tự nói ra trước rồi bấm vào ô để kiểm tra.
-> 4. **Làm trắc nghiệm** cuối bài (ngày 1 làm Phần A–E, ngày 2 làm Phần F–I). Câu sai → bấm nhãn "mục …" của câu đó để về đúng đoạn cần đọc. Làm xong bấm **"Chỉ xem câu sai"**.
+> 4. **Làm trắc nghiệm** cuối bài (ngày 1 làm Phần A–E, ngày 2 làm Phần F–J). Câu sai → bấm nhãn "mục …" của câu đó để về đúng đoạn cần đọc. Làm xong bấm **"Chỉ xem câu sai"**.
 >
 > Mục 1–5 dịch từ sách vật liệu nha khoa tiếng Anh (hình của S.C. Bayne, sách Sturdevant), nhiều câu dịch sát chữ nên khó đọc, vài chỗ **in nhầm** (đơn vị "pm" thay cho µm, một câu về độ nhớt bị dịch ngược): mỗi chỗ có hộp riêng. Mục 6 là phần **làm tay** của Bộ môn Chữa răng – Nội nha Cần Thơ, đề hay hỏi nhất. Bài nối với **Bài 6** (lớp mùn ngà, vát men, không thổi khô quá mức), **Bài 7** (GIC: không xoi mòn acid, sandwich, lót nền) và **Bài 9** (che tủy bằng Ca(OH)₂). Đáp án sách (tr. 198) của câu lượng giá **1** và **3** không khớp hẳn phần chữ: có hộp 📌 ở [mục 2.1](#m2-1) và [mục 6.3.3](#m6-3-3).
 >
@@ -1512,7 +1512,7 @@ Sơ đồ xếp theo thứ tự làm trên ghế *(ngoài SGK)*; SGK kể các b
 
 ## Trắc nghiệm tự kiểm tra
 
-Bấm vào đáp án để biết đúng/sai ngay. Nhãn "Nhớ / Hiểu / Vận dụng" là mức độ câu hỏi; bấm vào nhãn để về đúng mục SGK. Câu ghi "Lượng giá SGK" là câu hỏi cuối bài trong sách (giữ nguyên thứ tự lựa chọn; đáp án SGK tr. 198). Câu lượng giá 1 và 3 có đáp án sách không khớp hẳn phần chữ: làm theo đáp án sách, rồi đọc hộp 📌 ở mục 2.1 và 6.3.3. Ngày 1 làm Phần A–E, ngày 2 làm Phần F–I.
+Bấm vào đáp án để biết đúng/sai ngay. Nhãn "Nhớ / Hiểu / Vận dụng" là mức độ câu hỏi; bấm vào nhãn để về đúng mục SGK. Câu ghi "Lượng giá SGK" là câu hỏi cuối bài trong sách (giữ nguyên thứ tự lựa chọn; đáp án SGK tr. 198). Câu lượng giá 1 và 3 có đáp án sách không khớp hẳn phần chữ: làm theo đáp án sách, rồi đọc hộp 📌 ở mục 2.1 và 6.3.3. Ngày 1 làm Phần A–E, ngày 2 làm Phần F–J.
 
 ### Phần A – Đại cương và chất dán (mục 0, 1)
 
@@ -1535,6 +1535,36 @@ Phần vô cơ (hạt độn) trong composite có ý nghĩa:
 - [ ] Làm tăng hệ số dãn nở nhiệt cho gần với răng
 - [ ] Giúp composite dính hóa học trực tiếp vào răng
   > Hạt độn vô cơ **tăng độ cứng**, **giảm hệ số dãn nở nhiệt** so với vật liệu giống màu răng trước đó. Composite không tự dính vào răng; nó cần hệ thống dán.
+
+#### Nhớ · 1.1
+
+Độ bền của một hệ thống dán được đo bằng:
+
+- [ ] Hệ số giãn nở nhiệt của chất dán
+- [ ] Máy đo phóng xạ cầm tay
+- [ ] Máy đo profin bề mặt
+- [x] Các thử nghiệm làm bong dán
+  > SGK: "Độ bền của một hệ thống dán được đo bằng **các thử nghiệm làm bong dán**". Máy đo phóng xạ đo ánh sáng đèn (mục 3); máy đo profin đo độ nhám (mục 2.2).
+
+#### Nhớ · 1.1
+
+Mối nối dán là kết quả của:
+
+- [ ] Sự tương tác của chất dán với một bề mặt duy nhất của vật được dán
+- [ ] Sự nóng chảy của hai bề mặt vật được dán rồi đông lại thành một khối
+- [ ] Sự hòa tan hoàn toàn của chất dán vào bên trong mô răng
+- [x] Sự tương tác của một lớp vật liệu trung gian (chất dán) với hai bề mặt
+  > **Mối nối** = một lớp **chất dán** nằm giữa và tương tác với **hai bề mặt** (Hình 8.1, dưới). Chất dán mới chạm một bề mặt thì chưa phải mối nối.
+
+#### Hiểu · 1.1
+
+Trong hầu hết các trường hợp, diện tích tiếp xúc thật giữa các vật liệu dán:
+
+- [ ] Đúng bằng diện tích của mặt phẳng đo được bằng thước
+- [ ] Không có ý nghĩa gì đối với sự dán
+- [ ] Nhỏ hơn nhiều, vì chất dán co lại sau khi đông cứng hẳn
+- [x] Lớn hơn nhiều, do trạng thái thô trên giao diện cơ học
+  > SGK: diện tích tiếp xúc "**có thể lớn hơn nhiều do trạng thái thô trên giao diện cơ học**". Mặt gồ ghề có nhiều chỗ cho chất dán bám hơn mặt phẳng.
 
 #### Nhớ · 1.2
 
@@ -1566,6 +1596,36 @@ Mài bề mặt răng bằng mũi khoan để tạo bề mặt thô cho liên k�
 - [x] Để lại một lớp tinh thể hydroxyapatite và collagen biến tính dày khoảng 1–3 µm, cần xoi mòn acid để hòa tan
   > Mài tạo bề mặt thô nhưng để lại lớp **1–3 µm** (lớp mùn). **Xoi mòn acid** làm tan lớp này và tạo **vi lưu cơ học**.
 
+#### Hiểu · 1.2
+
+Liên kết hóa học đóng góp hạn chế trong lực liên kết chung của dán nha khoa vì:
+
+- [ ] Mô răng không có nguyên tử nào tạo được liên kết hóa học với chất dán
+- [ ] Liên kết hóa học chỉ có ở miếng trám amalgam, không có ở composite
+- [ ] Liên kết hóa học luôn yếu hơn lực Vander Waals giữa hai bề mặt
+- [x] Các vật liệu thường không giống nhau nên sự mở rộng liên kết có giới hạn
+  > SGK: "vì các vật liệu thường không giống nhau nên **sự mở rộng liên kết có giới hạn**", lực phân bố chung thường thấp. Hình 8.3 ghi liên kết hóa học "**bền nhưng ít gặp**".
+
+#### Nhớ · 1.2
+
+Khi độ nhám tạo ra kết dính vi thể với đường kính nhỏ hơn 10 µm thì được gọi là:
+
+- [ ] Lớp lai
+- [ ] Liên kết vật lý
+- [ ] Liên kết hóa học
+- [x] Vi liên kết cơ học
+  > SGK: kết dính vi thể **< 10 µm** gọi là **vi liên kết cơ học**.
+
+#### Hiểu · 1.2
+
+Liên kết vật lý có thể là loại liên kết duy nhất giữa hai bề mặt khi:
+
+- [ ] Chất dán đồng trùng hợp với vật liệu bên trên
+- [ ] Bề mặt thô ráp, có mặt cắt không theo quy tắc
+- [ ] Bề mặt đã được xoi mòn bằng acid, có nhiều vi lưu
+- [x] Các bề mặt mịn và không giống nhau về mặt hóa học
+  > SGK: liên kết vật lý (Vander Waals, tĩnh điện) "**có thể là loại liên kết duy nhất nếu các bề mặt mịn và không giống nhau về mặt hóa học**". Mặt thô, có vi lưu thì có liên kết cơ học.
+
 #### Nhớ · 1.3
 
 Hai yêu cầu để có sự kết dính tốt là:
@@ -1575,6 +1635,36 @@ Hai yêu cầu để có sự kết dính tốt là:
 - [ ] Chất dán có độ nhớt cao và bề mặt ẩm ướt
 - [x] Bề mặt được chất dán làm ướt tốt (góc tiếp xúc gần 0) và bề mặt sạch
   > Yêu cầu 1: **làm ướt** (ướt hoàn toàn thì **góc tiếp xúc gần bằng 0**). Yêu cầu 2: bề mặt **sạch**; làm sạch nghiêm ngặt bằng **dung môi hoặc acid**.
+
+#### Vận dụng · 1.3
+
+Men vừa xoi mòn, rửa và làm khô thì bị dính nước bọt trước khi bôi chất dán. Cách xử lý phù hợp:
+
+- [ ] Thổi khô thật lâu rồi bôi chất dán ngay
+- [ ] Bôi chất dán dày hơn để che lớp nước bọt
+- [x] Loại bỏ chất bẩn bằng acid (xoi mòn lại), rửa, làm khô rồi mới dán
+- [ ] Bỏ qua vì nước bọt không ảnh hưởng liên kết cơ học
+  > Bề mặt sạch **hấp thụ nhanh** chất gây ô nhiễm; không loại bỏ thì **kết dính sẽ yếu**. Làm sạch nghiêm ngặt bằng **dung môi hoặc acid**.
+
+#### Nhớ · 1.3
+
+Quy trình nghiêm ngặt để làm sạch bề mặt trước khi dán là:
+
+- [x] Dùng dung môi hoặc acid để hòa tan hoặc rửa trôi các chất gây nhiễm
+- [ ] Lau bằng gòn khô rồi để bề mặt ngoài không khí một lúc cho thật sạch
+- [ ] Thổi hơi mạnh lên bề mặt liên tục trong khoảng 60 giây cho sạch bụi
+- [ ] Phủ một lớp vecni mỏng lên bề mặt để ngăn hơi ẩm và bụi bám vào
+  > Bề mặt sạch **hấp thụ nhanh** hơi ẩm, bụi trong không khí. SGK: làm sạch bằng **dung môi hoặc acid** để hòa tan hoặc rửa trôi chất gây nhiễm.
+
+#### Hiểu · 1.3
+
+Một chất lỏng làm ướt hoàn toàn một bề mặt rắn thì:
+
+- [ ] Không tương tác với bề mặt, góc tiếp xúc không đổi
+- [ ] Vo tròn thành giọt, góc tiếp xúc gần bằng 180°
+- [ ] Đứng yên thành giọt, góc tiếp xúc khoảng 90°
+- [x] Lan rộng trên bề mặt, góc tiếp xúc gần bằng 0
+  > SGK: chất lỏng làm ướt chất rắn **dễ lan truyền** trên bề mặt; nếu ướt hoàn toàn thì **góc tiếp xúc sẽ gần bằng 0**.
 
 #### Hiểu · 1.4
 
@@ -1586,15 +1676,35 @@ Về độ bền mối dán composite – ngà, câu đúng là:
 - [ ] Ngà kỵ nước nên chất liên kết ngà phải kỵ nước
   > **Ngà cứng hơn composite, mạnh hơn tác nhân liên kết ngà**. Cải thiện lực dán bằng cách **giảm độ dày dán** (tối thiểu **1 µm**, lực **25–40 MPa**). Ngà **ưa nước**.
 
-#### Vận dụng · 1.3
+#### Nhớ · 1.4
 
-Men vừa xoi mòn, rửa và làm khô thì bị dính nước bọt trước khi bôi chất dán. Cách xử lý phù hợp:
+Khi chất dán ngà thấm vào bề mặt ngà xoi mòn với độ dày tối thiểu khoảng 1 µm, lực dán trung bình đạt:
 
-- [ ] Thổi khô thật lâu rồi bôi chất dán ngay
-- [ ] Bôi chất dán dày hơn để che lớp nước bọt
-- [x] Loại bỏ chất bẩn bằng acid (xoi mòn lại), rửa, làm khô rồi mới dán
-- [ ] Bỏ qua vì nước bọt không ảnh hưởng liên kết cơ học
-  > Bề mặt sạch **hấp thụ nhanh** chất gây ô nhiễm; không loại bỏ thì **kết dính sẽ yếu**. Làm sạch nghiêm ngặt bằng **dung môi hoặc acid**.
+- [ ] 4–6 MPa
+- [ ] 10–12 MPa
+- [x] 25–40 MPa
+- [ ] 80–100 MPa
+  > SGK: độ dày tối thiểu của chất dán ngà đạt **1 micromet**, chỗ nứt lệch hướng vào trong ngà; **lực dán trung bình 25 tới 40 MPa**.
+
+#### Nhớ · 1.4
+
+Hầu hết hệ thống liên kết ngà hiện tại được thiết kế với các bước:
+
+- [x] Xoi mòn, mồi nước và dán
+- [ ] Bôi vecni, xoi mòn và dán
+- [ ] Mài, thổi khô và dán
+- [ ] Dán trực tiếp lên lớp mùn
+  > Ngà vẫn **ưa nước**, nên hệ thống liên kết ngà được thiết kế với **xoi mòn, mồi nước và dán**.
+
+#### Nhớ · 1.4
+
+Dán lên men hoặc ngà còn nguyên lớp mùn, độ bền cắt chỉ khoảng:
+
+- [x] 4–6 MPa
+- [ ] 18–22 MPa
+- [ ] 22–35 MPa
+- [ ] 90–200 MPa
+  > Bảng 8.1: men, ngà có lớp mùn **4–6 MPa** (mục 6.3.1 ghi 5–6 MPa). 18–22 MPa là men + hệ thống dán men; 22–35 MPa là ngà + hệ thống dán ngà; 90–200 MPa là độ bền của chính men răng.
 
 ### Phần B – Hệ thống dán men và ngà (mục 2.1)
 
@@ -1688,6 +1798,136 @@ Tính theo thể tích, hydroxyapatite chiếm khoảng bao nhiêu phần trăm 
 - [ ] 95%
   > Bảng 8.2: ngà **70%** trọng lượng nhưng chỉ **47% thể tích** là hydroxyapatite (collagen **27%**, nước **21%** thể tích). Men: **95%** trọng lượng, **87%** thể tích.
 
+#### Nhớ · 2.1
+
+Khi dán men, các vi nối có chiều dài khoảng:
+
+- [ ] 0,1–0,5 µm
+- [x] 2–5 µm
+- [ ] 10–20 µm
+- [ ] 50–100 µm
+  > SGK: "tất cả vi nối dài khoảng **2 đến 5 micromet**"; chiều dài vi nối **không quan trọng** vì nứt gãy chỉ xảy ra ở rìa xoang.
+
+#### Nhớ · 2.1
+
+Với dán men, giới hạn trên lý thuyết của độ bền liên kết và giá trị thường gặp trên lâm sàng lần lượt khoảng:
+
+- [x] 50 MPa và 20 MPa
+- [ ] 20 MPa và 5 MPa
+- [ ] 100 MPa và 50 MPa
+- [ ] 200 MPa và 90 MPa
+  > SGK: độ bền đo được 18–22 MPa; **giới hạn trên lý thuyết khoảng 50 MPa**; **trên lâm sàng thường khoảng 20 MPa**.
+
+#### Hiểu · 2.1
+
+Độ bền liên kết vi mô của vật dán vào men bị ảnh hưởng bởi:
+
+- [ ] Số lượng ống ngà và độ ẩm của ngà bên dưới men
+- [ ] Màu của composite và đường kính đầu đèn trùng hợp
+- [x] Độ dày màng của hệ thống dán và độ bền cắt của men
+- [ ] Chiều dài vi nối và kiểu khuôn xoi mòn trên men
+  > SGK: bị ảnh hưởng bởi **độ dày màng của hệ thống dán** và **độ bền cắt của men**. Chiều dài vi nối và khuôn xoi mòn thì **không quan trọng**.
+
+#### Hiểu · 2.1
+
+Liên kết giữa hệ thống dán và composite đặt bên trên là:
+
+- [ ] Lực Vander Waals yếu, nên đây là chỗ dễ bong nhất của miếng trám
+- [ ] Liên kết vi cơ học, do composite chảy vào các vi lưu của lớp chất dán
+- [ ] Liên kết ion giữa nhóm COO⁻ của chất dán và Ca²⁺ của composite
+- [x] Liên kết hóa học mạnh, do đồng trùng hợp với mạng lưới pha của composite
+  > SGK: hệ thống liên kết **đồng trùng hợp** với những mạng lưới pha của composite, **mang lại liên kết hóa học mạnh**. Còn chất dán với men là khóa **vi cơ học**.
+
+#### Hiểu · 2.1
+
+Trong quá trình dán, đối với lớp mùn cần:
+
+- [ ] Phủ một lớp vecni lên trên để cách ly lớp mùn với nhựa dán phía trên
+- [ ] Giữ nguyên, vì đó là lớp mà chất dán bám chắc nhất vào ngà răng
+- [ ] Thổi thật khô cho lớp mùn cứng lại rồi mới dán composite lên trên
+- [x] Loại bỏ hoặc xuyên qua, thường bằng cách hòa tan một phần hoặc toàn bộ
+  > SGK: "cần **loại bỏ hoặc xuyên qua** lớp mùn; cách thường áp dụng là **hòa tan một phần hoặc toàn bộ** lớp mùn". Dán thẳng lên lớp mùn chỉ được 4–6 MPa.
+
+#### Nhớ · 2.1
+
+Độ bền liên kết với ngà đã tăng qua các giai đoạn. Thứ tự đúng là:
+
+- [x] Xoi mòn ngà ban đầu 10–12 MPa → hệ thống ái thủy 18–20 MPa → xoi mòn vừa phải kèm chất lót ưa nước 22–35 MPa
+- [ ] Xoi mòn ngà ban đầu 22–35 MPa → hệ thống ái thủy 18–20 MPa → xoi mòn vừa phải kèm chất lót ưa nước 10–12 MPa
+- [ ] Hệ thống ái thủy 10–12 MPa → xoi mòn ngà ban đầu 18–20 MPa → xoi mòn vừa phải kèm chất lót ưa nước 22–35 MPa
+- [ ] Xoi mòn ngà ban đầu 4–6 MPa → hệ thống ái thủy 10–12 MPa → xoi mòn vừa phải kèm chất lót ưa nước 50 MPa
+  > SGK: xoi mòn ngà ban đầu (bỏ lớp mùn) **10–12** → hệ thống biến đổi thành ái thủy **18–20** → xoi mòn vừa phải + lớp chất lót ưa nước **22–35 MPa**.
+
+#### Hiểu · 2.1
+
+Tuổi thọ của liên kết với ngà ngắn hơn liên kết với men vì:
+
+- [ ] Ngà chứa nhiều khoáng hơn men
+- [ ] Ngà không có collagen như men
+- [x] Ngà chứa nhiều nước hơn men
+- [ ] Ngà cứng hơn composite và men
+  > SGK: "**Do ngà chứa nhiều nước hơn men**, tuổi thọ của liên kết ngà sẽ ngắn hơn". Bảng 8.2: nước chiếm 21% thể tích ngà, 11% thể tích men.
+
+#### Nhớ · 2.1
+
+Tính theo trọng lượng, hydroxyapatite chiếm trong men và trong ngà lần lượt khoảng:
+
+- [ ] 70% và 95%
+- [ ] 87% và 47%
+- [ ] 47% và 87%
+- [x] 95% và 70%
+  > Bảng 8.2: hydroxyapatite **95%** trọng lượng men, **70%** trọng lượng ngà. 87% và 47% là tính theo **thể tích**.
+
+#### Nhớ · 2.1
+
+Thành phần có trong ngà nhưng không có trong men là:
+
+- [ ] Nước
+- [ ] Hydroxyapatite
+- [x] Collagen
+- [ ] Protein không collagen, lipid, ion
+  > Bảng 8.2: **collagen** chỉ có ở ngà (**18%** trọng lượng, **27%** thể tích); ô của men để trống.
+
+#### Nhớ · 2.1
+
+Tính theo thể tích, nước chiếm trong ngà khoảng:
+
+- [ ] 3%
+- [ ] 11%
+- [x] 21%
+- [ ] 47%
+  > Bảng 8.2: nước trong ngà **10%** trọng lượng, **21%** thể tích; trong men 3% trọng lượng, 11% thể tích.
+
+#### Nhớ · 2.1
+
+Ngà đã xoi mòn bị mất nước được bù nước bằng cách:
+
+- [x] Cho một bông ẩm hoặc đầu bôi thuốc tiếp xúc với bề mặt trong khoảng 10 giây
+- [ ] Bôi lại acid phosphoric trong 20 giây rồi rửa thật kỹ bằng tia nước
+- [ ] Xịt nước mạnh lên bề mặt ngà trong khoảng 60 giây rồi để nguyên nước đọng
+- [ ] Thổi hơi ấm lên bề mặt ngà liên tục trong khoảng 30 giây cho ngà hồi lại
+  > SGK: ngà phải được giữ ẩm hoặc bù nước; bù nước bằng **một bông ẩm hoặc đầu bôi thuốc** tiếp xúc với bề mặt **trong khoảng 10 giây**.
+
+#### Hiểu · 2.1
+
+Nhược điểm của hệ thống dán một thành phần (gộp cả ba giai đoạn) là:
+
+- [ ] Hoàn toàn không dán được vào ngà răng, chỉ dán được vào men
+- [ ] Quy trình phức tạp hơn và nhiều bước hơn hệ thống ba thành phần
+- [ ] Hoàn toàn không dán được vào men răng, chỉ dán được vào ngà
+- [x] Không nhất thiết liên kết được với ceramic, composite hoặc amalgam
+  > SGK: hệ thống một thành phần **đơn giản hơn** để liên kết men và ngà, **nhưng không nhất thiết làm ướt và liên kết với các chất nền khác như ceramic, composite hoặc amalgam**.
+
+#### Hiểu · 2.1
+
+Ưu điểm của hệ thống dán ba thành phần (hệ thống liên kết đa năng) là:
+
+- [x] Chỉnh sửa được cho hợp với sự khác biệt về tính chất của vật liệu
+- [ ] Không cần giữ ẩm ngà sau xoi mòn trước khi bôi chất dán lên
+- [ ] Không cần bước xoi mòn acid trước khi dán vào cả men và ngà
+- [ ] Ít bước thao tác hơn nên rút ngắn đáng kể thời gian làm việc
+  > SGK: hệ thống ba thành phần giúp **chỉnh sửa cho phù hợp với sự khác biệt về tính chất của vật liệu**; rất khó tạo ra một hệ thống một thành phần hoạt động tốt trong mọi tình huống.
+
 ### Phần C – Trám bít, thành phần và lịch sử composite (mục 2.1, 2.2)
 
 #### Nhớ · 2.1
@@ -1729,6 +1969,56 @@ Hệ thống dán (chất dán) đi kèm composite là:
 - [ ] Dung dịch acid polyacrylic 10–20%
 - [ ] Màng dày 50–100 µm phủ lên ngà để cách nhiệt
   > Hệ thống dán: **monomer acrylic không hạt độn** (như pha bao bọc), màng **1–5 µm**, **khóa vi cơ học** với bề mặt xoi mòn, **đồng trùng hợp** với composite; là **một phần của sản phẩm composite**. Polyacrylic 10–20% là conditioner của GIC.
+
+#### Nhớ · 2.1
+
+Chất trám bít hố rãnh được các bác sĩ nha khoa đề xuất vào:
+
+- [ ] Đầu những năm 40
+- [x] Cuối những năm 60
+- [ ] Giữa những năm 80
+- [ ] Đầu những năm 2000
+  > SGK: chất trám bít hố rãnh được đề xuất vào **cuối những năm 60**.
+
+#### Hiểu · 2.1
+
+Hố và rãnh dễ bị sâu vì:
+
+- [ ] Men ở đáy hố rãnh dày hơn nơi khác nên acid khó thoát ra ngoài được
+- [ ] Hố rãnh không bao giờ chịu lực nhai nên lớp men ở đó yếu dần đi
+- [x] Không thể tự làm sạch, thức ăn, mảnh vụn hữu cơ và vi khuẩn dễ tích tụ
+- [ ] Hố rãnh nằm xa lưỡi và má nên không bao giờ được bàn chải chải tới
+  > SGK: hố và rãnh **không thể tự làm sạch** → dễ sâu do **thức ăn kẹt lại, tích tụ mảnh vụn hữu cơ và vi khuẩn miệng**.
+
+#### Vận dụng · 2.1
+
+Vừa đặt xong chất trám bít hố rãnh ở răng 36, bước cần làm tiếp theo là:
+
+- [ ] Để nguyên, vì vật liệu sẽ tự mòn cho đúng khớp cắn chỉ sau vài ngày nhai bình thường
+- [ ] Phủ thêm một lớp vecni dày lên trên để chất trám bít không bị mòn đi theo thời gian
+- [ ] Đắp thêm vật liệu ở đỉnh múi răng để tăng độ dày cho lớp chất trám bít hố rãnh
+- [x] Điều chỉnh vật liệu để không ảnh hưởng tiếp xúc khớp cắn và đường hướng dẫn cắn khớp
+  > SGK: vật liệu **phải được điều chỉnh sau khi trám** để không ảnh hưởng các **tiếp điểm khớp cắn** hoặc phá vỡ các **đường hướng dẫn cắn khớp**.
+
+#### Nhớ · 2.1
+
+Trong composite nha khoa, monomer acrylic có vai trò:
+
+- [x] Tạo hỗn dịch ban đầu, đúc được để đưa vào răng trám
+- [ ] Gia cố tính chất cơ học và tăng độ cứng của vật liệu
+- [ ] Tăng độ trong mờ giống men răng nhờ tán xạ ánh sáng
+- [ ] Tạo sự cản quang cho vật liệu trên phim X quang
+  > SGK: hạt silicate gia cố cơ học và tạo độ trong mờ; **monomer acrylic tạo hỗn dịch ban đầu, đúc được để đưa vào răng trám**.
+
+#### Nhớ · 2.1
+
+Glass ionomer cement được thay đổi với hạt độn chứa polymer và pha bao bọc chứa monomer được gọi là:
+
+- [ ] Composite nén hay chất thay thế amalgam
+- [ ] Xi măng polycarboxylate biến đổi nhựa
+- [x] Glass ionomer lai hoặc resin biến đổi
+- [ ] Composite hoàn tất mịn hay composite vi độn
+  > SGK: gọi là **glass ionomer lai hoặc resin biến đổi**, cũng có thể mô tả là composite biến đổi (Bài 7: Fuji II LC "có phối hợp resine").
 
 #### Nhớ · 2.2
 
@@ -1799,6 +2089,116 @@ Cùng một khối lượng chất độn, nếu thay hạt độn lớn bằng 
 - [ ] Diện tích tiếp xúc không đổi
 - [ ] Diện tích tiếp xúc tăng 100 lần, hỗn hợp loãng hơn
   > Hạt nhỏ hơn **10 lần** → diện tích tiếp xúc **tăng theo hệ số 10**; **ma sát bề mặt hạt độn – monomer** điều chỉnh độ lỏng → **độ nhớt tăng** (tr. 140: hạt nhỏ tạo **độ nhớt cao**). Hộp 📌 ở mục 2.2 nói về câu in ngược ở tr. 135.
+
+#### Nhớ · 2.2
+
+Vấn đề chính của silicate cement, vật liệu trám thẩm mỹ đầu tiên, là:
+
+- [ ] Rất quánh nên khó đưa vào xoang, phải pha loãng
+- [x] Giòn, dễ bị rạn nứt nên hạn chế phục hồi răng vỡ lớn
+- [ ] Đổi màu sau 3–5 năm do chất gia tốc amin
+- [ ] Co lại nhiều khi trùng hợp, tạo kẽ hở ở bờ miếng trám
+  > Silicate cement (phosphoric acid + hạt silicat thủy tinh) **giòn, dễ rạn nứt**. Co nhiều là của PMMA; rất quánh là của BIS-GMA, UDMA; amin là của composite tự trùng hợp.
+
+#### Nhớ · 2.2
+
+Nhựa PMMA (methyl methacrylate) có nhược điểm:
+
+- [ ] Bị bisphenol A làm đổi màu nhanh, không dùng được cho răng trước
+- [ ] Quánh tới mức phải pha thêm TEGDMA mới đưa được vào xoang
+- [ ] Giòn, dễ rạn nứt do tạo matrix silica gel khi phản ứng với phosphoric acid
+- [x] Co lại nhiều khi trùng hợp, tạo kẽ hở ở bờ; không đủ bền chịu lực khớp cắn
+  > SGK: PMMA **co lại nhiều khi trùng hợp → kẽ hở ở bờ**; **không đủ bền chịu lực khớp cắn** → người ta thêm hạt độn ceramic (chủ yếu silica).
+
+#### Hiểu · 2.2
+
+Sealant chứa 1–2% hạt độn được xếp vào loại:
+
+- [ ] Composite đồng loại hạt độn nhỏ, vì hạt rất mịn
+- [ ] Composite lỏng, vì có lượng chất độn nhỏ nhất
+- [x] Không hạt độn, vì lượng hạt độn thêm vào quá nhỏ
+- [ ] Composite lai, vì có hai cỡ hạt độn trộn lẫn
+  > SGK: nếu lượng hạt độn thêm vào nhựa nhỏ thì nhựa vẫn được coi là **không hạt độn**: sealant chứa **1–2%** hạt độn vẫn xếp loại không hạt độn.
+
+#### Nhớ · 2.2
+
+Các ion Li và Al được thêm vào thành phần chất độn nhằm:
+
+- [x] Giúp phần tinh thể dễ dàng nghiền thành những hạt nhỏ
+- [ ] Làm hạt độn liên kết hóa học trực tiếp với ngà
+- [ ] Tăng độ quánh của hỗn hợp để dễ tạo hình
+- [ ] Tạo sự cản quang cho hạt độn khi chụp phim X quang
+  > SGK: **Li, Al** giúp phần tinh thể **dễ nghiền thành hạt nhỏ**; **Ba, Zn, B, Zr, Y** tạo **cản quang**.
+
+#### Nhớ · 2.2
+
+Chất độn phổ biến nhất trong composite hiện nay là:
+
+- [x] Silica dạng không tinh thể có chứa Ba, Zn, Y
+- [ ] Tinh thể đơn silicon carbide (SiC)
+- [ ] Chất độn polymer dạng tinh thể
+- [ ] Silica dạng tinh thể như thạch anh, tridymite
+  > SGK: phần lớn composite làm từ **silica không tinh thể**; dạng **không tinh thể chứa Ba, Zn, Y là chất độn phổ biến nhất hiện nay**. Silica tinh thể bền, cứng nhưng khó hoàn tất, đánh bóng.
+
+#### Hiểu · 2.2
+
+Yếu tố chủ yếu điều chỉnh độ lỏng của hỗn hợp chất độn và nhựa khung là:
+
+- [ ] Bước sóng ánh sáng của đèn quang trùng hợp
+- [ ] Độ dày lớp chất dán phủ trên xoang
+- [ ] Nhiệt độ trong khoang miệng lúc trám
+- [x] Sự ma sát bề mặt giữa các hạt độn và monomer
+  > SGK: độ lỏng bị ảnh hưởng bởi độ lỏng của monomer và hàm lượng chất độn; **sự ma sát bề mặt giữa các hạt độn và monomer là yếu tố chủ yếu**.
+
+#### Hiểu · 2.2
+
+Khi hoàn tất composite, bề mặt có thể bị nhám vì:
+
+- [ ] Nước bọt hòa tan một phần hạt độn silica ngay trong lúc mài và đánh bóng miếng trám
+- [ ] Nhựa khung cứng hơn hạt độn nên phần nhựa nhô lên, còn hạt độn bị mài lõm xuống
+- [x] Hạt độn cứng hơn nhựa khung: một vài hạt nhô lên, một vài hạt bị tróc ra tạo thành hố
+- [ ] Chất nối silane làm hạt độn nở to ra khi gặp nhiệt sinh ra từ mũi mài khi hoàn tất
+  > SGK: hạt độn **cứng hơn nhựa khung**, nên khi hoàn tất **một vài hạt nhô lên, một vài hạt bị tróc ra tạo thành những hố**. Hạt độn rất nhỏ thì độ nhám ít quan ngại.
+
+#### Hiểu · 2.2
+
+Bề mặt miếng trám composite nhám gây hậu quả:
+
+- [ ] Tăng độ bền liên kết của miếng trám với ngà răng
+- [x] Tán xạ ánh sáng và lưu lại mảnh thức ăn hay mảng bám
+- [ ] Giúp ánh sáng đèn xuyên sâu hơn vào vật liệu
+- [ ] Giảm mòn do thức ăn ở vùng không tiếp xúc (CFA)
+  > SGK: "Bề mặt nhám gây **tán xạ ánh sáng** và **lưu lại mảnh thức ăn hay mảng bám**".
+
+#### Nhớ · 2.2
+
+Độ nhám trung bình (Ra) của bề mặt composite được đánh giá lâm sàng là rất mịn khi:
+
+- [x] Nhỏ hơn 1 µm
+- [ ] Khoảng 2–5 µm
+- [ ] Khoảng 10 µm
+- [ ] Khoảng 20 µm
+  > SGK: Ra **nhỏ hơn 1 µm** được đánh giá lâm sàng là **rất mịn**; có thể đạt **0,2–0,6 µm** bằng bột đánh bóng siêu hiển vi trên vật liệu có chất độn siêu hiển vi.
+
+#### Nhớ · 2.2
+
+Thứ tự kích thước vật liệu mài khi hoàn tất thô, hoàn tất mịn rồi đánh bóng composite là:
+
+- [ ] 2 µm → 20 µm → 0,2 µm
+- [x] 20 µm → 2 µm → 0,2 µm
+- [ ] 0,2 µm → 2 µm → 20 µm
+- [ ] 20 µm → 0,2 µm → 2 µm
+  > Hình 8.6: hoàn tất thô **20 µm** → hoàn tất mịn **2 µm** → đánh bóng **0,2 µm**. Mỗi bước dùng vật liệu mịn hơn, xóa vết xước cũ bằng vết xước nhỏ hơn.
+
+#### Hiểu · 2.2
+
+Hiệu quả hoàn tất, đánh bóng composite phụ thuộc vào:
+
+- [ ] Việc dùng một loại mũi duy nhất, mài với lực thật mạnh trong thời gian thật ngắn
+- [ ] Việc đánh bóng thật lâu bằng một vật liệu mài thô cho tới khi bề mặt bóng lên
+- [ ] Việc dùng ngay vật liệu mịn nhất ngay từ đầu để bề mặt không bị trầy xước thêm
+- [x] Việc dùng liên tiếp các vật liệu mài mịn hơn, loại bỏ vết trầy bằng những vết nhỏ hơn
+  > SGK: hiệu quả phụ thuộc vào **việc dùng liên tiếp các vật liệu mài mòn mịn hơn, loại bỏ vết trầy xước bằng những vết nhỏ hơn** (Hình 8.6).
 
 ### Phần D – Phân loại composite (mục 2.3)
 
@@ -1892,6 +2292,216 @@ Composite nén (packable composite) có đặc điểm:
 - [ ] Được nén chặt lại thật sự như amalgam
   > Composite nén ("**chất thay thế amalgam**"): chủ yếu **xoang I, II**; **độ dính thấp hơn**, **độ nhớt (độ cứng) cao hơn** composite lai; **ít hoặc không cải tiến**; **không thực sự nén lại** như amalgam. Trám bít hố rãnh là việc của composite **lỏng** độn thấp.
 
+#### Hiểu · 2.3
+
+Các đặc tính của composite tỷ lệ với:
+
+- [ ] Phần trăm trọng lượng của các pha
+- [ ] Màu sắc của composite
+- [x] Phần trăm thể tích của các pha
+- [ ] Thời gian xoi mòn acid
+  > SGK: "Các đặc tính của composite **tỷ lệ với phần trăm thể tích** của các pha". % thể tích luôn nhỏ hơn % trọng lượng.
+
+#### Nhớ · 2.3
+
+Composite microfill đồng loại (homogeneous microfill) có mức chất độn khoảng:
+
+- [x] 50% trọng lượng, 30% thể tích
+- [ ] 75% trọng lượng, 50% thể tích
+- [ ] 85% trọng lượng, 70% thể tích
+- [ ] 100% trọng lượng, 90% thể tích
+  > Bảng 8.3: homogeneous microfill **50% trọng lượng, 30% thể tích**. 75/50 là macrofill, midifill; 85/70 là hybrid minifill, composite nén; 90% thể tích là men răng.
+
+#### Nhớ · 2.3
+
+Mức chất độn 85% trọng lượng, 70% thể tích là của:
+
+- [x] Hybrid minifill và composite nén
+- [ ] Homogeneous microfill
+- [ ] Chất trám bít hố rãnh
+- [ ] Composite lỏng có lượng chất độn nhỏ
+  > Bảng 8.3: **85% trọng lượng – 70% thể tích**: **hybrid minifill, composite nén (packable)**.
+
+#### Nhớ · 2.3
+
+Composite đầu tiên (macrofill) có hạt độn trung bình khoảng:
+
+- [ ] 0,02–0,04 µm
+- [ ] 1–5 µm
+- [x] 10–20 µm
+- [ ] Trên 100 µm
+  > SGK: composite đầu tiên có hạt độn trung bình **10–20 µm**, nhiều hạt lớn đạt **50 µm**.
+
+#### Nhớ · 2.3
+
+Hạt độn chủ yếu của composite hiện nay (minihybrid) có kích thước:
+
+- [ ] 0,005–0,01 µm
+- [x] 0,1–1 µm
+- [ ] 8–10 µm
+- [ ] 10–100 µm
+  > SGK: "Hiện nay hạt độn chủ yếu **0,1–1 µm**: **minihybrids**". 0,005–0,01 µm là nanofiller; 8–10 µm là midifiller; 10–100 µm là macrofiller.
+
+#### Nhớ · 2.3
+
+Composite đồng loại (homogeneous) là composite:
+
+- [ ] Pha trộn nhiều loại hạt độn có kích thước khác nhau
+- [ ] Chứa composite tiền cứng và các chất độn hiếm khác
+- [ ] Chứa chất độn mới lạ như dạng sợi bên cạnh chất độn thường
+- [x] Chỉ gồm chất độn và vật liệu khung chưa trùng hợp
+  > SGK: **đồng loại** = chỉ gồm **chất độn và vật liệu khung chưa trùng hợp**. Có composite tiền cứng là dị loại; trộn nhiều cỡ là lai; có độn mới lạ (sợi) là biến đổi.
+
+#### Nhớ · 2.3
+
+Composite midifill (hạt độn trung bình 8–10 µm) ban đầu được gọi là:
+
+- [ ] Composite hoàn tất mịn, sau gọi là microfill composite hay composite vi độn
+- [ ] Composite hạt độn hữu cơ, sau gọi là composite dị loại hạt độn nhỏ
+- [x] Composite hạt mịn, sau gọi là composite truyền thống hay thông thường
+- [ ] Minihybrid, sau gọi là composite lai thế hệ mới hay nanohybrid
+  > SGK: midifill ban đầu gọi là **composite hạt mịn**, sau gọi là **composite truyền thống hay composite thông thường**. "Composite hoàn tất mịn" là microfill (0,02–0,04 µm).
+
+#### Hiểu · 2.3
+
+Microfill composite phải thêm đáng kể chất làm loãng và bớt chất độn vì:
+
+- [ ] Hạt rất nhỏ không liên kết được với chất nối silane
+- [x] Hạt rất nhỏ tạo độ nhớt cao cho hỗn hợp BIS-GMA – TEGDMA
+- [ ] Hạt rất nhỏ làm hỗn hợp quá lỏng, không giữ được hình
+- [ ] Hạt rất nhỏ làm hỗn hợp tự trùng hợp ngay trong ống
+  > SGK: hạt 0,02–0,04 µm **tạo độ nhớt cao** cho hỗn hợp BIS-GMA – TEGDMA → phải **thêm đáng kể chất làm loãng và bớt chất độn** để giữ độ đặc làm việc.
+
+#### Nhớ · 2.3
+
+Nghiền composite hạt độn nhỏ đã trùng hợp thành bột 1–20 µm rồi trộn vào vật liệu chưa trùng hợp, ta được:
+
+- [x] Composite dị loại hạt độn nhỏ (composite hạt độn hữu cơ)
+- [ ] Composite lỏng có lượng chất độn lớn (flowable độn cao)
+- [ ] Composite đồng loại hạt độn nhỏ (composite vi độn đơn thuần)
+- [ ] Composite nén (packable), chất thay thế amalgam
+  > Chiến lược thứ nhất giải quyết độ nhớt của microfill: trộn composite tiền cứng → **composite dị loại hạt độn nhỏ** hay **composite hạt độn hữu cơ**; hoàn tất mịn hơn.
+
+#### Nhớ · 2.3
+
+Composite lai được tạo ra bằng cách trộn microfiller với hạt có kích thước:
+
+- [ ] 0,005–0,01 µm
+- [x] 2–5 µm
+- [ ] 10–20 µm
+- [ ] Trên 100 µm
+  > SGK: trộn microfiller với hạt **2–5 µm** → mức độn cao mà vẫn đánh bóng hoàn tất tốt: gọi chung là **composite lai**.
+
+#### Nhớ · 2.3
+
+So với composite lai, composite lỏng (flowable) có:
+
+- [ ] Độ nhớt thấp, hàm lượng chất độn cao hơn, chống mòn tốt hơn hẳn
+- [x] Độ nhớt thấp, hàm lượng chất độn thấp, tính chất nhìn chung kém hơn
+- [ ] Độ nhớt cao, hàm lượng chất độn cao, tính chất nhìn chung tốt hơn
+- [ ] Độ dính thấp hơn, độ nhớt cao hơn, dùng chủ yếu cho xoang I, II
+  > Composite lỏng: **độ nhớt thấp**, phân bố hạt như composite lai nhưng **hàm lượng chất độn thấp**, **tính chất nhìn chung kém hơn**. Lựa chọn cuối là composite nén.
+
+#### Vận dụng · 2.3
+
+Cần trám bít hố rãnh, hoặc trám một xoang nhỏ ở răng trước. Trong các loại sau, loại phù hợp là:
+
+- [ ] Composite nén (packable)
+- [ ] Composite tăng cường đơn tinh thể SiC
+- [x] Composite lỏng độn thấp
+- [ ] Composite có insert (megafiller)
+  > SGK: composite lỏng **độn thấp hơn** dùng cho **trám bít hố rãnh, trám xoang nhỏ ở răng trước**. Composite nén chủ yếu cho xoang I, II; SiC có màu, không hợp thẩm mỹ.
+
+#### Hiểu · 2.3
+
+Tên "packable" thích hợp hơn "condensable" cho composite nén vì:
+
+- [ ] Vật liệu có chứa một phần hợp kim amalgam trộn trong khối hạt độn
+- [ ] Vật liệu rất lỏng nên hoàn toàn không thể nén được trong xoang
+- [ ] Vật liệu chỉ dùng cho xoang III, IV ở răng trước, không chịu lực
+- [x] Được đặt vào xoang giống amalgam nhưng không thực sự bị nén lại
+  > SGK: composite nén được đặt vào xoang giống amalgam **nhưng không thực sự trải qua quá trình nén lại** → "packable" là tên thích hợp hơn.
+
+#### Hiểu · 2.3
+
+Sợi gia cố trong composite chỉ dùng trong không gian trên 1 µm vì:
+
+- [ ] Sợi nhỏ hơn 1 µm không liên kết được với chất nối silane
+- [x] Quan ngại chất sinh ung thư của sợi siêu hiển vi như amiăng
+- [ ] Sợi nhỏ hơn 1 µm làm composite đổi màu nhanh chóng
+- [ ] Sợi nhỏ hơn 1 µm không nhìn thấy được khi đánh bóng
+  > SGK: sợi chỉ dùng trong không gian trên 1 µm **vì quan ngại chất sinh ung thư của sợi siêu hiển vi như amiăng (asbestos)**; sợi hiện nay đường kính 5–10 µm, dài 20–40 µm.
+
+#### Nhớ · 2.3
+
+Về composite tăng cường bằng đơn tinh thể SiC, câu đúng là:
+
+- [ ] Là loại được dùng phổ biến nhất trong composite hiện nay
+- [ ] Là loại thẩm mỹ nhất nhưng kém bền, chỉ dùng cho răng trước
+- [x] Là thành phần bền vững nhất nhưng có màu, không hợp sản phẩm thẩm mỹ
+- [ ] Là loại có độ nhớt thấp nhất, dùng làm chất trám bít hố rãnh
+  > SGK: composite tăng cường đơn tinh thể SiC **là thành phần bền vững nhất nhưng có màu**, không hợp sản phẩm thẩm mỹ.
+
+#### Nhớ · 2.3
+
+Silica keo và silica khói, hai dạng cơ bản của hạt SiO₂, khác nhau ở chỗ:
+
+- [ ] Silica keo là dạng tinh thể, silica khói là dạng thủy tinh
+- [ ] Silica keo cản quang, silica khói không cản quang
+- [ ] Silica keo kết tủa từ pha khí, silica khói kết tủa từ dung dịch lỏng
+- [x] Silica keo kết tủa từ dung dịch lỏng, silica khói kết tủa từ pha khí
+  > SGK: **silica keo** kết tủa hóa học **từ dung dịch lỏng**; **silica khói** (pyrogenic) kết tủa **từ pha khí**. Chưa chứng minh được tạo ra tính chất lâm sàng khác nhau.
+
+#### Hiểu · 2.3
+
+Về insert (megafiller) đặt vào composite răng sau, câu đúng là:
+
+- [x] Kháng mòn diện tiếp xúc tốt hơn, nhưng kỹ thuật phức tạp và không loại bỏ hoàn toàn mòn CFA
+- [ ] Là hạt tinh thể 10–20 µm được trộn sẵn vào mọi loại composite dùng cho răng sau
+- [ ] Liên kết với phần lót rất chắc chắn, kỹ thuật đơn giản hơn trám thông thường
+- [ ] Loại bỏ hoàn toàn mòn ở vùng không tiếp xúc, nên là lựa chọn chuẩn cho răng sau
+  > SGK: insert là hạt không tinh thể lớn **0,5–2 mm** đặt ở điểm tiếp xúc khớp cắn; **kháng mòn diện tiếp xúc tốt hơn**, nhưng **kỹ thuật phức tạp**, **không loại bỏ hoàn toàn mòn CFA**, liên kết với phần lót không chắc chắn.
+
+#### Nhớ · 2.3
+
+Composite hóa trùng hợp (tự trùng hợp) bị đổi màu sau 3–5 năm là do:
+
+- [ ] Tia cực tím của đèn
+- [ ] Chất nối silane
+- [ ] Camphoroquinone
+- [x] Chất gia tốc amin
+  > SGK: composite tự trùng hợp dùng **chất gia tốc amin** để tăng tốc độ trùng hợp, nhưng **amin góp phần làm đổi màu composite sau 3–5 năm**.
+
+#### Hiểu · 2.3
+
+Trùng hợp bằng tia cực tím đã được thay thế bằng ánh sáng khả kiến vì:
+
+- [ ] Tia cực tím không làm silica liên kết với nhựa
+- [ ] Tia cực tím làm composite tự cứng ngay trong lọ
+- [x] Thiết bị có độ tin cậy hạn chế và có vấn đề về an toàn
+- [ ] Tia cực tím xuyên quá sâu làm nóng tủy
+  > SGK: trùng hợp bằng tia cực tím: **thiết bị có độ tin cậy hạn chế, có vấn đề về an toàn** → đã được thay thế bằng ánh sáng khả kiến.
+
+#### Hiểu · 2.3
+
+Composite lưỡng trùng hợp (dual-curing) có đặc điểm:
+
+- [x] Phần hóa trùng hợp tốc độ thấp, chỉ trùng hợp những phần không được quang trùng hợp đầy đủ
+- [ ] Lọc ánh sáng lúc đầu cho vật liệu mềm, dễ tạo hình, rồi bỏ bộ lọc để hoàn tất
+- [ ] Chỉ trùng hợp bằng tia cực tím, sau đó trùng hợp thêm bằng nhiệt của khoang miệng
+- [ ] Không cần chiếu đèn ở bất kỳ giai đoạn nào, chỉ cần trộn hai thành phần
+  > SGK: lưỡng trùng hợp (hóa + quang): **hóa trùng hợp tốc độ thấp, chỉ trùng hợp những phần không được quang trùng hợp đầy đủ**. Lọc ánh sáng lúc đầu là trùng hợp theo giai đoạn.
+
+#### Hiểu · 2.3
+
+Composite trùng hợp theo giai đoạn (staged-curing) có đặc điểm:
+
+- [ ] Dùng tia cực tím lúc đầu, rồi dùng ánh sáng khả kiến cường độ cao để hoàn tất
+- [x] Lọc ánh sáng lúc đầu cho vật liệu mềm, dễ tạo hình; sau đó bỏ bộ lọc để hoàn tất
+- [ ] Dùng chất gia tốc amin để tăng tốc độ trùng hợp, nên đổi màu sau vài năm sử dụng
+- [ ] Hóa trùng hợp tốc độ thấp, chỉ trùng hợp những phần không được quang trùng hợp đầy đủ
+  > SGK: **lọc ánh sáng lúc đầu** → vật liệu mềm, trùng hợp một phần, dễ tạo hình → **bỏ bộ lọc**, hoàn tất trùng hợp bằng ánh sáng khả kiến.
+
 ### Phần E – Các biến số quang trùng hợp (mục 3)
 
 #### Nhớ · 3
@@ -1974,6 +2584,176 @@ Một xoang sâu được trám bằng composite màu tối, đặt một khối
 - [ ] Chỉ cần để đầu đèn xa hơn để ánh sáng lan rộng xuống đáy
   > Dày **quá 1,5–2 mm** thì ánh sáng có thể **không đủ**, đặc biệt **màu tối**; hạt độn **tán xạ**, chất màu **hấp thụ** trong **1–2 mm đầu**. Phải trám **từng lớp**.
 
+#### Nhớ · 3
+
+Các biến số quang trùng hợp được chia thành ba nhóm yếu tố:
+
+- [ ] Men răng, ngà răng và mô tủy răng
+- [x] Thiết bị trùng hợp, thủ thuật, phục hồi
+- [ ] Nhựa khung, hạt độn, chất nối silane
+- [ ] Màu sắc, nhiệt độ phòng, độ ẩm không khí
+  > SGK: ba nhóm yếu tố: **(1) thiết bị trùng hợp, (2) thủ thuật, (3) phục hồi**.
+
+#### Nhớ · 3
+
+Bóng đèn QHT điển hình dùng được khoảng:
+
+- [ ] 8–10 giờ
+- [x] 80–100 giờ
+- [ ] 800–1.000 giờ
+- [ ] 8.000–10.000 giờ
+  > SGK: bóng QHT điển hình dùng được **80–100 giờ** (khoảng 2,5 năm sử dụng lâm sàng), có thể kéo dài gấp 2–3 lần trong điều kiện lý tưởng.
+
+#### Nhớ · 3
+
+Trong đèn QHT, phần ánh sáng phát ra phù hợp cho sự trùng hợp chỉ chiếm:
+
+- [x] Dưới 0,5%
+- [ ] Khoảng 10%
+- [ ] Khoảng 50%
+- [ ] Trên 90%
+  > SGK: **chỉ dưới 0,5%** ánh sáng phát ra là phù hợp cho sự trùng hợp; **hầu hết ánh sáng bị chuyển thành nhiệt**.
+
+#### Hiểu · 3
+
+Đèn QHT phải có hai bộ lọc và một quạt tản nhiệt nhỏ vì:
+
+- [x] Hầu hết ánh sáng phát ra bị chuyển thành nhiệt
+- [ ] Bóng đèn chứa thủy ngân lỏng dễ bay hơi
+- [ ] Camphoroquinone chỉ hoạt động ở nhiệt độ thấp
+- [ ] Ánh sáng quá yếu nên cần được tập trung lại
+  > SGK: hầu hết ánh sáng bị **chuyển thành nhiệt** → có **2 bộ lọc** (tử ngoại và hồng ngoại) chèn trước sợi quang, và **quạt tản nhiệt** nhỏ.
+
+#### Nhớ · 3
+
+Gương phản xạ của đèn QHT bị mờ được làm sạch bằng:
+
+- [ ] Acid phosphoric 37% thấm lên bông gạc rồi lau nhẹ
+- [ ] Nước muối sinh lý và bàn chải lông mềm, rồi lau khô
+- [ ] Bánh xe cao su gắn trên tay khoan chậm, tốc độ thấp
+- [x] Alcohol hoặc methyl ethyl ketone thấm lên bông gạc
+  > SGK: gương nóng lên rồi nguội đi nên hay ngưng tụ hơi thủy ngân, dung môi, hơi ẩm → làm sạch bằng **alcohol hoặc methyl ethyl ketone** thấm lên bông gạc. Bánh xe cao su là để làm sạch **đầu đèn** dính nhựa.
+
+#### Vận dụng · 3
+
+Đầu đèn quang trùng hợp dính nhiều nhựa composite cũ. Cách nhìn nhận đúng là:
+
+- [ ] Nhựa làm tăng cường độ ánh sáng tới mức nguy hiểm cho tủy, nên phải thay ngay đầu đèn mới
+- [ ] Không cần xử lý, vì lớp nhựa mỏng trên đầu đèn không ảnh hưởng gì tới ánh sáng phát ra
+- [x] Nhựa gây tán xạ ánh sáng, giảm hiệu quả nhiều; phải làm sạch hết, khi cần dùng bánh xe cao su
+- [ ] Nhựa làm bước sóng chuyển sang tia cực tím, nên composite không còn trùng hợp được nữa
+  > SGK: nhựa dính trên đầu đèn **gây tán xạ ánh sáng, giảm hiệu quả khá nhiều** → làm sạch hết nhựa, khi cần dùng **bánh xe cao su trên tay khoan chậm**.
+
+#### Hiểu · 3
+
+Giá trị của máy đo phóng xạ khi kiểm tra đèn trùng hợp bị hạn chế vì:
+
+- [ ] Chỉ đo được loại đèn LED, không đo được đèn QHT
+- [ ] Không đo được số lượng photon trên một diện tích
+- [x] Không phân biệt được năng lượng nào phù hợp với quang hóa
+- [ ] Chỉ đo được nhiệt độ ở đầu đèn, không đo ánh sáng
+  > SGK: máy đo phóng xạ đo số photon trên một diện tích trong một đơn vị thời gian, nhưng **không phân biệt được năng lượng nào phù hợp với quang hóa** (đo tất cả năng lượng ánh sáng).
+
+#### Nhớ · 3
+
+Thông thường, mỗi lần chỉ nên trùng hợp một lớp composite dày không quá:
+
+- [ ] 0,5 mm
+- [x] 1,5–2 mm
+- [ ] 3–4 mm
+- [ ] 5–6 mm
+  > SGK: hạt độn tán xạ và chất màu hấp thụ ánh sáng → **thông thường mỗi lần không quá 1,5 đến 2 mm** được trùng hợp.
+
+#### Hiểu · 3
+
+Hạt độn can thiệp nhiều nhất vào ánh sáng và tán xạ tối đa có kích thước:
+
+- [ ] 0,005–0,01 µm
+- [x] 0,1–1 µm
+- [ ] 8–10 µm
+- [ ] 10–100 µm
+  > SGK: hạt **0,1 đến 1 µm** can thiệp nhiều nhất và tán xạ tối đa, vì kích thước **tương ứng phạm vi bước sóng** của bộ quang hóa. Hạt nano nhỏ hơn bước sóng nên không tán xạ.
+
+#### Hiểu · 3
+
+Càng xuống sâu trong khối composite được chiếu đèn từ trên xuống thì:
+
+- [x] Tỷ lệ chuyển hóa monomer thành polymer càng giảm
+- [ ] Tỷ lệ chuyển hóa không đổi trên toàn khối
+- [ ] Tỷ lệ chuyển hóa monomer thành polymer càng tăng
+- [ ] Ánh sáng càng tập trung, trùng hợp càng mạnh
+  > Hình 8.11: tỷ lệ chuyển hóa giảm dần theo chiều sâu (**65% → 49% → 15%**); khối trùng hợp có **hình chén**, sâu nhất ở giữa chùm sáng.
+
+#### Nhớ · 3
+
+Đèn hồ quang plasma (PAC) và đèn laser có thời gian trùng hợp khoảng:
+
+- [x] 3–10 giây
+- [ ] 20–60 giây
+- [ ] 1–2 phút
+- [ ] Trên 5 phút
+  > SGK: chu kỳ 20 giây tốn công → các đơn vị mạnh hơn: **đèn PAC và laser với thời gian 3 đến 10 giây**.
+
+#### Hiểu · 3
+
+Trùng hợp lại (chiếu lần hai sau khi hoàn thành lần đầu) có thể:
+
+- [ ] Làm tăng gấp đôi độ sâu trùng hợp của toàn khối composite
+- [ ] Làm giảm độ cứng của lớp bề mặt miếng trám
+- [ ] Loại bỏ hoàn toàn co trùng hợp ở bờ miếng trám
+- [x] Cải thiện phần nào các thuộc tính lớp bề mặt như chống mài mòn
+  > SGK: trùng hợp lại **có thể cải thiện phần nào các thuộc tính lớp bề mặt như chống mài mòn**.
+
+#### Hiểu · 3
+
+Các rủi ro đi kèm đèn cường độ cao gồm những điều sau, NGOẠI TRỪ:
+
+- [ ] Có thể làm suy yếu lớp hệ thống liên kết với răng
+- [x] Làm bề mặt composite không thể đánh bóng được
+- [ ] Tạo nhiệt độ cao hơn nhiều với các mô
+- [ ] Không nhất thiết tạo ra cùng loại mạng polymer
+  > SGK: đèn cường độ cao **tạo nhiệt độ cao hơn nhiều với các mô**, **không nhất thiết tạo cùng loại mạng polymer**, trùng hợp nhanh có thể **làm suy yếu lớp hệ thống liên kết** chống lại cấu trúc răng.
+
+#### Hiểu · 3
+
+Phương pháp "khởi động mềm" trong trùng hợp theo giai đoạn dựa trên giả định:
+
+- [x] Năng lượng lúc đầu thấp hơn cho phép giảm áp lực cho mạng polymer mới hình thành
+- [ ] Composite sẽ tự trùng hợp nốt bằng phản ứng hóa học sau khi tắt đèn
+- [ ] Năng lượng lúc đầu cao hơn giúp ánh sáng xuyên sâu hơn vào khối composite
+- [ ] Chiếu ngắn lúc đầu là đủ, không cần chiếu đủ thời gian ở giai đoạn sau
+  > SGK: giả định là **năng lượng lúc đầu thấp hơn cho phép giảm áp lực cho mạng polymer mới hình thành**. "Khởi động mềm" có hiệu quả với một số vật liệu, không phải với tất cả.
+
+#### Nhớ · 3
+
+Hệ thống trùng hợp theo bước đầu tiên, Elipar Highlight (ESPE, 1997), chiếu:
+
+- [ ] 300 mW/cm² liên tục trong 60 giây
+- [ ] 600 mW/cm² trong 10 giây, tiếp theo 100 mW/cm² trong 30 giây
+- [x] 100 mW/cm² trong 10 giây, tiếp theo 600 mW/cm² trong 30 giây
+- [ ] 800 mW/cm² trong 3 giây
+  > SGK: Elipar Highlight (1997): **100 mW/cm² trong 10 giây**, tiếp theo **600 mW/cm² trong 30 giây**: thấp trước, cao sau.
+
+#### Hiểu · 3
+
+Về công nghệ LED trong quang trùng hợp, câu đúng là:
+
+- [ ] Phát tia cực tím nên không còn cần camphoroquinone trong thành phần composite
+- [ ] Làm hiện tượng co trùng hợp biến mất hoàn toàn ở mọi loại composite
+- [ ] Giải quyết được mọi vấn đề của quang trùng hợp, kể cả lỗi thao tác của người thực hiện
+- [x] Đồng bộ bước sóng với chu trình trùng hợp, nhưng không giải quyết được lỗi thao tác
+  > SGK: LED nhằm **tạo sự đồng bộ giữa bước sóng và chu trình trùng hợp**, loại bỏ nhiều vấn đề của thiết bị, **nhưng không giải quyết các vấn đề về thao tác của người thực hiện** và sự trùng hợp của miếng trám.
+
+#### Vận dụng · 3
+
+Sinh viên giữ đầu đèn QTH cách mặt composite khoảng 8 mm. Điều có thể xảy ra là:
+
+- [ ] Cường độ không đổi, vì ánh sáng không bị không khí phân tán
+- [x] Đầu ra có thể nhỏ hơn 1/3, composite dễ trùng hợp không đầy đủ
+- [ ] Cường độ tăng gấp đôi nhờ chùm sáng loe rộng ra
+- [ ] Nhiệt tăng hơn 8°C, gây chết tế bào tủy
+  > SGK: cường độ **tỷ lệ nghịch với khoảng cách**; tốt nhất trong vòng **2 mm**; xa hơn **6 mm** với đèn QTH thì đầu ra **có thể nhỏ hơn 1/3**.
+
 ### Phần F – Thành phần, cấu trúc và tính chất (mục 4)
 
 #### Nhớ · 4
@@ -2046,6 +2826,186 @@ Khả năng chống mòn CFA của composite phụ thuộc chủ yếu vào:
 - [ ] Phương pháp trùng hợp
   > Chống mòn CFA **không liên quan độ bền cơ học** mà là **khoảng cách chất độn**: hạt gần nhau **che chở** lớp polymer = **bảo vệ vi mô**; nhờ vậy **composite vi độn** chống mài mòn tốt nhất.
 
+#### Nhớ · 4
+
+Composite ban đầu được thiết kế để trám xoang loại:
+
+- [x] III, IV và V
+- [ ] Chỉ xoang II
+- [ ] Chỉ xoang VI
+- [ ] I và II
+  > SGK: composite **ban đầu được thiết kế để trám xoang loại III, IV và V**; nay dùng cho hầu hết các trường hợp (loại I đến VI).
+
+#### Nhớ · 4
+
+Hệ số giãn nở nhiệt tuyến tính của cấu trúc răng khoảng:
+
+- [x] 9–11 ppm/°C
+- [ ] 28–45 ppm/°C
+- [ ] 72 ppm/°C
+- [ ] 125 ppm/°C
+  > SGK: cấu trúc răng **9–11 ppm/°C**; composite 28–45 ppm/°C (gấp ba đến bốn lần răng); nhựa acrylic không nung (PMMA) 72 ppm/°C.
+
+#### Hiểu · 4
+
+Trong các hậu quả của vi kẽ, sự kích thích tủy là do:
+
+- [ ] Lượng nước bọt trong khoang miệng của bệnh nhân
+- [x] Sự khuếch tán nội độc tố do vi khuẩn sinh ra
+- [ ] Eugenol trong lớp xi măng lót dưới miếng trám
+- [ ] Nhiệt sinh ra từ đèn quang trùng hợp khi chiếu
+  > SGK: **nhạy cảm của tủy** do **lượng nước bọt** quyết định; **kích thích tủy** do **sự khuếch tán nội độc tố do vi khuẩn sinh ra**.
+
+#### Hiểu · 4
+
+Nhiệt độ khoang miệng thay đổi 20–30°C trong khoảng 20–30 giây (khi ăn uống) thì:
+
+- [ ] Đủ làm bong miếng trám composite ngay trong lần ăn uống đó, nhất là đồ lạnh
+- [ ] Làm composite trùng hợp thêm, cứng hơn lên rõ rệt sau mỗi bữa ăn nóng
+- [ ] Đủ gây chết tế bào tủy nếu lặp lại nhiều lần trong một ngày ăn uống
+- [x] Không đủ để tạo thay đổi nhiệt đáng kể trong cấu trúc răng hay composite
+  > SGK: polyme, sứ cách nhiệt kém, chỉ có tác dụng khi nhiệt độ đổi từ từ; thay đổi **20–30°C trong 20–30 giây là không đủ** để tạo thay đổi nhiệt đáng kể.
+
+#### Hiểu · 4
+
+Composite hấp thu nước sẽ:
+
+- [ ] Tăng tỷ lệ monomer được trùng hợp lên gần 100% sau vài tuần
+- [ ] Không có tác động gì tới khối composite đã trùng hợp hoàn toàn
+- [x] Phồng polymer, thúc đẩy khuếch tán và giải hấp của monomer tự do
+- [ ] Làm hạt độn silica tan hoàn toàn chỉ trong vài ngày đầu
+  > SGK: hấp thu nước **làm phồng polymer, thúc đẩy khuếch tán và giải hấp của monomer tự do**; nước và phân tử nhỏ có thể làm nhựa hóa composite. Hấp thu nước cũng làm áp lực co trùng hợp giảm nhanh hơn.
+
+#### Nhớ · 4
+
+Hướng nghiên cứu gần đây cho vật liệu co rút có kiểm soát, co rất ít so với vật liệu truyền thống là:
+
+- [x] Oxitane và oxirane
+- [ ] Methyl methacrylate (PMMA)
+- [ ] Silicate cement cải tiến
+- [ ] BIS-GMA trộn với TEGDMA
+  > SGK: phản ứng mở vòng spiro-ortho carbonates; **gần đây oxitane và oxirane** (ethylene oxide) cho vật liệu **co rút có kiểm soát, co rất ít**.
+
+#### Hiểu · 4
+
+Về giả thuyết monomer không phản ứng như bisphenol-A hoạt động như tác nhân estrogen, nghiên cứu ban đầu kết luận:
+
+- [ ] Là lý do chính để cấm dùng composite ở trẻ em
+- [ ] Chỉ xảy ra với composite lỏng, độn thấp
+- [ ] Đã được chứng minh gây rối loạn nội tiết ở người
+- [x] Không có khả năng, là mối quan tâm không đáng kể
+  > SGK: nghiên cứu ban đầu kết luận **không có khả năng**, là **mối quan tâm không đáng kể**.
+
+#### Hiểu · 4
+
+Về độ cứng của composite, sự đồng thuận hiện nay là:
+
+- [ ] Độ cứng hoàn toàn không liên quan đến lượng chất độn, chỉ phụ thuộc vào nhựa khung
+- [x] Chất độn nên được thêm vào ở mức tối đa, vì composite cứng tránh được áp lực do cắn mạnh
+- [ ] Đã có mối quan hệ rõ ràng giữa hiệu suất lâm sàng và độ bền kéo của composite
+- [ ] Chất độn nên ở mức tối thiểu để composite mềm dẻo ở mọi vị trí trên cung răng
+  > SGK: không có quan hệ rõ ràng giữa hiệu suất lâm sàng với một thuộc tính cơ học nào; nhưng composite cứng tránh được áp lực do cắn mạnh → **đồng thuận: chất độn nên được thêm vào ở mức tối đa**.
+
+#### Hiểu · 4
+
+Lực lệch tâm đè lên một sườn múi răng làm răng:
+
+- [ ] Lún thẳng xuống theo trục, không biến dạng thân răng
+- [ ] Xoay quanh trục răng, vật liệu ở mặt nhai bị kéo dãn
+- [x] Uốn cong bên, vật liệu trám ở vùng cổ răng bị kéo dãn
+- [ ] Phình trống, vật liệu trám ở vùng cổ răng bị ép chặt
+  > Hình 8.12: **lực lệch tâm** → răng **uốn cong bên**, vật liệu ở **cổ răng bị kéo dãn**. Lực hướng tâm → răng **phình trống**, vật liệu bị ép chặt.
+
+#### Nhớ · 4
+
+Kiểu mòn do va chạm ở trung tâm với răng đối diện, xảy ra ở vùng tiếp xúc khớp cắn, gọi là:
+
+- [ ] PCA
+- [ ] CFA
+- [ ] FCA
+- [x] OCA
+  > **OCA**: va chạm ở trung tâm với răng đối diện, vùng tiếp xúc khớp cắn. CFA: thức ăn, vùng không tiếp xúc; FCA: tiếp xúc chức năng; PCA: tiếp xúc mặt gần/xa răng kế cận.
+
+#### Nhớ · 4
+
+Mòn PCA trên miếng trám composite là mòn:
+
+- [x] Do chà xát khi tiếp xúc với mặt gần, xa của răng kế cận
+- [ ] Do tiếp xúc với răng trong hoạt động chức năng
+- [ ] Do bàn chải hoặc kem đánh răng ở mặt ngoài
+- [ ] Do thức ăn cọ vào ở vùng không tiếp xúc giữa các múi
+  > **PCA**: chà xát do tiếp xúc với **mặt gần/xa của răng kế cận**, ở vùng tiếp xúc gần/xa.
+
+#### Nhớ · 4
+
+Thuyết giải thích mòn CFA cho rằng liên kết silane giữa nhựa và hạt độn không ổn định về mặt thủy phân là:
+
+- [ ] Thuyết bảo vệ
+- [ ] Thuyết phân hủy hóa học
+- [x] Thuyết thủy phân
+- [ ] Thuyết vi lọc
+  > **Thuyết thủy phân**: liên kết silane không ổn định về mặt thủy phân → bị loại bỏ → hạt độn bề mặt mất đi.
+
+#### Nhớ · 4
+
+Theo thuyết bảo vệ, mòn CFA xảy ra vì:
+
+- [ ] Hóa chất từ thực phẩm, nước bọt thấm vào làm bong lớp bề mặt
+- [x] Hỗn hợp yếu đi do bị xói mòn ở khoảng giữa của các hạt
+- [ ] Liên kết silane bị thủy phân, hạt độn ở bề mặt bị mất đi
+- [ ] Hạt độn bị nén tạo các vi lọc, rồi các vi lọc nối với nhau
+  > **Thuyết bảo vệ**: hỗn hợp yếu đi do bị **xói mòn ở khoảng giữa của các hạt**. Ba lựa chọn kia lần lượt là thuyết vi lọc, phân hủy hóa học, thủy phân.
+
+#### Hiểu · 4
+
+Miếng trám răng sau hoàn hảo, tiếp xúc khớp cắn giảm đáng kể; khi đó mòn gần như hoàn toàn do:
+
+- [ ] Răng đối diện chạm vào (mòn OCA)
+- [x] Thức ăn trong quá trình nhai (mòn CFA)
+- [ ] Răng kế cận cọ vào (mòn PCA)
+- [ ] Bàn chải và kem đánh răng
+  > SGK: miếng trám răng sau hoàn hảo thì tiếp xúc khớp cắn giảm đáng kể; **mòn gần như hoàn toàn do thức ăn trong quá trình nhai (mòn CFA)**.
+
+#### Nhớ · 4
+
+Qua hơn 20 năm nghiên cứu lâm sàng tại đại học Bắc Carolina và đại học Alabama, loại composite chống mài mòn tốt nhất là:
+
+- [ ] Composite nén
+- [ ] Composite lỏng
+- [x] Composite vi độn
+- [ ] Composite macrofill
+  > SGK: **composite vi độn** là loại chống mài mòn tốt nhất. Đến năm 2000, hầu hết composite trên thị trường có tỷ lệ hao mòn cực thấp.
+
+#### Hiểu · 4
+
+Composite vi độn chống được mòn CFA dù lượng chất độn ít, vì:
+
+- [x] Hạt rất nhỏ nên khoảng cách giữa các hạt cũng nhỏ
+- [ ] Độ bền cơ học của composite vi độn cao nhất
+- [ ] Hạt rất lớn nên che phủ được toàn bộ lớp polymer
+- [ ] Hạt độn có màu sẫm nên vết mòn khó thấy
+  > SGK: chống mòn CFA phụ thuộc **khoảng cách chất độn** (sự bảo vệ vi mô), không phụ thuộc độ bền cơ học; hạt vi độn **rất nhỏ, khoảng cách giữa chúng cũng nhỏ**.
+
+#### Hiểu · 4
+
+Miếng trám composite lớn, có diện tiếp xúc khớp cắn rộng dễ hỏng chủ yếu do:
+
+- [ ] Hấp thu nước bọt
+- [ ] Mòn PCA ở mặt bên
+- [ ] Mòn do bàn chải
+- [x] Mòn OCA hay mòn FCA
+  > SGK: miếng trám lớn, diện tiếp xúc khớp cắn rộng **dễ hỏng do mòn OCA hay mòn FCA**; hạn chế được nếu tái lập được tiếp xúc men răng ở nơi khác.
+
+#### Hiểu · 4
+
+Về mòn composite do bàn chải, câu đúng là:
+
+- [ ] Kem đánh răng không bao giờ làm mòn composite, kể cả khi chải răng rất mạnh nhiều lần mỗi ngày
+- [ ] Bàn chải và kem đánh răng là nguyên nhân mòn chính của mọi miếng trám composite ở răng sau
+- [x] Cho rằng bàn chải gây mòn composite là một sự hiểu lầm, nhưng chải quá mạnh có thể gây mòn đáng kể
+- [ ] Composite lỏng bị mài mòn ít hơn chất bịt hố rãnh (sealant) khi chải răng hằng ngày
+  > SGK: bàn chải (hay kem) gây mài mòn composite **là một sự hiểu lầm**; nhưng **chải răng quá mạnh có thể gây mòn đáng kể**. Composite lỏng bị mài mòn **nhiều hơn** sealant.
+
 ### Phần G – Cân nhắc lâm sàng (mục 5)
 
 #### Lượng giá SGK câu 2 · 5
@@ -2098,7 +3058,167 @@ Một khuyết hổng ở cổ răng (xoang V) nơi răng hay uốn cong. Trong 
 - [ ] Composite nén, vì giống amalgam
   > Composite **hạt độn nhỏ** (35–60%): **hệ số đàn hồi thấp** → **uốn** khi răng uốn cong → lựa chọn cho **xoang V**, khiếm khuyết **cổ răng**.
 
+#### Nhớ · 5
+
+Danh mục của Dịch vụ Y tế công cộng Hoa Kỳ (USPHS) dùng theo dõi composite gồm các tiêu chí sau, NGOẠI TRỪ:
+
+- [ ] Màu sắc phù hợp và nhuộm màu
+- [ ] Sự nguyên vẹn ở vùng rìa
+- [ ] Sâu răng thứ cấp
+- [x] Độ bền kéo đo trong phòng thí nghiệm
+  > USPHS: **màu sắc phù hợp, nhuộm màu, sâu răng thứ cấp, hình thái giải phẫu (sự mài mòn), sự nguyên vẹn ở vùng rìa**: đều là tiêu chí đánh giá trên miệng.
+
+#### Hiểu · 5
+
+Polymer trong composite vàng dần theo thời gian, nhanh hơn khi tiếp xúc với:
+
+- [ ] Fluor trong kem đánh răng và nước bọt
+- [x] Tia UV, quá trình oxy hóa và độ ẩm
+- [ ] Ánh sáng đèn LED và nhiệt độ thấp
+- [ ] Hạt độn silica và chất nối silane
+  > SGK: polymer vàng hơn theo thời gian, **nhanh hơn khi tiếp xúc tia UV, quá trình oxy hóa và độ ẩm**; vật liệu mới chống đổi màu tốt hơn.
+
+#### Nhớ · 5
+
+Ngà đổi màu nhanh nhất ở độ tuổi:
+
+- [ ] 10–20 tuổi
+- [ ] 20–35 tuổi
+- [x] 35–60 tuổi
+- [ ] Trên 70 tuổi
+  > SGK: ngà đổi màu nhanh nhất ở **tuổi trung niên (35 đến 60 tuổi)**; vì vậy một sự không phù hợp màu sau vài năm là khó tránh.
+
+#### Vận dụng · 5
+
+Bệnh nhân vừa tẩy trắng răng theo liệu trình ngắn hạn, muốn trám composite răng cửa ngay hôm sau. Hướng xử trí hợp lý là:
+
+- [x] Trì hoãn phục hồi cho đến khi màu răng đã ổn định
+- [ ] Trám ngay bằng composite màu tối nhất có sẵn
+- [ ] Tẩy trắng tiếp sau khi trám để màu tự khớp lại
+- [ ] Trám ngay và chọn màu khớp với răng vừa tẩy
+  > SGK: nếu tẩy trắng chỉ là liệu trình ngắn hạn thì **thủ thuật phục hồi nên trì hoãn cho đến khi màu răng đã ổn định**.
+
+#### Nhớ · 5
+
+Vát men giúp hòa trộn sự khác biệt màu sắc ở vùng đường hoàn tất trong phạm vi khoảng:
+
+- [ ] 0,1–0,2 mm
+- [x] 0,5–1 mm
+- [ ] 2–3 mm
+- [ ] 4–5 mm
+  > SGK: vát men giúp hòa trộn khác biệt màu ở vùng đường hoàn tất **trong phạm vi khoảng 0,5–1 mm**, thay vì thay đổi đột ngột.
+
+#### Hiểu · 5
+
+Rò rỉ viền ở miếng trám composite gây ra:
+
+- [ ] Trùng hợp thêm phần composite ở bờ, làm miếng trám cứng chắc hơn theo thời gian
+- [ ] Một lớp khoáng mới ở bờ miếng trám, làm bờ kín hơn và trắng hơn so với lúc mới trám
+- [x] Tích tụ sắc tố dưới bề mặt, rất khó hoặc không thể loại bỏ, tạo ranh giới rõ rệt
+- [ ] Tăng độ bền liên kết ở rìa nhờ nước bọt thấm vào và làm phồng lớp chất dán
+  > SGK: rò rỉ viền → **tích tụ sắc tố dưới bề mặt, rất khó hoặc không thể loại bỏ**, gây **ranh giới rõ rệt** giữa phục hình và răng thật. Khắc acid đúng cách thì chống nhiễm màu khá tốt đến 14 năm.
+
+#### Nhớ · 5
+
+Với kỹ thuật kiểm soát tốt, tỷ lệ sâu thứ phát quanh miếng trám composite sau 10 năm thấp tới:
+
+- [x] 3%
+- [ ] 10%
+- [ ] 25–30%
+- [ ] 50%
+  > SGK: kỹ thuật kiểm soát tốt: **3% sau 10 năm**; thực hành không tuân thủ nghiêm ngặt (thập niên 1970–1980): **25–30%**.
+
+#### Nhớ · 5
+
+Mức hao mòn trung bình của composite răng sau ổn định khoảng:
+
+- [ ] 25 µm sau 5 năm
+- [x] 250 µm sau 5 năm
+- [ ] 1 mm sau 5 năm
+- [ ] 2 mm sau 1 năm
+  > SGK: mức hao mòn trung bình ổn định **khoảng 250 µm sau 5 năm**, hầu như hiếm khi mòn tới mức lộ ngà; phục hồi bị mòn dễ sửa bằng lớp composite mới.
+
+#### Hiểu · 5
+
+So với amalgam, composite:
+
+- [ ] Có sự giãn nở bù trừ làm kín bờ
+- [ ] Hay gãy vỡ khối lượng lớn hơn nhiều
+- [ ] Không bao giờ bị mòn theo thời gian
+- [x] Ít gặp gãy vỡ khối lượng lớn
+  > SGK: so với amalgam, composite **ít gặp gãy vỡ khối lượng lớn**; amalgam mới là vật liệu có sự giãn nở bù trừ.
+
+#### Hiểu · 5
+
+Rìa vát của miếng trám composite có đặc điểm:
+
+- [ ] Làm tăng nguy cơ rò rỉ viền về sau
+- [x] Cho thẩm mỹ cao nhưng dễ bị mẻ ở vùng mỏng
+- [ ] Không có lợi gì cho phục hình răng trước
+- [ ] Làm giảm diện tích bề mặt cho liên kết rìa
+  > SGK: "**Rìa vát cho thẩm mỹ cao nhưng dễ bị mẻ ở vùng mỏng**". Vát men còn tăng diện tích liên kết rìa, giảm nguy cơ rò rỉ.
+
+#### Hiểu · 5
+
+Về tương thích sinh học của composite, câu đúng là:
+
+- [x] Nhìn chung tốt: monomer chưa trùng hợp có độc tính tiềm ẩn nhưng giải phóng ít
+- [ ] Hoàn toàn không có monomer nào được giải phóng ra khỏi miếng trám đã trùng hợp
+- [ ] Monomer giải phóng lượng lớn, gây biến đổi rõ ở mô mềm quanh miếng trám
+- [ ] Thường gây hoại tử tủy sau vài năm do monomer thấm dần qua ống ngà vào tủy
+  > SGK: tương thích sinh học **nhìn chung tốt**; monomer chưa trùng hợp có độc tính tiềm ẩn nhưng **lượng giải phóng thấp**; nghiên cứu dài hạn không thấy hoại tử tủy hay biến đổi mô mềm.
+
+#### Nhớ · 5
+
+Hạt vô cơ (theo trọng lượng) của composite loại cổ điển, loại hạt độn nhỏ và loại lai lần lượt khoảng:
+
+- [ ] 35–60%, 75–80%, 70–80%
+- [ ] 70–80%, 35–60%, 75–80%
+- [ ] 75–80%, 70–80%, 35–60%
+- [x] 75–80%, 35–60%, 70–80%
+  > SGK: cổ điển **75–80%**; hạt độn nhỏ **35–60%** (phần tử silica); lai **70–80%**.
+
+#### Hiểu · 5
+
+Composite loại cổ điển dễ đổi màu do nhiễm vết bẩn bên ngoài vì:
+
+- [ ] Hạt rất nhỏ nên bề mặt quá bóng láng, giữ lại màu thực phẩm trên bề mặt trám
+- [x] Hạt tương đối lớn và cứng, khuôn nhựa bị mài mòn nhanh hơn làm bề mặt gồ ghề
+- [ ] Có chứa eugenol nên phản ứng với sắc tố trong nước bọt
+- [ ] Không có hạt độn nên nhựa khung dễ thấm màu từ thức ăn, đồ uống hằng ngày
+  > SGK: loại cổ điển có hạt **tương đối lớn và cứng** → **khuôn nhựa bị mài mòn nhanh hơn** → **bề mặt gồ ghề** → miếng trám dễ đổi màu do nhiễm vết bẩn bên ngoài.
+
+#### Hiểu · 5
+
+Composite loại lai có đặc điểm:
+
+- [x] Kết hợp tính chất vật lý, cơ học của loại cổ điển với sự nhẵn láng bề mặt của loại hạt độn nhỏ
+- [ ] Hạt tương đối lớn nên bề mặt gồ ghề nhất trong ba nhóm, dễ nhiễm màu từ bên ngoài
+- [ ] Không chứa hạt độn vô cơ, chỉ có nhựa khung và chất nối silane
+- [ ] Chỉ có hạt rất nhỏ nên tính chất cơ học kém nhất trong ba nhóm, dùng chủ yếu cho xoang V
+  > SGK: loại lai **kết hợp tính chất vật lý và cơ học của loại cổ điển với sự nhẵn láng bề mặt của loại hạt độn nhỏ**.
+
 ### Phần H – Chỉ định, xử lý bề mặt, keo dán (mục 6.1–6.3.2)
+
+#### Nhớ · 6.1
+
+Chỉ định cho miếng trám composite trực tiếp gồm các ý sau, NGOẠI TRỪ:
+
+- [ ] Sang thương rộng, cần làm mạnh cấu trúc răng còn lại
+- [ ] Sang thương nhỏ, cần bảo tồn mô răng hơn so với amalgam
+- [x] Xoang phải có hình hộp và lưu cơ học lớn mới giữ được miếng trám
+- [ ] Nhu cầu cho một miếng trám cần thẩm mỹ cao
+  > Bốn ý SGK: liên kết men – keo dán – composite mở rộng chỉ định · **thẩm mỹ cao** · **bảo tồn mô răng** hơn amalgam · **làm mạnh cấu trúc răng còn lại** ở sang thương rộng. Composite dính vi cơ học, không cần hình hộp và lưu.
+
+#### Hiểu · 6.1
+
+Với sang thương rộng lớn, composite có lợi thế vì:
+
+- [ ] Composite không co lại khi trùng hợp nên không tạo áp lực lên thành xoang
+- [ ] Composite cứng hơn men răng nên tự chịu toàn bộ lực nhai thay răng
+- [x] Sự dán chặt giữa composite và men có khả năng làm mạnh cấu trúc răng còn lại
+- [ ] Composite giải phóng fluor liên tục, bảo vệ phần mô răng còn lại
+  > SGK: "Với các sang thương rộng lớn hơn, **sự dán chặt giữa composite và men có khả năng làm mạnh cấu trúc răng còn lại**".
 
 #### Hiểu · 6.2
 
@@ -2109,6 +3229,36 @@ Nguyên tắc tạo xoang II trám bằng composite là:
 - [ ] Hình hộp, đáy phẳng, mở rộng phòng ngừa đến các rãnh kế cận
 - [x] Hình dạng không nhất định, tùy kích thước, hình dạng và vị trí của sang thương
   > Composite **dán** được: **bảo tồn tối đa mô răng** (vẫn vát men); mức độ sửa soạn phụ thuộc **kích thước, hình dạng, vị trí sang thương**. Hình thang, hội tụ, hộp là kiểu tạo **lưu** cho **amalgam**.
+
+#### Nhớ · 6.2
+
+Nguyên tắc sửa soạn xoang cho composite là:
+
+- [ ] Mở rộng phòng ngừa tới rãnh kế cận, không vát men
+- [x] Bảo tồn tối đa mô răng, nhưng vẫn vát men thích hợp
+- [ ] Tạo hình hộp, thành song song và lưu cơ học
+- [ ] Giữ lại men không có ngà nâng đỡ, không vát men
+  > SGK: **bảo tồn tối đa mô răng, nhưng vẫn cần thực hiện vát men thích hợp** để đảm bảo thẩm mỹ và độ bám dính.
+
+#### Hiểu · 6.2
+
+Khi phục hồi răng sau bằng composite, cần đặc biệt lưu ý:
+
+- [ ] Không cần kiểm soát độ ẩm như ở răng trước
+- [ ] Khả năng tự đổi màu ngay trong tuần đầu
+- [ ] Khả năng gãy khối lượng lớn nhiều hơn amalgam
+- [x] Khả năng mòn theo thời gian do tác động khớp cắn
+  > Lưu ý 3: phục hồi răng sau bằng composite, **đặc biệt lưu ý khả năng mòn theo thời gian do tác động khớp cắn**.
+
+#### Nhớ · 6.2
+
+Để trám composite thành công cần chú ý tỉ mỉ:
+
+- [x] Thiết kế xoang, thao tác xử lý vật liệu và kiểm soát độ ẩm
+- [ ] Chỉ cần chọn đúng màu răng trước khi bắt đầu trám
+- [ ] Chỉ cần dùng loại composite nén cho mọi loại xoang trám
+- [ ] Chỉ cần dùng đèn quang trùng hợp có cường độ mạnh nhất
+  > Lưu ý 4: cần chú ý tỉ mỉ mọi chi tiết: **thiết kế xoang, thao tác xử lý vật liệu và kiểm soát độ ẩm**.
 
 #### Nhớ · 6.3.1
 
@@ -2140,6 +3290,86 @@ Nếu dán trực tiếp lên lớp mùn ngà (không xử lý acid), lực dín
 - [ ] 50 MPa
   > Lớp mùn ngà (**65–75% vô cơ**): dán trực tiếp chỉ **5–6 MPa**; xử lý acid đúng: **> 12 MPa**; dán ngà hiện đại **20–30 MPa**.
 
+#### Nhớ · 6.3.1
+
+Lớp mùn ngà hình thành trong quá trình tạo xoang gồm khoảng:
+
+- [ ] 5–10% thành phần vô cơ
+- [ ] 25–35% thành phần vô cơ
+- [x] 65–75% thành phần vô cơ
+- [ ] 95–100% thành phần vô cơ
+  > SGK: lớp mùn ngà gồm **65–75% thành phần vô cơ**; dán trực tiếp lên lớp này lực dính chỉ khoảng 5–6 MPa.
+
+#### Nhớ · 6.3.1
+
+Dùng acid với nồng độ và thời gian thích hợp, lực bám dính vào ngà có thể đạt:
+
+- [ ] Chỉ khoảng 1–2 MPa
+- [ ] Khoảng 5–6 MPa
+- [x] Trên 12 MPa
+- [ ] Trên 100 MPa
+  > SGK: acid loại bỏ thành phần vô cơ, để lại khung collagen → lực bám dính **có thể trên 12 MPa**. 5–6 MPa là khi dán thẳng lên lớp mùn.
+
+#### Nhớ · 6.3.1
+
+Thời gian xoi mòn men bằng acid là:
+
+- [ ] 1–3 giây
+- [x] 5–50 giây
+- [ ] 1–2 phút
+- [ ] Khoảng 5 phút
+  > SGK: xoi mòn men **5–50 giây**; ngà 10–20 giây; toàn thể 10–20 giây; rửa 30–60 giây. *(ngoài SGK)* Hướng dẫn của nhiều hãng hiện nay ghi men khoảng 15–30 giây, nằm trong khoảng của sách; thi theo sách thì nhớ 5–50 giây.
+
+#### Nhớ · 6.3.1
+
+Xoi mòn toàn thể (cả men và ngà cùng một lúc) trong:
+
+- [ ] 1–5 giây
+- [x] 10–20 giây
+- [ ] 30–60 giây
+- [ ] Khoảng 2 phút
+  > SGK: xoi mòn toàn thể **10–20 giây**, bằng thời gian xử lý ngà.
+
+#### Nhớ · 6.3.1
+
+Sau khi xoi mòn, rửa nước trong:
+
+- [ ] 1–5 giây
+- [ ] 10–15 giây
+- [x] 30–60 giây
+- [ ] 2–3 phút
+  > SGK: sau xoi mòn **rửa nước 30–60 giây**, rồi làm khô vừa phải.
+
+#### Hiểu · 6.3.1
+
+Sau khi rửa acid, bề mặt xoang được làm khô:
+
+- [ ] Bằng hơi nóng liên tục trong khoảng 60 giây
+- [x] Vừa phải: chỉ lau không thổi, hoặc thổi tương đối khô
+- [ ] Thật kỹ: thổi hơi tới khi ngà trắng đục, khô hẳn
+- [ ] Không làm khô, để nguyên nước đọng trong xoang
+  > SGK: **làm khô vừa phải (chỉ lau không thổi hoặc thổi tương đối khô)**. Ngà khô quá thì collagen xẹp, không tạo được lớp lai (mục 2.1).
+
+#### Hiểu · 6.3.1
+
+Các nút mùn còn lại trong lòng ống ngà sau xử lý acid có vai trò:
+
+- [ ] Nơi composite bám chính, quyết định gần như toàn bộ độ bền của mối dán vào ngà
+- [ ] Làm tăng lưu thông dịch trong ống ngà để nuôi dưỡng mô tủy bên dưới tốt hơn
+- [ ] Giữ vi khuẩn lại trong ống ngà để kích thích tủy tạo thêm lớp ngà phản ứng
+- [x] Hàng rào sinh học, hạn chế lưu thông dịch trong ống ngà, giảm ê buốt sau phục hồi
+  > SGK: acid lấy mùn bề mặt nhưng **để lại nút mùn trong lòng ống**; nút mùn là **hàng rào sinh học**, **hạn chế lưu thông dịch** → **giảm ê buốt sau phục hồi**.
+
+#### Hiểu · 6.3.1
+
+Acid tác động lên cấu trúc trụ men bằng cách:
+
+- [ ] Hòa tan đều toàn bộ lớp men ngoài cùng thành một mặt phẳng nhẵn
+- [ ] Làm cứng các trụ men nhờ fluor có sẵn trong dung dịch acid
+- [x] Hòa tan chọn lọc trụ hoặc chất gian trụ, tạo vô số vi lưu và mấu men nhô
+- [ ] Phủ một lớp nhựa mỏng lên bề mặt các trụ men để nhựa dán bám vào
+  > SGK: acid **hòa tan chọn lọc các trụ hoặc chất gian trụ**, tạo bề mặt với **vô số vi lưu và các mấu men nhô không đều**, thuận lợi cho liên kết cơ học.
+
 #### Nhớ · 6.3.2
 
 Primer (chất lót) trong hệ thống keo dán ngà là:
@@ -2149,6 +3379,76 @@ Primer (chất lót) trong hệ thống keo dán ngà là:
 - [ ] Hạt độn silica đã phủ silane
 - [x] Monomer lưỡng tính có cấu trúc nhị đầu: một đầu ái nước, một đầu kỵ nước
   > **Primer**: monomer **lưỡng tính, nhị đầu** (**ái nước + kỵ nước**), thích nghi với ngà ẩm. Nhựa có monomer như composite là **bonding**.
+
+#### Nhớ · 6.3.2
+
+Sự xâm nhập của nhựa vào men đã xoi mòn được gọi là:
+
+- [x] Đuôi resin
+- [ ] Nút mùn
+- [ ] Lớp mùn
+- [ ] Lớp lai
+  > SGK: nhựa thấm vào các vi lưu rồi trùng hợp; **sự xâm nhập của nhựa vào men gọi là đuôi resin**. Lớp lai là ở ngà.
+
+#### Hiểu · 6.3.2
+
+Kỹ thuật xoi men bằng acid kết hợp composite mang lại các lợi ích sau, NGOẠI TRỪ:
+
+- [ ] Tăng thẩm mỹ, bỏ được đường viền dày, kém tự nhiên
+- [x] Loại bỏ hoàn toàn sự co khi trùng hợp
+- [ ] Cải thiện độ kín bờ, giảm hiện tượng hở bờ
+- [ ] Bảo tồn mô răng tối đa và giảm kích thích tủy
+  > SGK: xoi men + composite cho phép **bảo tồn mô răng tối đa, giảm kích thích tủy**; liên kết vi cơ học **cải thiện độ kín bờ, giảm hở bờ, tăng thẩm mỹ**. Co trùng hợp vẫn còn (mục 3, 4).
+
+#### Nhớ · 6.3.2
+
+Monomer trong bonding (chất dán) có đặc điểm:
+
+- [ ] Chứa nhiều hạt độn, độ nhớt cao, dùng để trám đầy xoang
+- [ ] Là acid phosphoric pha loãng, dùng để xoi mòn ngà nhẹ nhàng
+- [ ] Ái nước hoàn toàn, thích nghi với dịch ống ngà do nguyên bào ngà tiết ra
+- [x] Tương tự monomer trong composite, kỵ nước, liên kết với đầu kỵ nước của primer
+  > SGK: bonding là lớp nhựa dán, **monomer tương tự như trong composite**; monomer composite **kỵ nước** nên liên kết với **đầu kỵ nước của primer** → cầu nối vững chắc, hình thành lớp lai.
+
+#### Hiểu · 6.3.2
+
+Lớp lai có tính đàn hồi có ích cho miếng trám composite vì:
+
+- [x] Bù trừ sự co thể tích của composite khi trùng hợp, duy trì tính toàn vẹn phục hồi
+- [ ] Làm composite nở ra sau khi trùng hợp, tự lấp kín các khe hở nhỏ ở bờ miếng trám
+- [ ] Giải phóng fluor liên tục trong nhiều năm, chống sâu tái phát ở bờ miếng trám
+- [ ] Làm tăng hệ số giãn nở nhiệt của composite lên cho bằng với cấu trúc răng
+  > SGK: lớp lai có tính đàn hồi; **lớp đàn hồi này bù trừ sự co thể tích của composite khi trùng hợp, duy trì tính toàn vẹn phục hồi**.
+
+#### Nhớ · 6.3.2
+
+Với monomer nhị đầu hiện đại, lực dán vào ngà có thể đạt:
+
+- [ ] 4–6 MPa
+- [ ] 10–12 MPa
+- [x] 20–30 MPa
+- [ ] 90–200 MPa
+  > SGK: với monomer nhị đầu hiện đại, **lực dán vào ngà có thể đạt 20–30 MPa** (mục 2.1 ghi 22–35 MPa cho ngà + hệ thống dán ngà).
+
+#### Vận dụng · 6.3.2
+
+Hết bonding của hãng X, trợ thủ đề nghị dùng primer hãng X với bonding hãng Y. Nên:
+
+- [ ] Dùng được, miễn là chiếu đèn gấp đôi thời gian bình thường cho lớp dán
+- [ ] Dùng được, vì mọi hệ thống dán trên thị trường đều có thành phần giống hệt nhau
+- [x] Không dùng lẫn lộn thành phần của các hãng khác nhau, theo đúng chỉ dẫn nhà sản xuất
+- [ ] Bỏ luôn bước primer, chỉ bôi bonding của hãng Y lên ngà cho quy trình đơn giản
+  > SGK: cần **tuân thủ nghiêm ngặt chỉ dẫn của nhà sản xuất** cho từng hệ thống dán; **không nên sử dụng lẫn lộn các thành phần từ những hãng khác nhau**.
+
+#### Hiểu · 6.3.2
+
+Primer và bonding hiện nay thường được kết hợp trong cùng một lọ nhằm:
+
+- [ ] Bỏ được bước xoi mòn bằng acid
+- [x] Đơn giản quy trình và rút ngắn thời gian
+- [ ] Tăng giải phóng fluor của lớp dán
+- [ ] Tăng độ dày của lớp dán trên ngà
+  > SGK: primer và bonding kết hợp trong một lọ → **đơn giản quy trình, rút ngắn thời gian**.
 
 ### Phần I – Chọn màu, cô lập, đưa vật liệu, khuôn, hoàn tất, bảo vệ tủy (mục 6.3.3–6.3.7)
 
@@ -2172,6 +3472,56 @@ Khi chọn màu răng để trám composite, câu đúng là:
 - [ ] Để phụ tá quyết định màu cuối cùng
   > Mất nước làm răng **trắng hơn, giảm độ trong** → chọn màu **trước khi làm khô**; **< 30 giây** để tránh mỏi mắt; **bệnh nhân xác nhận** cuối cùng.
 
+#### Hiểu · 6.3.3
+
+Trên răng trước cắt dọc, về màu sắc, câu đúng là:
+
+- [ ] Phần ba cổ (nhiều ngà) thường trắng và thấu quang hơn phần ba cạnh cắn (nhiều men)
+- [ ] Phần ba giữa luôn là phần trắng nhất và trong nhất của thân răng
+- [ ] Cả ba phần ba của thân răng có cùng một màu và cùng độ trong như nhau
+- [x] Phần ba cạnh cắn (nhiều men) thường trắng và thấu quang hơn phần ba cổ (nhiều ngà)
+  > SGK: phần ba cạnh cắn (nhiều men) **thường trắng và thấu quang hơn** phần ba cổ (nhiều ngà); phần ba giữa có màu **trung gian**.
+
+#### Nhớ · 6.3.3
+
+Composite tông màu men có đặc điểm:
+
+- [ ] Thường đục hơn, phù hợp vùng cổ răng
+- [ ] Chỉ dùng được cho răng sau
+- [x] Thường trong hơn, phù hợp vùng cạnh cắn
+- [ ] Luôn tối hơn tông màu ngà
+  > SGK: composite có tông màu men, ngà, trong và đục; **màu men thường trong hơn, phù hợp vùng cạnh cắn**.
+
+#### Vận dụng · 6.3.3
+
+Kiểm chứng màu composite đã chọn, cách làm đúng là:
+
+- [x] Đặt một ít composite lên răng, chiếu đèn và so sánh; đúng màu thì lấy ra dễ dàng bằng thám trâm
+- [ ] Đặt composite lên mặt răng đã thổi thật khô, rồi so sánh dưới ánh đèn ghế máy mạnh nhất
+- [ ] So với bảng màu dưới ánh sáng mạnh trong khoảng 5 phút cho thật chắc chắn
+- [ ] Trám xong cả xoang mới so màu; nếu sai thì giữ nguyên vì màu sẽ tự khớp
+  > SGK: kiểm chứng bằng cách **đặt một ít composite lên răng, chiếu đèn trùng hợp và so sánh**; đúng màu thì **loại bỏ dễ dàng bằng thám trâm**. Có thể phối hợp 2–3 màu cho tự nhiên.
+
+#### Hiểu · 6.3.3
+
+Về ánh sáng khi chọn màu răng, câu đúng là:
+
+- [x] Cần ánh sáng tốt; ánh sáng nhân tạo nên được giảm cường độ để tránh sai lệch
+- [ ] Nên chọn màu trong phòng tối để mắt không bị chói và nhìn rõ sắc độ
+- [ ] Nên dùng đèn quang trùng hợp chiếu thẳng vào răng để thấy rõ màu thật nhất
+- [ ] Ánh sáng không ảnh hưởng gì đến việc chọn màu răng, chỉ cần bảng màu chuẩn
+  > SGK: cần **ánh sáng tốt** (tự nhiên hoặc nhân tạo); **ánh sáng nhân tạo nên được giảm cường độ** để tránh sai lệch.
+
+#### Hiểu · 6.3.3
+
+Chọn màu răng phải làm nhanh (dưới 30 giây) để:
+
+- [ ] Răng không kịp khô đi
+- [ ] Đèn ghế không làm nóng răng
+- [x] Tránh mệt mỏi thị giác
+- [ ] Bệnh nhân không phải há miệng lâu
+  > SGK: chọn màu phải nhanh **(< 30 giây) để tránh mệt mỏi thị giác**. Chọn màu trước bất kỳ thủ thuật làm khô nào là một yêu cầu riêng.
+
 #### Nhớ · 6.3.4
 
 Về chỉ co nướu khi trám composite, câu đúng là:
@@ -2181,6 +3531,56 @@ Về chỉ co nướu khi trám composite, câu đúng là:
 - [ ] Thấm acid phosphoric để vừa cầm máu vừa xoi mòn
 - [ ] Nhồi thật chặt để vùng làm việc khô tuyệt đối
   > Chỉ co nướu (bờ xoang **dưới/sát nướu**): đặt vào **rãnh nướu**, không ở đỉnh nướu; thấm **Hemodent (aluminum chloride)** để **cầm máu**; nhồi quá chặt → **hoại tử nướu, tụt nướu**.
+
+#### Nhớ · 6.3.4
+
+Các dụng cụ kèm theo đê cao su gồm những thứ sau, NGOẠI TRỪ:
+
+- [ ] Khung nhựa hoặc kim loại
+- [ ] Kềm bấm lỗ
+- [ ] Móc cài và dụng cụ đặt móc cài
+- [x] Băng nhám và đĩa nhám
+  > 7 dụng cụ kèm đê: kềm bấm lỗ · khung nhựa hoặc kim loại · móc cài · dụng cụ đặt móc cài · chêm · hút nước bọt · gòn cuộn và chỉ co nướu. Băng nhám, đĩa nhám dùng khi hoàn tất.
+
+#### Hiểu · 6.3.4
+
+Cách ly tuyệt đối trong trám composite nhằm:
+
+- [ ] Giảm thời gian chiếu đèn xuống còn khoảng 5 giây cho mỗi lớp composite
+- [x] Ngăn nước bọt, dịch nướu tiếp xúc với men đã thoa acid hay ngà đã xử lý
+- [ ] Thay thế cho bước xoi mòn acid khi bề mặt răng đã được giữ thật sạch
+- [ ] Làm răng khô và trắng hơn để chọn màu composite dễ dàng và chính xác hơn
+  > SGK: cách ly tuyệt đối là **điều kiện bắt buộc**: ngăn **nước bọt hoặc dịch nướu** tiếp xúc với **men đã thoa acid hay ngà đã xử lý**, tránh **thấm nhiễm vào vật liệu trám**. Chọn màu phải làm **trước** khi làm khô.
+
+#### Nhớ · 6.3.4
+
+Mẫu chỉ co nướu có kích thước khoảng:
+
+- [ ] Đường kính 0,5–1 mm, dài 20–30 mm
+- [ ] Đường kính 2–3 mm, dài 8–10 mm
+- [ ] Đường kính 0,1 mm, dài 2–3 mm
+- [x] Đường kính 0,5–1 mm, dài 8–10 mm
+  > SGK: mẫu chỉ khoảng **0,5–1 mm đường kính** và **dài 8–10 mm**.
+
+#### Vận dụng · 6.3.4
+
+Bờ xoang composite nằm sát viền nướu, rãnh nướu rỉ dịch và chảy máu nhẹ. Xử trí phù hợp là:
+
+- [ ] Nhồi thật chặt nhiều lớp chỉ co nướu lên trên đỉnh nướu cho kín
+- [ ] Thổi hơi thật mạnh vào rãnh nướu cho khô rồi trám ngay lập tức
+- [x] Đặt chỉ co nướu vào rãnh nướu, thấm chỉ bằng dung dịch co mạch để cầm máu
+- [ ] Bỏ qua bước cô lập, vì keo dán vẫn bám tốt trên bề mặt ẩm ướt
+  > SGK: chỉ co nướu dùng khi bờ xoang **dưới nướu hoặc sát viền nướu**; đặt vào **rãnh nướu, không phải ở đỉnh nướu**; cần cầm máu thì thấm **dung dịch co mạch** (Hemodent). Đừng nhồi nhét quá.
+
+#### Hiểu · 6.3.4
+
+Nhồi nhét chỉ co nướu quá mức có thể gây:
+
+- [x] Hoại tử nướu, làm mô hư hại và tụt nướu
+- [ ] Sâu thứ phát ở mặt nhai của răng trám
+- [ ] Tăng tiết nước bọt và ê buốt tủy răng
+- [ ] Composite ở bờ không trùng hợp được
+  > SGK: "Đừng nhồi nhét quá: có thể gây **hoại tử nướu** hoặc làm **mô hư hại và tụt nướu**".
 
 #### Hiểu · 6.3.5
 
@@ -2192,6 +3592,16 @@ Về súng gắn với con nhộng làm sẵn để đưa composite vào xoang, 
 - [x] Giảm khả năng nhốt không khí; nút đậy màu đen giúp ánh sáng không xuyên qua; không dùng được khi xoang quá nhỏ
   > Súng – nhộng: **giảm nhốt không khí**; **nút đen** chắn ánh sáng; **xoang quá nhỏ** không dùng được vì **đầu nhộng hơi lớn**. Dụng cụ cầm tay: thông dụng nhưng **có thể nhốt khí**.
 
+#### Nhớ · 6.3.5
+
+Đưa composite vào xoang bằng dụng cụ cầm tay có nhược điểm:
+
+- [ ] Không dùng được cho xoang nhỏ vì đầu lớn
+- [x] Có thể nhốt không khí vào trong xoang
+- [ ] Không lấy được từng lượng nhỏ vật liệu
+- [ ] Làm ánh sáng xuyên qua và đông vật liệu sớm
+  > SGK: dụng cụ cầm tay thông dụng, dễ, nhanh, lấy từng lượng nhỏ, nhưng **có thể nhốt không khí vào trong xoang**. "Đầu hơi lớn, không dùng cho xoang quá nhỏ" là nhược điểm của súng gắn con nhộng.
+
 #### Nhớ · 6.3.6
 
 Khi đặt dải khuôn trong cho miếng trám composite:
@@ -2201,6 +3611,46 @@ Khi đặt dải khuôn trong cho miếng trám composite:
 - [ ] Chỉ đặt tới 0,5 mm dưới viền nướu và không vượt quá bờ cắn
 - [ ] Ép thật mạnh bằng ngón tay để khuôn kín
   > Dải khuôn: **uốn cong, thử trước**; xuống **dưới viền nướu ít nhất 1 mm**, **vượt ra ngoài bờ cắn**; ép bằng **ngón cái và trỏ** với **lực vừa phải** (quá mạnh → miếng trám mỏng, dễ bể).
+
+#### Hiểu · 6.3.6
+
+Khi xác định hướng rút dải khuôn, nếu xoang mở từ mặt trong thì:
+
+- [ ] Không cần cố định đầu nào, chỉ cần giữ dải khuôn bằng ngón tay
+- [ ] Dải khuôn được cố định ở mặt ngoài, phần mặt trong được kéo và ép lại
+- [x] Dải khuôn được cố định phía lỗ mở, phần bên ngoài được kéo và ép lại
+- [ ] Dải khuôn được rút lên phía mặt nhai ngay khi vừa đặt xong vật liệu
+  > SGK: xác định hướng rút theo đường vào của xoang: **xoang mở từ mặt trong → cố định phía lỗ mở, phần bên ngoài được kéo và ép lại**; ngược lại nếu xoang mở từ mặt ngoài.
+
+#### Hiểu · 6.3.6
+
+Thử chêm trước khi trám composite nhằm:
+
+- [x] Có sự sít sao ở cổ răng được trám; chêm gỗ còn giữ yên vị cho khuôn
+- [ ] Tăng bề dày ngoài – trong của miếng trám cho chắc chắn, khó bể
+- [ ] Làm sạch mảng bám ở kẽ răng trước khi xoi mòn acid vùng cổ răng
+- [ ] Tạo một khoảng hở ở cổ răng để dễ lấy vật liệu thừa sau khi trám
+  > SGK: thử chêm **để có sự sít sao ở cổ răng được trám**; thường dùng **chêm gỗ mềm** để các răng không bị tách thô bạo, chêm gỗ **giữ yên vị cho khuôn**.
+
+#### Hiểu · 6.3.6
+
+Dùng ngón tay ép khuôn quá mạnh khi trám composite thì:
+
+- [ ] Composite không trùng hợp được ở phần đáy xoang
+- [x] Bề dày ngoài – trong của miếng trám quá mỏng, dễ bể
+- [ ] Màu của miếng trám bị tối đi so với răng thật
+- [ ] Miếng trám dày lên, khó hoàn tất và đánh bóng
+  > SGK: ép khuôn **với lực vừa phải**; **ép quá mạnh làm bề dày ngoài – trong của miếng trám quá mỏng, dễ bể**.
+
+#### Hiểu · 6.3.6
+
+Đặt dải khuôn cho xoang III, nên để chỗ hở nằm ở:
+
+- [ ] Mặt ngoài, vì dễ nhìn thấy để lấy vật liệu thừa
+- [ ] Cổ răng, vì khoảng hở ở cổ răng dễ làm sạch hơn
+- [ ] Giữa mặt bên, vì dễ đưa vật liệu vào xoang hơn
+- [x] Cạnh cắn, vì khoảng hở ở cạnh cắn dễ làm sạch hơn
+  > Hình 8.16: khoảng hở **cổ răng khó làm sạch** (composite thừa đọng sát nướu); khoảng hở **cạnh cắn dễ làm sạch hơn**: đó là cách nên làm.
 
 #### Nhớ · 6.3.7
 
@@ -2231,6 +3681,228 @@ Dưới miếng trám composite, vật liệu nào bị chống chỉ định?
 - [ ] Xi măng polycarboxylate làm lớp lót trung gian
 - [x] Vecni lót xoang và kẽm oxit – eugenol
   > **Vecni** tạo **màng không liên tục**; **eugenol** **ức chế phản ứng trùng hợp** → composite **không cứng hoàn toàn**. Polycarboxylate dùng được làm **lớp lót** (dính ngà, không dính composite).
+
+#### Nhớ · 6.3.7
+
+Lấy vật liệu thừa ở mặt ngoài (lồi hoặc phẳng) của miếng trám composite, dùng:
+
+- [x] Mũi kim cương trụ nhọn đầu
+- [ ] Cây nạo ngà đầu mảnh
+- [ ] Mũi kim cương búp lửa
+- [ ] Mũi tungsten tròn chậm
+  > SGK: mặt ngoài (lồi hoặc phẳng): **mũi kim cương trụ nhọn đầu**; mặt trong (lõm): mũi kim cương búp lửa.
+
+#### Hiểu · 6.3.7
+
+Mục đích của việc hoàn tất miếng trám composite gồm các ý sau, NGOẠI TRỪ:
+
+- [ ] Tạo bề mặt nhẵn bóng, thẩm mỹ, hài hòa với mô răng thật
+- [ ] Loại bỏ composite dư ở bờ, tạo đường viền chính xác
+- [ ] Giảm tích tụ mảng bám và vết dính, hạn chế đổi màu
+- [x] Làm tăng độ dày lớp chất dán ở bờ miếng trám
+  > Ba mục đích SGK: **bề mặt nhẵn bóng, thẩm mỹ** · **giảm tích tụ mảng bám, vết dính, hạn chế đổi màu** · **loại bỏ composite dư ở bờ, tạo đường viền chính xác**.
+
+#### Nhớ · 6.3.7
+
+Kiểm soát vật liệu thừa ở bờ cổ răng của miếng trám composite, làm như sau:
+
+- [ ] Dùng gòn khô lau quanh cổ răng; nếu có thì chiếu đèn thêm 20 giây nữa cho cứng
+- [ ] Dùng đĩa nhám mài quanh cổ răng ngay lập tức, không cần kiểm tra gì trước đó
+- [x] Dùng thám trâm kiểm tra; nếu có thì lấy bằng dụng cụ cầm tay, cuối cùng bằng băng nhám
+- [ ] Dùng giấy cắn kiểm tra; nếu có thì mài ngay bằng mũi kim cương thô có nước
+  > SGK: **dùng thám trâm** kiểm soát bờ cổ răng; nếu có vật liệu thừa thì lấy **bằng dụng cụ cầm tay** và **cuối cùng bằng băng nhám**.
+
+#### Vận dụng · 6.3.7
+
+Trám xong, bệnh nhân cắn trên giấy cắn thấy có điểm chạm cao ở miếng trám. Xử trí đúng là:
+
+- [ ] Tháo bỏ toàn bộ miếng trám rồi trám lại từ đầu với composite khác
+- [x] Mỗi lần chỉ lấy một ít composite dư, rồi kiểm soát lại với giấy cắn
+- [ ] Mài một lần thật nhiều cho chắc ăn, khỏi phải cho cắn giấy kiểm tra lại
+- [ ] Để nguyên, vì miếng trám sẽ tự mòn cho đúng khớp cắn sau vài tuần
+  > SGK: cho bệnh nhân cắn nhẹ trên giấy cắn và lướt răng; nếu có composite dư thì **mỗi lần chỉ lấy một ít và kiểm soát lại với giấy cắn**.
+
+#### Nhớ · 6.3.7
+
+Băng nhám dùng hoàn tất composite thường có một vùng ở giữa không có chất mài mòn nhằm:
+
+- [ ] Làm sạch mảng bám ở kẽ răng trước khi trám
+- [ ] Cách nhiệt cho răng khi mài lâu ở mặt bên
+- [x] Cho phép đi dễ dàng và an toàn vào vùng tiếp điểm
+- [ ] Giữ bột đánh bóng oxide nhôm khi đánh bóng
+  > SGK: băng nhám có hai loại vừa và nhẵn ở hai đầu, với **một vùng ở giữa không có chất mài mòn cho phép đi dễ dàng và an toàn vào vùng tiếp điểm**.
+
+#### Nhớ · 6.3.7
+
+Đánh bóng sau cùng miếng trám composite dùng:
+
+- [ ] Mũi tungsten tròn tốc độ chậm
+- [ ] Băng nhám loại thô ở mặt ngoài
+- [ ] Mũi kim cương thô với nước làm mát
+- [x] Mũi cao su với bột đánh bóng oxide nhôm
+  > SGK: **mũi cao su đánh bóng** để hoàn tất và đánh bóng sau cùng **với bột đánh bóng oxide nhôm**.
+
+#### Vận dụng · 6.3.7
+
+Các việc khi hoàn tất miếng trám composite: (1) kiểm tra khớp cắn bằng giấy cắn; (2) lấy vật liệu thừa ở mặt ngoài, mặt trong; (3) đánh bóng bằng mũi cao su; (4) thổi khô, xem lại hình dáng, chức năng, thẩm mỹ. Thứ tự đúng là:
+
+- [ ] 2 → 3 → 4 → 1
+- [x] 2 → 1 → 3 → 4
+- [ ] 1 → 2 → 4 → 3
+- [ ] 3 → 2 → 1 → 4
+  > Trình tự SGK: lấy vật liệu thừa mặt ngoài, mặt trong, bờ cổ răng → **kiểm tra khớp cắn** → băng nhám, đĩa nhám → **mũi cao su đánh bóng** → **thổi khô, xem lại** trước khi cho bệnh nhân về.
+
+#### Hiểu · 6.3.7
+
+Lớp bảo vệ tủy dưới miếng trám composite chỉ cần:
+
+- [x] Một bề dày tối thiểu, đủ để cách ly và bảo vệ mô tủy
+- [ ] Phủ kín lên cả bờ men để men không bị acid tác động
+- [ ] Bề dày ít nhất 2 mm ở mọi xoang, kể cả xoang nông
+- [ ] Một bề dày tối đa, lấp gần đầy xoang trước khi trám
+  > Nguyên tắc chung (2): **lớp bảo vệ tủy chỉ cần một bề dày tối thiểu**, đủ để cách ly và bảo vệ mô tủy khỏi tác động của vật liệu và môi trường miệng.
+
+#### Nhớ · 6.3.7
+
+Hai yếu tố quyết định lựa chọn vật liệu bảo vệ tủy dưới composite là:
+
+- [ ] Thời gian xoi mòn và nồng độ acid phosphoric
+- [ ] Tuổi của bệnh nhân và màu của răng cần trám
+- [x] Độ dày của lớp ngà còn lại và loại vật liệu phục hồi sử dụng
+- [ ] Vị trí của răng trên cung hàm và loại đèn trùng hợp
+  > SGK: (1) **độ dày của lớp ngà còn lại** (xác định trên phim X quang và thăm khám); (2) **loại vật liệu phục hồi sử dụng**.
+
+#### Vận dụng · 6.3.7
+
+Xoang III ở răng 11 sâu hơn mức nông một chút, lớp ngà còn lại dày hơn 0,5 mm. Bảo vệ tủy dưới composite bằng:
+
+- [ ] Một lớp trung gian kẽm oxit – eugenol
+- [ ] Một lớp calcium hydroxide, sau đó là glass ionomer
+- [ ] Một lớp vecni lót xoang phủ toàn bộ đáy
+- [x] Một lớp mỏng glass ionomer đặt vào nơi ngà lộ
+  > Hạng A, B, C (còn 0,5 mm ngà trở lên): **một lớp mỏng GIC** vào nơi ngà lộ. Ca(OH)₂ rồi GIC dành cho hạng D (< 0,5 mm hoặc lộ tủy). Vecni và ZOE chống chỉ định dưới composite.
+
+#### Nhớ · 6.3.7
+
+Lớp GIC lót dưới composite cứng nhanh nên phải hoàn tất trong vòng:
+
+- [ ] 30 giây
+- [x] 90 giây
+- [ ] 5 phút
+- [ ] 24 giờ
+  > SGK: GIC **cứng nhanh** nên phải hoàn tất **trong vòng 90 giây**. 24 giờ là thời gian chờ sau lót nền GIC ở Bài 7 (cặp dễ nhầm).
+
+#### Hiểu · 6.3.7
+
+Ở xoang hạng D, glass ionomer được đặt phủ lên lớp calcium hydroxide vì:
+
+- [ ] GIC làm calcium hydroxide tan nhanh hơn, nên giải phóng nhiều ion calcium hơn cho tủy
+- [x] GIC dính tốt vào ngà, tạo chất dán ngăn acid etching hoặc nhựa đơn phân tử kích thích tủy
+- [ ] GIC kích thích tạo ngà thứ cấp mạnh hơn calcium hydroxide khi đặt sát chỗ gần tủy
+- [ ] GIC thay thế được bước xoi mòn acid cho toàn bộ phần xoang trám ở phía trên lớp lót
+  > SGK: Ca(OH)₂ đặt như **chất thuốc kích thích tạo ngà thứ cấp**, sau đó là GIC: **GIC dính tốt vào ngà, tạo một chất dán ngăn chặn axit etching hoặc nhựa đơn phân tử kích thích tủy**.
+
+#### Hiểu · 6.3.7
+
+Về xi măng polycarboxylate dưới miếng trám composite, câu đúng là:
+
+- [x] Liên kết hóa học với ngà nhưng không với composite, nên chỉ là lớp lót hoặc nền trung gian
+- [ ] Chỉ dùng được cho xoang hạng D, đặt trực tiếp lên chỗ tủy bị lộ để thay cho Ca(OH)₂
+- [ ] Chống chỉ định tuyệt đối dưới composite vì ức chế phản ứng trùng hợp của nhựa
+- [ ] Liên kết hóa học với cả ngà và composite, nên là vật liệu dán chính của miếng trám
+  > SGK: polycarboxylate **tạo liên kết hóa học với mô ngà** (tương tự GIC), nhưng **không hình thành liên kết với composite resin** → **chỉ là lớp lót hoặc nền trung gian**, không phải vật liệu dán chính.
+
+#### Hiểu · 6.3.7
+
+Kẽm oxit – eugenol bị chống chỉ định dưới miếng trám composite vì:
+
+- [ ] Eugenol làm composite trùng hợp quá nhanh, không kịp tạo hình miếng trám
+- [x] Eugenol ức chế phản ứng trùng hợp, khiến composite không cứng hoàn toàn
+- [ ] Eugenol làm tăng co trùng hợp và giãn nở nhiệt của composite
+- [ ] Kẽm oxit tạo một lớp màng không liên tục trên bề mặt ngà
+  > SGK: **eugenol** trong xi măng kẽm oxit – eugenol **ức chế phản ứng trùng hợp** của composite, khiến vật liệu **không cứng hoàn toàn**. "Màng không liên tục" là lý do cấm vecni.
+
+#### Hiểu · 6.3.7
+
+Vecni lót xoang bị chống chỉ định dưới miếng trám composite vì:
+
+- [ ] Vecni dính quá chắc vào composite nên khó tháo bỏ khi cần trám lại về sau
+- [ ] Vecni làm tăng nhiệt độ khi chiếu đèn, gây chết tế bào tủy
+- [ ] Vecni chứa eugenol, nên ức chế phản ứng trùng hợp của lớp composite ở đáy xoang
+- [x] Nhựa tiếp xúc vecni tạo lớp màng không liên tục, giảm hiệu quả bảo vệ và độ bám dính
+  > SGK: **nhựa tiếp xúc vecni tạo lớp màng không liên tục** → **giảm hiệu quả bảo vệ và độ bám dính**. Eugenol là lý do cấm ZOE.
+
+### Phần J – Tổng hợp, tình huống (cả bài)
+
+#### Vận dụng · 6.3
+
+Sắp xếp các bước trám composite xoang III: (1) chọn màu; (2) xoi mòn, rửa, làm khô vừa phải; (3) bôi primer, bonding; (4) cô lập vùng làm việc; (5) đưa composite từng lớp, chiếu đèn. Thứ tự hợp lý là:
+
+- [ ] 4 → 2 → 3 → 1 → 5
+- [ ] 1 → 2 → 4 → 3 → 5
+- [x] 1 → 4 → 2 → 3 → 5
+- [ ] 4 → 1 → 2 → 3 → 5
+  > Chọn màu phải làm **trước bất kỳ thủ thuật làm khô nào** (mục 6.3.3), nên đứng trước cô lập; sau đó xoi mòn → primer, bonding → composite từng lớp, chiếu đèn. *(ngoài SGK)* SGK đánh số các bước 6.3.1 → 6.3.7 không theo thứ tự làm trên ghế.
+
+#### Vận dụng · 3
+
+Trám composite màu tối cho xoang I sâu khoảng 4 mm ở răng 46. Cách làm đúng nhất là:
+
+- [x] Đặt từng lớp không quá 1,5–2 mm, chiếu mỗi lớp ít nhất 20 giây, đầu đèn trong vòng 2 mm
+- [ ] Đặt từng lớp 4 mm, chiếu mỗi lớp 3 giây bằng đèn QTH thông thường đang dùng
+- [ ] Đặt một khối 4 mm, chiếu 20 giây với đầu đèn cách bề mặt khoảng 8 mm cho đều sáng
+- [ ] Đặt một khối 4 mm, chiếu 5 giây rồi chiếu lại thêm 5 giây nữa là đủ cho toàn khối
+  > Mỗi lần **không quá 1,5–2 mm** (màu tối càng khó); chiếu **tối thiểu 20 giây**, thường 20–60 giây; đầu đèn **trong vòng 2 mm**. 3–10 giây là của đèn PAC, laser.
+
+#### Vận dụng · 5
+
+Hai tháng sau trám composite, bệnh nhân ê nhẹ khi uống lạnh; miếng trám kín, khám không có dấu hiệu tủy bệnh. Nhận định hợp lý là:
+
+- [ ] Đây là dị ứng với monomer của composite, phải tháo bỏ toàn bộ miếng trám ngay hôm nay
+- [ ] Đây chắc chắn là viêm tủy không hồi phục, cần điều trị nội nha ngay trong lần hẹn này
+- [ ] Miếng trám chắc chắn đã bị sâu thứ phát ở mặt nhai, cần trám lại toàn bộ bằng amalgam
+- [x] Có thể do vi rò dịch trong ngà hoặc biến dạng do co ngót; thường giảm dần sau 6–12 tháng đầu
+  > SGK: nhạy cảm sau phục hồi **thường do vi rò chất lỏng trong ngà hoặc biến dạng do co ngót, giãn nở do hấp thu nước**; **thường chỉ xuất hiện trong 6–12 tháng đầu, rồi giảm dần**.
+
+#### Vận dụng · 2.3
+
+Cần một composite vừa có tính chất cơ học tốt, vừa có bề mặt nhẵn láng, để dùng rộng rãi cho nhiều loại xoang. Nhóm phù hợp là:
+
+- [ ] Composite hạt độn nhỏ
+- [x] Composite loại lai
+- [ ] Composite loại cổ điển
+- [ ] Composite lỏng
+  > Loại lai kết hợp **tính chất vật lý, cơ học** của loại cổ điển với **sự nhẵn láng bề mặt** của loại hạt độn nhỏ (mục 5). Hạt độn nhỏ thì cơ học kém hơn; cổ điển bề mặt gồ ghề; composite lỏng tính chất kém hơn loại lai.
+
+#### Hiểu · 2.1
+
+Các tình huống sau đều làm mối dán composite yếu đi, NGOẠI TRỪ:
+
+- [ ] Nước bọt dính lên men vừa xoi mòn, ngay trước khi bôi chất dán lên men
+- [ ] Dán trực tiếp lên lớp mùn ngà còn nguyên, không xử lý bằng acid
+- [x] Bù nước cho ngà bằng bông ẩm trong khoảng 10 giây trước khi bôi primer
+- [ ] Thổi khô ngà đã xoi mòn rất lâu, tới khi bề mặt ngà trắng đục hẳn
+  > Bù nước bằng bông ẩm **khoảng 10 giây** là cách SGK dặn để giữ khung collagen, tạo lớp lai. Nước bọt làm bẩn bề mặt; ngà khô làm collagen xẹp; dán lên lớp mùn chỉ được 4–6 MPa.
+
+#### Vận dụng · 6.3.7
+
+Hai con số 24 giờ và 90 giây khi dùng GIC dưới composite lần lượt nói về:
+
+- [x] Thời gian nên chờ sau lót nền GIC mới chuẩn bị xoang trám kết thúc; thời gian phải hoàn tất lớp GIC mỏng vì GIC cứng nhanh
+- [ ] Thời gian chiếu đèn cho lớp GIC; thời gian xoi mòn ngà trước khi đặt GIC
+- [ ] Thời gian phải hoàn tất lớp GIC mỏng vì GIC cứng nhanh; thời gian nên chờ sau lót nền GIC mới trám kết thúc
+- [ ] Thời gian không ăn sau trám GIC; thời gian trộn tối đa của GIC Fuji IX
+  > **24 giờ**: Bài 7 mục 5.4.1, lót nền GIC rồi chờ 24 giờ mới chuẩn bị xoang trám kết thúc. **90 giây**: Bài 8 mục 6.3.7, lớp GIC mỏng cứng nhanh nên phải hoàn tất trong 90 giây.
+
+#### Hiểu · 4
+
+Hai đặc tính của composite tạo áp lực tại bề mặt răng – miếng trám, dễ dẫn tới vi kẽ, là:
+
+- [ ] Giải phóng fluor và gắn kết hóa học với ngà
+- [ ] Cản quang nhờ Ba, Zn và màu sắc giống răng
+- [ ] Độ trong mờ và độ bóng sau khi đánh bóng
+- [x] Co khi trùng hợp và hệ số giãn nở nhiệt lớn hơn răng
+  > Co trùng hợp tạo áp lực ở bờ từ lúc gel (mục 3, 4); hệ số giãn nở nhiệt **28–45 ppm/°C, gấp 3–4 lần răng** → nhiệt độ thay đổi tạo áp lực ở bề mặt răng – miếng trám (mục 4).
 
 ## Ôn 5 phút trước khi thi
 

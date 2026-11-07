@@ -968,6 +968,46 @@ Về phạm vi sử dụng GIC, chọn câu SAI:
 - [x] GIC chỉ dùng cho răng sữa vì không đủ bền ở răng vĩnh viễn
   > Ở răng cối lớn, GIC thường là **vật liệu kết dính, gắn, hay nền**; GIC dùng cho phục hồi **tạm thời hay lâu dài** ở **cả trẻ em và người lớn**, đặc biệt **ca khó** và **bệnh nhân lớn tuổi**. Fuji IX GP còn trám được **răng cối vĩnh viễn** (mục 2.1).
 
+#### Nhớ · 0
+
+Xi măng glass ionomer là vật liệu nha khoa được sử dụng trong:
+
+- [ ] Tẩy trắng và phủ men răng
+- [x] Trám răng và xi măng gắn
+- [ ] Trám bít ống tủy và che tủy trực tiếp
+- [ ] Lấy dấu và làm hàm tạm
+  > GIC là vật liệu phục hồi "được sử dụng trong **trám răng và xi măng gắn**".
+
+#### Nhớ · 0
+
+Ở các răng cối lớn, GIC thường được dùng với vai trò:
+
+- [x] Vật liệu kết dính, gắn, hay nền
+- [ ] Vật liệu chịu lực chính ở mặt nhai
+- [ ] Vật liệu phủ thẩm mỹ cho mặt ngoài răng
+- [ ] Vật liệu thay thế amalgam ở xoang II lớn
+  > Ở răng cối lớn, GIC đóng vai **kết dính, gắn, hay nền**. Nó không phải vật liệu chịu lực chính, vì chỉ dùng ở vùng không phải chịu lực mạnh.
+
+#### Hiểu · 0
+
+Hai đặc tính giúp ứng dụng của GIC trong nha khoa hiện đại ngày càng được mở rộng là:
+
+- [x] Gắn kết hóa học với mô cứng của răng và giải phóng fluor trong thời gian tương đối dài
+- [ ] Đông cứng tức thì ngay sau khi trộn và hoàn toàn không nhạy cảm với nước trong miệng
+- [ ] Bám cơ học vào men đã xoi mòn và không cần bất kỳ bước chuẩn bị bề mặt nào
+- [ ] Độ bền uốn cao hơn composite và thẩm mỹ tốt nhất trong các vật liệu trám hiện có
+  > Hai đặc tính SGK nêu: **gắn kết hóa học với mô cứng của răng** và **giải phóng fluor trong một thời gian tương đối dài**.
+
+#### Vận dụng · 0
+
+Trong các tổn thương sau, tổn thương phù hợp nhất để phục hồi bằng GIC là:
+
+- [ ] Mặt nhai răng 47 của người nghiến răng
+- [ ] Răng 26 chết tủy đã mất hết các thành bên, cần tái tạo cùi
+- [ ] Xoang II lớn đã mất gờ bên ở răng 36
+- [x] Lỗ sâu nhỏ phía gần của răng sữa 64 ở trẻ 5 tuổi
+  > GIC là vật liệu phục hồi ở **vùng không phải chịu lực mạnh**, như **mặt nhẵn và các lỗ sâu nhỏ phía gần ở răng sữa**. Xoang II lớn và mặt nhai chịu lực mạnh thì không hợp; răng chết tủy mất thành bên thì composite tái tạo cùi tốt hơn (mục 5.4.2).
+
 ### Phần B – Thành phần (mục 1.1, 1.2)
 
 #### Nhớ · 1.1
@@ -980,6 +1020,16 @@ Phần bột của GIC:
 - [ ] Gồm nhựa Bis-GMA và hạt độn silica
   > Bột GIC **giống bột xi măng silicate**: **SiO₂, Al₂O₃, CaF₂, AlPO₄** (aluminum phosphate), **NaF**… Acid polyacrylic, tartaric thuộc **chất lỏng** (mục 1.2).
 
+#### Nhớ · 1.1
+
+Trong GIC, nguồn fluor nằm ở:
+
+- [ ] Lớp vecni phủ sau khi trám
+- [x] Phần bột, trong CaF₂ và NaF
+- [ ] Phần chất lỏng, trong acid polyacrylic
+- [ ] Dentin conditioner bôi trước khi trám
+  > Phần bột gồm **SiO₂, Al₂O₃, CaF₂, AlPO₄, NaF…**: fluor có sẵn trong **bột**. Khi acid "cắn" vào hạt thủy tinh, F⁻ được giải phóng cùng các ion khác.
+
 #### Nhớ · 1.2
 
 Phần chất lỏng của GIC là:
@@ -990,6 +1040,16 @@ Phần chất lỏng của GIC là:
 - [ ] Nước cất, giúp hòa tan bột thủy tinh
   > Chất lỏng là **acid hữu cơ cao phân tử** như **polyacrylic** hoặc các **co-polyme** giữa polyacrylic với **tartaric** (hay polyacrylic – tartaric với methanol): **giúp đông cứng và chống sự gel hóa**.
 
+#### Nhớ · 1.2
+
+Các co-polyme trong phần chất lỏng của GIC có tác dụng:
+
+- [ ] Tăng cản quang và giảm co khi trùng hợp
+- [ ] Xoi mòn men và tạo vi lưu cơ học
+- [x] Giúp đông cứng và chống sự gel hóa
+- [ ] Tăng giải phóng fluor và tăng thẩm mỹ
+  > Chất lỏng là acid hữu cơ cao phân tử; tác dụng: **giúp đông cứng và chống sự gel hóa**.
+
 #### Hiểu · 1.3
 
 Trong phản ứng đông cứng của GIC truyền thống, câu đúng là:
@@ -999,6 +1059,36 @@ Trong phản ứng đông cứng của GIC truyền thống, câu đúng là:
 - [x] Ca²⁺ nối chéo các nhóm carboxyl trước, gây đông kết; Al³⁺ thay dần, tạo mạng lưới chặt hơn
 - [ ] Si phản ứng với acid để tạo liên kết hóa học với răng
   > Sơ đồ tr. 116: **Ca²⁺** (hóa trị II) nối chéo trước → **đông kết**; **Al³⁺** (hóa trị III) **thay dần** → mạng lưới **chặt hơn**; Si phản ứng với **nước** → mạng silicat; liên kết với răng là do **nhóm carboxyl** bám ion trên bề mặt răng.
+
+#### Hiểu · 1.3
+
+Liên kết hóa học giữa GIC và mô răng hình thành do:
+
+- [x] Nhóm COO⁻ của chuỗi polyme bám vào ion trên bề mặt răng
+- [ ] Si phản ứng với nước tạo mạng silicat trong khối trám
+- [ ] Nhựa chảy vào các vi lưu trên men rồi trùng hợp tại chỗ
+- [ ] Hạt độn kim loại – gốm gắn với COO⁻ trong khối vật liệu
+  > Sơ đồ tr. 116, chữ **F**: COO⁻ bám ion trên **bề mặt răng**. Nhựa chảy vào vi lưu là cách dán của composite (Bài 8). Mạng silicat (chữ D) nằm trong khối trám; hạt kim loại – gốm (chữ G) là của Cermet.
+
+#### Hiểu · 1.3
+
+So với GIC truyền thống, GIC biến tính nhựa (như Fuji II LC) có thêm:
+
+- [ ] Eugenol trong chất lỏng để làm dịu tủy và kéo dài thời gian làm việc của vật liệu
+- [ ] Hạt độn kim loại – gốm gắn với nhóm COO⁻ để gia cố cơ học, nên không cần chiếu đèn
+- [ ] Acid phosphoric trong chất lỏng để tự xoi mòn men ngay khi đặt vào xoang trám
+- [x] Nhóm acrylic trên chuỗi polyme và monome tan trong nước, cho phép chiếu đèn
+  > Sơ đồ tr. 116, dải dưới: **H** là nhóm acrylic gắn trên chuỗi polyme, **I** là monome tan trong nước, **J** là hạt độn thêm vào. Hạt kim loại – gốm là của **Cermet**.
+
+#### Nhớ · 1.3
+
+Trong GIC loại Cermet, thành phần được thêm để gia cố cơ học là:
+
+- [ ] Monome tan trong nước
+- [x] Hạt độn kim loại – gốm
+- [ ] Nhóm acrylic gắn trên chuỗi polyme
+- [ ] Sợi thủy tinh cắt ngắn
+  > Sơ đồ tr. 116, dải giữa: **Cermet** có **hạt độn kim loại – gốm** (chữ G) gắn với COO⁻ để gia cố cơ học. Nhóm acrylic và monome tan trong nước là của GIC biến tính nhựa.
 
 ### Phần C – Những lưu ý khi sử dụng (mục 1.3)
 
@@ -1072,6 +1162,66 @@ Răng 46 có xoang II lớn, gờ bên đã vỡ; nướu cạnh xoang viêm, ch
 - [x] Điều trị nướu viêm trước; không trám GIC cho toàn bộ xoang II lớn (GIC chỉ làm phần dưới, composite ở trên)
   > Hai lưu ý: **nướu viêm** phải **điều trị trước khi trám**; **không** dùng GIC trám **xoang II lớn**, nơi chịu lực nhai mạnh. Xoang II lớn dùng **sandwich** (mục 5.4.1).
 
+#### Hiểu · 1.3
+
+Trộn GIC thành hỗn hợp quá acid (quá ít bột) thì:
+
+- [x] Tạo liên kết yếu với răng
+- [ ] Vật liệu đông nhanh hơn và ít vi kẽ hơn
+- [ ] Liên kết với răng mạnh hơn nhờ dư acid
+- [ ] Không ảnh hưởng, vì acid dư sẽ bay hơi
+  > Lưu ý 2: **hỗn hợp quá acid sẽ tạo liên kết yếu**. Trộn quá nhiều bột thì hết acid polyacrylic tự do, cũng liên kết yếu. Sai tỉ lệ theo chiều nào cũng hại.
+
+#### Nhớ · 1.3
+
+Đưa GIC vào xoang từng phần và áp sát thành xoang nhằm các mục đích sau, NGOẠI TRỪ:
+
+- [ ] Giúp tạo liên kết với răng ở mức tối đa
+- [x] Tăng áp lực để vật liệu thấm sâu vào ống ngà
+- [ ] Tránh bọt khí và bọng dưới đáy xoang trám
+- [ ] Giảm áp lực nước trong ống ngà khi trám
+  > Lưu ý 4: đưa từng phần, áp sát thành xoang để **giảm áp lực**, **tránh bọt khí và bọng dưới đáy xoang**, **tạo liên kết tối đa**. Tăng áp lực nước là hậu quả xấu của việc đưa nguyên khối.
+
+#### Vận dụng · 1.3
+
+Sinh viên bôi acid phosphoric 37% lên xoang, rửa, bôi thêm bond rồi mới đặt GIC vì nghĩ làm vậy dính chắc hơn. Nhận định đúng là:
+
+- [ ] Đúng, miễn là sau đó không thổi khô xoang quá mức trước khi đặt GIC
+- [ ] Đúng, vì GIC được giữ trên răng nhờ vi lưu cơ học giống như composite
+- [x] Sai, vì khi trám GIC không dùng axit etching và bond – resine
+- [ ] Sai, vì phải xoi mòn bằng acid phosphoric lâu hơn, ít nhất là 60 giây
+  > Lưu ý 1: **không sử dụng axit etching, các chất bond – resine** khi trám GIC; chỉ dùng **dentin conditioner** (axit polyacrylic 10–20%). GIC dính bằng liên kết ion với mô răng, lớp nhựa bond chen giữa sẽ làm mất liên kết đó.
+
+#### Nhớ · 1.3
+
+Hỗn hợp cement GIC trước khi đưa vào xoang cần có:
+
+- [ ] Bề mặt đã khô, mờ, hết bóng hoàn toàn
+- [ ] Độ dính tối đa vào bay trộn và giấy trộn
+- [ ] Độ quánh cao như sáp, để không chảy ra khỏi xoang
+- [x] Độ chảy phù hợp, cho phép bao phủ hoàn toàn bề mặt
+  > Lưu ý 2: "**Hỗn hợp cement cần có độ chảy phù hợp cho phép bao phủ hoàn toàn bề mặt**". Vật liệu hết bóng là đã bắt đầu đông.
+
+#### Nhớ · 1.3
+
+Bề mặt răng tiếp nhận chất trám GIC phải:
+
+- [ ] Ướt đẫm nước để GIC có đủ nước phản ứng
+- [ ] Được thổi khô tuyệt đối để liên kết chắc hơn
+- [ ] Còn một lớp nước bọt mỏng để giữ ẩm
+- [x] Sạch và khô, nhưng không nên thổi khô xoang quá
+  > Lưu ý 3: bề mặt phải **sạch và khô**, nhưng **không nên thổi khô xoang quá** vì phản ứng GIC cần nước để cân bằng. Nước bọt trên bề mặt là chất bẩn làm mất liên kết ion.
+
+#### Vận dụng · 1.3
+
+Trám GIC có đặt khuôn. Khi gỡ khuôn, vật liệu bị kéo theo làm hở bờ. Sai sót nhiều khả năng nhất là:
+
+- [ ] Dùng dentin conditioner chuẩn bị xoang trước khi trám
+- [ ] Bôi vaseline lên miếng trám ngay sau khi gỡ khuôn
+- [x] Gỡ khuôn khi vật liệu chưa đông cứng hoàn toàn
+- [ ] Đưa vật liệu vào xoang từng phần, áp sát thành
+  > Lưu ý 5: **kiểm tra kỹ vật liệu đã đông cứng hoàn toàn trước khi gỡ khuôn**, rồi bôi vaseline ngay. Ba việc còn lại đều là việc nên làm.
+
 ### Phần D – Các loại glass ionomer (mục 2)
 
 #### Nhớ · 2.1
@@ -1104,6 +1254,26 @@ So với Fuji IX GP, hai loại Fuji IX GP FAST và Fuji IX GP EXTRA có:
 - [ ] Chỉ dùng để trám lót
   > Fuji IX GP **FAST** và **EXTRA**: **thời gian làm việc và hoàn tất ngắn hơn** Fuji IX GP.
 
+#### Nhớ · 2.1
+
+Hai loại GIC có thể trám răng cối vĩnh viễn và tái tạo cùi răng, trừ trám xoang II kép, là:
+
+- [x] Fuji IX GP và Fuji II LC
+- [ ] Fuji VIII và Fuji III
+- [ ] Fuji IX và G-Coat Plus
+- [ ] Fuji Bond LC và Fuji VII
+  > **Fuji IX GP** (cải tiến để chịu lực) và **Fuji II LC** đều trám được răng cối vĩnh viễn, tái tạo cùi răng, **trừ xoang II kép**.
+
+#### Vận dụng · 2.1
+
+Đoàn nha khoa cộng đồng trám xoang I răng 36 cho trẻ ở vùng không có ghế máy, bằng kỹ thuật trám răng không sang chấn (ART). Trong các loại sau, loại GIC phù hợp là:
+
+- [ ] Fuji VIII
+- [ ] G-Coat Plus
+- [x] Fuji IX
+- [ ] Fuji Bond LC
+  > **Fuji IX** (hộp màu xám) dùng cho **ART**. Fuji VIII cũng dùng trong ART nhưng cho **xoang III và V**. Fuji Bond LC là loại trám lót; G-Coat Plus là chất phủ.
+
 #### Nhớ · 2.2
 
 Fuji II LC là loại GIC:
@@ -1124,6 +1294,36 @@ Fuji VIII được dùng để:
 - [ ] Phủ bề mặt miếng trám composite
   > **Fuji VIII**: trám **xoang III và xoang V** trong **kỹ thuật ART** (nhóm trám cổ răng, răng trước).
 
+#### Vận dụng · 2.2
+
+Bệnh nhân 72 tuổi bị sâu chân răng ở mặt ngoài răng 43, bờ tổn thương sát viền nướu; bệnh nhân muốn miếng trám có màu giống răng. Loại GIC phù hợp nhất là:
+
+- [ ] Fuji IX GP
+- [ ] Fuji III
+- [ ] Fuji Bond LC
+- [x] Fuji II LC
+  > **Fuji II LC** thuộc nhóm **trám cổ răng, răng trước**: dùng cho **xoang V và sâu chân răng**, **màu sắc trong, có nhiều màu**.
+
+#### Nhớ · 2.2
+
+Fuji II LC có các hình thức:
+
+- [ ] Chỉ có loại trong con nhộng để bơm vào xoang, không có dạng lọ để trộn tay
+- [x] Một lọ bột với một lọ chất lỏng để trộn, và loại trong con nhộng để bơm vào xoang
+- [ ] Hai tuýp kem (chất nền và chất xúc tác) trộn với nhau trên giấy trộn hoặc kính
+- [ ] Một lọ bột trộn với nước cất, và một loại đóng sẵn trong ống tiêm
+  > Fuji II LC có **2 hình thức**: 1 lọ bột + 1 lọ chất lỏng để trộn, và loại trong con nhộng để bơm vào xoang.
+
+#### Nhớ · 2.2
+
+Về Fuji II LC, chọn câu SAI:
+
+- [x] Đông cứng hoàn toàn bằng phản ứng hóa học, không cần chiếu đèn
+- [ ] Có thể trám răng cối vĩnh viễn (trừ xoang II kép) và tái tạo cùi răng
+- [ ] Màu sắc trong và có nhiều màu
+- [ ] Quang trùng hợp, có phối hợp resine
+  > Fuji II LC **quang trùng hợp**, có phối hợp resine, nên phải chiếu đèn. Các ý còn lại đều đúng.
+
 #### Nhớ · 2.3
 
 Fuji Bond LC được dùng để, NGOẠI TRỪ:
@@ -1133,6 +1333,26 @@ Fuji Bond LC được dùng để, NGOẠI TRỪ:
 - [x] Trám xoang II kép chịu lực nhai
 - [ ] Sử dụng như chất bonding đối với miếng trám composite
   > Fuji Bond LC (quang trùng hợp) là loại **trám lót**, có **3 công dụng**: **lót nền** cho composite, amalgam; **chống nhạy cảm, ê buốt**; dùng **như chất bonding** cho composite.
+
+#### Nhớ · 2.3
+
+Hai loại GIC có chữ "LC" là Fuji II LC và Fuji Bond LC đều là loại:
+
+- [ ] Dùng riêng cho kỹ thuật ART
+- [ ] Dùng để phủ bề mặt miếng trám
+- [ ] Tự đông, không cần đèn
+- [x] Quang trùng hợp
+  > SGK ghi cả hai đều **quang trùng hợp**. Fuji II LC dùng cho xoang V, sâu chân răng; Fuji Bond LC là loại trám lót.
+
+#### Vận dụng · 2.3
+
+Cần một loại GIC quang trùng hợp để lót nền dưới miếng trám composite, chống ê buốt và dùng được như chất bonding. Loại phù hợp là:
+
+- [x] Fuji Bond LC
+- [ ] Fuji VIII
+- [ ] Fuji III
+- [ ] Fuji IX
+  > **Fuji Bond LC** có 3 công dụng: lót nền cho composite, amalgam · chống nhạy cảm, ê buốt · dùng như chất bonding đối với composite.
 
 #### Nhớ · 2.4
 
@@ -1144,15 +1364,25 @@ Các loại GIC dùng để trám dự phòng là:
 - [ ] Fuji VIII và Fuji IX
   > Loại **trám dự phòng**: **Fuji III**, **Fuji VII** (Fuji VII còn dùng **trám lót** và **trám bề mặt chân răng**).
 
-#### Vận dụng · 2.2
+#### Nhớ · 2.4
 
-Bệnh nhân 72 tuổi bị sâu chân răng ở mặt ngoài răng 43, bờ tổn thương sát viền nướu; bệnh nhân muốn miếng trám có màu giống răng. Loại GIC phù hợp nhất là:
+Ngoài trám dự phòng, Fuji VII còn được dùng để:
 
-- [ ] Fuji IX GP
-- [ ] Fuji III
-- [ ] Fuji Bond LC
-- [x] Fuji II LC
-  > **Fuji II LC** thuộc nhóm **trám cổ răng, răng trước**: dùng cho **xoang V và sâu chân răng**, **màu sắc trong, có nhiều màu**.
+- [ ] Tái tạo cùi cho răng chết tủy
+- [ ] Trám xoang II kép ở răng cối
+- [x] Trám lót và trám bề mặt chân răng
+- [ ] Phủ bề mặt mão tạm cho bóng đẹp
+  > Fuji VII: loại trám dự phòng, **còn dùng để trám lót và trám bề mặt chân răng**.
+
+#### Nhớ · 2.5
+
+G-Coat Plus dùng để:
+
+- [ ] Phủ lên bề mặt miếng trám composite, giúp vật liệu đông cứng nhanh hơn
+- [x] Phủ lên bề mặt miếng trám GIC hoặc composite, gia tăng độ cứng chắc và thẩm mỹ
+- [ ] Phủ lên bề mặt miếng trám GIC, làm tăng lượng fluor được giải phóng ra răng
+- [ ] Lót dưới miếng trám amalgam ở xoang sâu, cách nhiệt và bảo vệ tủy
+  > G-Coat Plus phủ được **cả GIC và composite**, để **gia tăng độ cứng chắc và thẩm mỹ**.
 
 ### Phần E – Chỉ định (mục 3)
 
@@ -1175,6 +1405,26 @@ Khi dùng làm vật liệu trám, GIC thường là vật liệu lý tưởng c
 - [ ] Miếng trám chịu lực nhai mạnh ở răng cối lớn
 - [ ] Phục hồi góc cắn răng cửa ở người trẻ
   > Do đặc tính **phóng thích fluor**, GIC lý tưởng cho bệnh nhân **nguy cơ sâu răng cao**, miếng trám **chịu lực thấp**, **thẩm mỹ không được coi là ưu tiên hàng đầu**.
+
+#### Hiểu · 3
+
+GIC thường là vật liệu lý tưởng cho bệnh nhân có nguy cơ sâu răng cao, chủ yếu do:
+
+- [ ] Thẩm mỹ vượt trội so với composite
+- [x] Đặc tính phóng thích fluor
+- [ ] Khả năng chịu lực nhai cao
+- [ ] Không cần cô lập vùng làm việc
+  > SGK: "**do đặc tính phóng thích fluor**, GIC thường là vật liệu lý tưởng cho những bệnh nhân có nguy cơ sâu răng cao".
+
+#### Vận dụng · 3
+
+Trong các bệnh nhân sau, trường hợp nên ưu tiên GIC làm vật liệu trám là:
+
+- [ ] Người trẻ ít sâu răng, muốn phục hồi răng cửa giữa đẹp nhất có thể, như răng thật
+- [ ] Người mẫu ảnh cần đóng khe thưa giữa hai răng cửa giữa hàm trên, yêu cầu rất đẹp
+- [ ] Người nghiến răng mạnh về đêm, cần trám xoang II lớn ở răng cối lớn hàm dưới
+- [x] Người cao tuổi nhiều răng sâu, miếng trám chịu lực thấp, không đặt nặng thẩm mỹ
+  > Chân dung hợp GIC: **nguy cơ sâu răng cao, miếng trám chịu lực thấp, thẩm mỹ không phải ưu tiên hàng đầu**. Ba trường hợp còn lại cần thẩm mỹ cao hoặc chịu lực mạnh.
 
 ### Phần F – Nguyên tắc tạo xoang trám (mục 4)
 
@@ -1237,6 +1487,46 @@ So với nguyên tắc tạo xoang của G.V. Black cho amalgam, xoang trám GIC
 - [x] Không tạo hình hộp, không tạo lưu, không mở rộng phòng ngừa
 - [ ] Phải lấy hết mô nhiễm khuẩn
   > Bỏ men không được nâng đỡ, làm sạch xoang, lấy mô nhiễm khuẩn là điểm **chung**. GIC **dính hóa học** nên **không cần hình hộp, lưu cơ học**, cũng **không mở rộng phòng ngừa** (hình xoang là kết quả của nguyên tắc 2 và 3).
+
+#### Nhớ · 4
+
+Trong nguyên tắc tạo xoang trám GIC, lối vào xoang được mở:
+
+- [ ] Ở vị trí đủ rộng để tạo được hình hộp
+- [x] Ngay bên dưới xoang trám
+- [ ] Từ gờ bên, phá gờ bên để dễ nhìn
+- [ ] Rộng ra các rãnh lành kế cận để phòng ngừa
+  > Nguyên tắc 1: **lối vào ngay bên dưới xoang trám**. "Mở rộng phòng ngừa", tạo hình hộp là của G.V. Black.
+
+#### Vận dụng · 4
+
+Sau khi lấy sạch ngà sâu ở răng 14, còn một thành men mỏng không có ngà nâng đỡ. Tạo xoang trám GIC thì nên:
+
+- [ ] Giữ lại và tạo thêm rãnh lưu bên dưới
+- [ ] Phủ vecni lên phần men đó cho cứng
+- [x] Lấy bỏ phần men này rồi mới trám
+- [ ] Giữ lại vì GIC dính được vào men
+  > Nguyên tắc 3: **lấy bỏ men không có ngà nâng đỡ**. Men giòn, thiếu ngà đỡ sẽ dễ vỡ dưới lực nhai (Bài 6), làm hở bờ miếng trám.
+
+#### Nhớ · 4
+
+Dụng cụ tạo xoang trám GIC gồm các loại sau, NGOẠI TRỪ:
+
+- [x] Mũi khoan hình nón ngược để tạo lưu
+- [ ] Mũi khoan tungsten tròn chậm hoặc cây nạo ngà
+- [ ] Mũi khoan kim cương búp lửa
+- [ ] Mũi khoan kim cương trụ
+  > Bốn dụng cụ: tungsten tròn · kim cương búp lửa · kim cương trụ · tungsten tròn chậm hoặc cây nạo ngà. Xoang GIC **không tạo hình thể lưu**.
+
+#### Hiểu · 4
+
+Nguyên tắc về bảo vệ tủy khi tạo xoang trám GIC là:
+
+- [ ] Chỉ bảo vệ tủy ở răng sữa
+- [ ] Luôn lót Ca(OH)₂ cho mọi xoang
+- [ ] Không cần, vì GIC không kích thích tủy
+- [x] Bảo vệ tủy nếu cần
+  > Nguyên tắc 6: **bảo vệ tủy nếu cần**. Xoang nông thì không phải lót; xoang sâu sát tủy thì lót một lớp mỏng (mục 5.4.1).
 
 ### Phần G – Trám xoang loại I (mục 5.1)
 
@@ -1310,6 +1600,126 @@ Một sinh viên trộn GIC Fuji IX liền 45 giây; khi đưa vào xoang, hỗn
 - [ ] Không ảnh hưởng gì nếu ấn tay thật mạnh
   > Trộn **không quá 30 giây**, và phải đặt xong khi **còn bóng láng**. Trộn lâu → vật liệu **bắt đầu đông ngay trên giấy trộn**, hết acid polyacrylic tự do để dính (mục 1.3, lưu ý 2) → liên kết kém.
 
+#### Nhớ · 5.1
+
+Chuẩn bị xoang I với dung dịch Fuji IX: sau khi quét dung dịch lên toàn bộ bề mặt xoang, cần:
+
+- [ ] Để yên khoảng 30 giây cho dung dịch thấm rồi đặt chất trám luôn, không cần rửa
+- [ ] Bôi một lớp vecni mỏng lên thành xoang, chờ khô rồi mới đặt chất trám
+- [ ] Rửa 1 lần bằng tia nước mạnh của tay xịt, rồi thổi hơi cho thật khô xoang
+- [x] Lấy viên gòn sạch nhúng nước rửa xoang 3 lần, rồi làm khô bằng viên gòn khô
+  > Bốn bước: nhỏ 1 giọt dung dịch · viên gòn đã tẩm nước quét toàn bộ xoang · **viên gòn sạch nhúng nước rửa 3 lần** · **làm khô bằng viên gòn khô**.
+
+#### Nhớ · 5.1
+
+Đong bột GIC đúng cách là:
+
+- [x] Vỗ nhẹ lọ bột, múc đầy 1 muỗng, gạt ngang rồi đặt lên giấy trộn
+- [ ] Múc đầy 1 muỗng, nén chặt bột trong muỗng rồi đặt lên giấy trộn
+- [ ] Lắc mạnh lọ bột, múc vun 1 muỗng rồi đặt lên giấy trộn
+- [ ] Đổ bột thẳng từ lọ lên giấy trộn và ước lượng bằng mắt
+  > SGK: **vỗ nhẹ lọ bột** trước khi đong, **múc đầy 1 muỗng bột và gạt ngang** rồi đặt lên giấy trộn. GIC đòi hỏi tỷ lệ chính xác.
+
+#### Vận dụng · 5.1
+
+Xoang lớn cần lượng vật liệu gấp đôi bình thường. Lường GIC Fuji IX đúng là:
+
+- [ ] 3 muỗng gạt bột : 2 giọt chất lỏng
+- [x] 2 muỗng gạt bột : 2 giọt chất lỏng
+- [ ] 1 muỗng gạt bột : 2 giọt chất lỏng
+- [ ] 2 muỗng gạt bột : 1 giọt chất lỏng
+  > Tỷ lệ luôn **1 muỗng gạt : 1 giọt**, nên **hai muỗng bột tương ứng với hai giọt chất lỏng**.
+
+#### Nhớ · 5.1
+
+Dụng cụ dùng để chia lượng bột thành 2 phần khi trộn GIC Fuji IX là:
+
+- [ ] Cây điêu khắc
+- [ ] Bay kim loại
+- [x] Bay nhựa
+- [ ] Thám trâm
+  > SGK: "**Dùng một bay nhựa** chia lượng bột thành 2 phần bằng nhau".
+
+#### Nhớ · 5.1
+
+Thời gian trộn tổng cộng GIC Fuji IX không nên quá:
+
+- [ ] 10 giây
+- [ ] 20 giây
+- [x] 30 giây
+- [ ] 60 giây
+  > Trộn phần đầu 10 giây, thêm phần hai 12–20 giây; **tổng cộng không nên quá 30 giây**.
+
+#### Nhớ · 5.1
+
+Trám xoang I bằng Fuji IX, chất trám được đưa vào xoang bằng:
+
+- [ ] Súng bơm con nhộng, bơm từ đáy lên với áp lực mạnh
+- [ ] Đầu thám trâm, ép sát vào thành xoang rồi kéo ra từng chút
+- [x] Đầu phẳng của một cây điêu khắc, ấn xuống với áp lực nhẹ
+- [ ] Ngón tay đeo găng, ngay sau khi vừa trộn xong vật liệu
+  > Xoang I: **đầu phẳng của một cây điêu khắc**, ấn với **áp lực nhẹ**, tránh kẹt bọt khí. Thám trâm ép sát thành xoang là cách làm ở xoang II.
+
+#### Nhớ · 5.1
+
+GIC được trải thêm lên mặt nhai khi trám xoang I nhằm:
+
+- [ ] Thay cho lớp vecni bảo vệ
+- [x] Phủ tất cả các rãnh cạnh xoang trám
+- [ ] Làm dày mặt nhai để chịu lực tốt hơn
+- [ ] Tạo lưu cơ học ở các múi răng
+  > SGK: "Trải thêm chất trám lên mặt nhai và **phủ tất cả các rãnh cạnh xoang trám**". GIC bảo vệ rãnh kế cận mà không phải khoan mở rộng.
+
+#### Nhớ · 5.1
+
+Sau khi dùng tay ấn ép chất trám vào xoang, ngón tay được:
+
+- [ ] Nhấc thẳng lên khỏi mặt răng ngay sau khoảng 5 giây
+- [ ] Giữ nguyên khoảng 5 phút rồi mới nhấc thẳng lên
+- [ ] Xoay tròn tại chỗ rồi nhấc lên sau khoảng 1 phút
+- [x] Lấy sang bên đối với bề mặt răng sau khoảng 30 giây
+  > SGK: "**Lấy ngón tay sang bên** đối với bề mặt răng **sau khoảng 30 giây**". Trượt ngang để không kéo bật vật liệu còn mềm.
+
+#### Nhớ · 5.1
+
+Ngay sau khi lấy ngón tay ra khỏi miếng trám GIC xoang I, bước tiếp theo là:
+
+- [x] Dùng viên gòn bôi vecni lên toàn bộ miếng trám, chờ khô
+- [ ] Chiếu đèn 20 giây để vật liệu cứng ngay lập tức
+- [ ] Mài phần dư bằng máy mài có phun nước cho mát
+- [ ] Rửa miếng trám 3 lần bằng viên gòn nhúng nước
+  > Sau khi ấn tay: **dùng một viên gòn bôi vecni lên toàn bộ miếng trám, chờ khô** để có một lớp bảo vệ. Sau đó mới lấy phần dư và phủ vecni lần nữa.
+
+#### Hiểu · 5.1
+
+Khi dùng máy mài lấy phần dư miếng trám GIC xoang I, phải mài không nước vì:
+
+- [x] GIC vừa đặt cần được ngăn ngấm nước
+- [ ] Nước làm lớp vecni cứng lại
+- [ ] Nước làm mũi mài mau mòn
+- [ ] Nước làm fluor giải phóng quá mức
+  > SGK ghi "**mài không nước**". Lý do suy từ mục 1.3: GIC vừa đông phải được **ngăn sự mất nước hoặc ngấm nước**.
+
+#### Vận dụng · 5.1
+
+Trám GIC Fuji IX xong, bệnh nhân hỏi khi nào được ăn. Dặn đúng là:
+
+- [ ] Không được ăn ít nhất 24 giờ sau khi trám
+- [x] Không được ăn ít nhất một giờ sau khi trám
+- [ ] Ăn được ngay vì vật liệu đã đông cứng
+- [ ] Không được ăn ít nhất 15 phút sau khi trám
+  > SGK: "Dặn bệnh nhân **không được ăn ít nhất một giờ** sau khi trám". 24 giờ là thời gian chờ sau lót nền GIC (mục 5.4.1).
+
+#### Vận dụng · 5.1
+
+Các việc sau khi đặt xong chất trám Fuji IX: (1) lấy phần dư; (2) ấn tay khi bắt đầu hết bóng; (3) phủ lại vecni; (4) bôi vecni lần đầu; (5) dặn không ăn. Thứ tự đúng là:
+
+- [ ] 2 → 1 → 4 → 3 → 5
+- [ ] 1 → 2 → 4 → 3 → 5
+- [x] 2 → 4 → 1 → 3 → 5
+- [ ] 4 → 2 → 1 → 3 → 5
+  > Ấn tay khi bắt đầu hết bóng → bôi vecni, chờ khô → lấy phần dư (mài không nước) → phủ lại vecni → dặn không ăn ít nhất 1 giờ.
+
 ### Phần H – Trám xoang loại II (mục 5.2)
 
 #### Nhớ · 5.2
@@ -1342,6 +1752,86 @@ Trám xoang II bằng GIC có dùng đai cellulose: đai được rút ra khi n�
 - [ ] Sau 24 giờ, theo chiều mặt nhai
   > **Chờ GIC đông cứng hoàn toàn**, **rút đai ra theo chiều ngoài – trong**; sau đó dùng **mũi kim cương mịn** lấy phần thừa và **bôi Vaseline**.
 
+#### Nhớ · 5.2
+
+Trám xoang II bằng GIC, có thể sử dụng:
+
+- [ ] Fuji Bond LC hoặc G-Coat Plus
+- [ ] Fuji III hoặc Fuji VII
+- [ ] Fuji VIII hoặc Fuji Lining
+- [x] Fuji IX GP, Fuji II LC hoặc nhộng
+  > Bước 5: "Trộn GIC (có thể sử dụng **Fuji IX GP, Fuji II LC, nhộng**)".
+
+#### Nhớ · 5.2
+
+Trám xoang II bằng GIC: sau khi bôi conditioner và bơm rửa sạch xoang, các bước tiếp theo đúng thứ tự là:
+
+- [ ] Cô lập, lau khô → trộn và đưa GIC vào xoang → đặt đai → rút đai ngay khi vật liệu còn mềm
+- [x] Cô lập, lau khô → đặt đai → trộn và đưa GIC vào xoang → kéo đai ép chặt vào thành bên
+- [ ] Trộn GIC → đặt đai → cô lập, lau khô → đưa GIC vào xoang → kéo đai ép chặt vào thành bên
+- [ ] Đặt đai → trộn và đưa GIC vào xoang → cô lập, lau khô → kéo đai ép chặt vào thành bên
+  > Thứ tự: conditioner, rửa → **cô lập và lau khô → đặt đai → trộn, đưa GIC vào xoang → kéo đai ép chặt** → chờ đông hoàn toàn, rút đai → mài phần thừa, bôi Vaseline.
+
+#### Nhớ · 5.2
+
+Dùng thám trâm đưa GIC vào xoang II, thao tác đúng là:
+
+- [ ] Đặt GIC ở giữa xoang rồi chờ vật liệu tự chảy
+- [ ] Đưa nguyên khối vào xoang rồi ấn mạnh xuống đáy
+- [x] Ép sát đầu thám trâm vào thành xoang rồi kéo ra
+- [ ] Dùng ngón tay ấn ngay khi GIC còn bóng
+  > SGK: "Dùng thám trâm lấy GIC đưa vào xoang, **ép sát đầu thám trâm vào thành xoang rồi kéo ra**". Đây là cách làm của lưu ý 4: từng phần, áp sát thành xoang.
+
+#### Nhớ · 5.2
+
+Đai dùng khi trám xoang II bằng GIC là:
+
+- [ ] Đai nhựa trám cổ răng
+- [ ] Không cần đai, vì GIC tự dính
+- [ ] Chỉ dùng đai kim loại
+- [x] Đai cellulose hoặc đai kim loại
+  > Bước 4: "Đặt **đai cellulose hoặc đai kim loại**". Đai nhựa trám cổ răng là của xoang V.
+
+#### Nhớ · 5.2
+
+Sau khi đưa GIC vào xoang II và kéo đai cellulose ép chặt vào thành bên, có thể nén hỗ trợ thêm bằng:
+
+- [x] Bay trám cement
+- [ ] Cây nạo ngà
+- [ ] Mũi kim cương mịn
+- [ ] Đầu đèn quang trùng hợp
+  > Bước 6: "Kéo đai cellulose ép chặt vào thành bên. Dùng **bay trám cement** nén hỗ trợ thêm".
+
+#### Nhớ · 5.2
+
+Sau khi rút đai, phần GIC thừa ở xoang II được xử lý bằng:
+
+- [ ] Băng nhám, rồi đánh bóng bằng bột oxide nhôm
+- [ ] Mũi tungsten tròn, rồi chiếu đèn 20 giây
+- [ ] Cây điêu khắc, rồi phủ vecni hai lần
+- [x] Mũi kim cương mịn, rồi bôi Vaseline
+  > Bước 8: "Dùng **mũi kim cương mịn** để lấy phần GIC thừa và **bôi Vaseline**".
+
+#### Vận dụng · 5.2
+
+Lỗ sâu mặt gần răng 36 nghiêng nhiều về phía trong. Trám GIC, nên:
+
+- [ ] Mở từ hố giữa mặt nhai, rồi tạo hình hộp có lưu
+- [ ] Phá gờ bên từ mặt nhai xuống, tạo hộp cho dễ nhìn
+- [x] Dùng mũi khoan tròn nhỏ hoặc trung bình đi vào xoang từ mặt trong
+- [ ] Dùng mũi khoan tròn nhỏ hoặc trung bình đi vào xoang từ mặt ngoài
+  > SGK: **tùy theo xoang nghiêng nhiều vào trong hay ra ngoài mà dùng lối đó** để đi vào xoang; mũi khoan tròn nhỏ hoặc trung bình, đi từ mặt bên.
+
+#### Hiểu · 5.2
+
+Phương pháp "đường hầm" không còn phù hợp khi:
+
+- [x] Lỗ sâu đã phá lên đến gờ bên
+- [ ] Gờ bên vẫn còn nguyên
+- [ ] Lỗ sâu ở gần điểm tiếp xúc
+- [ ] Lỗ sâu ở mặt xa răng cối nhỏ
+  > Đường hầm dùng khi xoang ở gần điểm tiếp xúc nhưng **chưa phá lên đến gờ bên**. Mục đích là giữ gờ bên, nên gờ bên đã vỡ thì không còn ý nghĩa.
+
 ### Phần I – Xoang V (mục 5.3)
 
 #### Hiểu · 5.3
@@ -1363,6 +1853,36 @@ Thứ tự kỹ thuật trám xoang V bằng GIC là:
 - [ ] Khoan quanh đường viền → đưa GIC vào → chọn màu răng → chiếu đèn 20 giây → đặt đai nhựa
 - [ ] Chọn màu răng → đưa GIC vào → bôi conditioner → đặt đai kim loại → chiếu đèn 10 giây → mài phần dư
   > 6 bước: **chọn màu** → **mũi tròn nhỏ** chạy quanh đường viền (hoặc dọc thành nướu, thành nhai) → **conditioner, rửa, cô lập, lau khô** → **thám trâm** đưa GIC → **đai nhựa trám cổ răng**, **chiếu đèn 20 giây** → **kim cương mịn** mài dư.
+
+#### Nhớ · 5.3
+
+Bước đầu tiên trong kỹ thuật trám xoang V bằng GIC là:
+
+- [ ] Cô lập và lau khô xoang
+- [x] Chọn màu răng
+- [ ] Đặt đai nhựa trám cổ răng
+- [ ] Bôi conditioner
+  > Sáu bước, mở đầu bằng **chọn màu răng** (trước khi cô lập, lau khô).
+
+#### Nhớ · 5.3
+
+Khi sửa soạn xoang V để trám GIC, mũi khoan tròn nhỏ được dùng để:
+
+- [ ] Tạo một rãnh lưu sâu ở giữa xoang, rồi mở rộng sang hai bên thành nướu, thành nhai
+- [x] Chạy quanh đường viền xoang, hoặc chạy dọc theo thành nướu và thành nhai
+- [ ] Vát men rộng ở thành nướu, hoặc vát men toàn bộ đường viền xoang
+- [ ] Mở đường hầm từ mặt nhai chạy xéo xuống vùng cổ răng
+  > Bước 2: "Dùng **mũi khoan tròn nhỏ chạy quanh đường viền xoang** hoặc **chạy dọc theo thành nướu và thành nhai**".
+
+#### Nhớ · 5.3
+
+Trám xoang V bằng GIC: vật liệu được ép chặt vào xoang và chiếu đèn như sau:
+
+- [x] Ép bằng đai nhựa trám cổ răng, chiếu đèn 20 giây
+- [ ] Ép bằng đai kim loại có vòng giữ, chiếu đèn 40 giây
+- [ ] Ép bằng đai cellulose trong suốt, chiếu đèn 60 giây
+- [ ] Ép bằng ngón tay đeo găng, không cần chiếu đèn
+  > Bước 5: "Dùng **đai nhựa trám cổ răng** ép chặt GIC vào xoang. **Chiếu đèn 20 giây**".
 
 ### Phần J – Các ứng dụng khác (mục 5.4)
 
@@ -1406,6 +1926,36 @@ Xoang I rất sâu, sát tủy ở răng 46. Sau khi lót nền một lớp mỏ
 - [ ] 12 tháng
   > Hình 7.3: xoang **sâu sát tủy**, sau khi **lót nền 1 lớp mỏng** bằng **Fuji Lining hoặc Fuji VII**, có thể dùng **GIC IX trám tạm** để **theo dõi khoảng 4 tháng**.
 
+#### Nhớ · 5.4.1
+
+Khi dùng GIC lót nền cho miếng trám composite, amalgam, xoang được chuẩn bị bằng cách:
+
+- [ ] Tạo xoang hình hộp có thành song song, rồi làm ngàm cơ học ở đáy xoang
+- [ ] Xoi mòn bằng acid phosphoric 37%, rửa sạch rồi bôi keo dán lên ngà
+- [ ] Lấy hết ngà đổi màu ở đáy xoang, kể cả phần ngà đã cứng, rồi thổi thật khô
+- [x] Chỉ cần lấy sạch ngà mềm, không cần tạo xoang đặc biệt và làm ngàm cơ học
+  > SGK: "**Không cần tạo xoang đặc biệt và làm ngàm cơ học, chỉ cần lấy sạch ngà mềm**, đặt GIC (loại lót nền) vào xoang và chiếu đèn".
+
+#### Nhớ · 5.4.1
+
+Kỹ thuật trám sandwich được mô tả cho:
+
+- [ ] Xoang III và xoang IV
+- [ ] Chỉ xoang II kép
+- [x] Xoang I và xoang II
+- [ ] Chỉ xoang V
+  > Hình 7.3: kỹ thuật trám sandwich dành cho **xoang I** (Hình A) và **xoang II** (Hình B).
+
+#### Hiểu · 5.4.1
+
+Trong trám sandwich xoang II lớn, phần trên được dành cho composite vì:
+
+- [ ] Composite giải phóng fluor nhiều hơn GIC nên cần nằm ở mặt nhai, nơi thức ăn đọng
+- [ ] GIC không dính được vào men nên không thể đặt ở phần trên của xoang trám
+- [x] Nơi này chịu lực nhai mạnh, trong khi GIC chỉ dùng ở vùng không chịu lực mạnh
+- [ ] Composite không cần xử lý bề mặt nên đặt ở phần trên sẽ làm nhanh hơn GIC
+  > GIC **không dùng ở nơi chịu lực nhai mạnh** (mục 1.3) nên chỉ trám phía dưới, **dưới tiếp điểm**; phần trên chịu lực nhai dành cho **composite**.
+
 #### Vận dụng · 5.4.2
 
 Răng 36 đã điều trị tủy, còn thành ngoài và thành trong, đã đặt chốt tủy; cần tái tạo cùi trước khi làm mão. Lựa chọn phù hợp:
@@ -1416,6 +1966,26 @@ Răng 36 đã điều trị tủy, còn thành ngoài và thành trong, đã đ�
 - [ ] Dùng G-Coat Plus để tái tạo cùi
   > Răng chết tủy **mất các thành bên** → composite tốt hơn; nhưng **còn ít nhất 2 thành**, **sau khi đặt chốt tủy** → **có thể dùng GIC IX** tái tạo cùi.
 
+#### Nhớ · 5.4.2
+
+GIC thường dùng để tái tạo cùi cho:
+
+- [x] Những răng sống
+- [ ] Răng chết tủy chỉ còn 1 thành, chưa đặt chốt
+- [ ] Răng chết tủy đã mất hết các thành bên
+- [ ] Mọi răng, không cần xét số thành còn lại
+  > SGK: "GIC thường dùng để tái tạo cùi cho **những răng sống**". Răng chết tủy thì phải xét số thành còn lại và chốt tủy.
+
+#### Vận dụng · 5.4.2
+
+Răng 46 chết tủy đã mất các thành bên, cần tái tạo cùi. Vật liệu tốt hơn là:
+
+- [ ] GIC IX
+- [ ] G-Coat Plus
+- [ ] Fuji III
+- [x] Composite
+  > SGK: "Nếu răng chết tủy và mất các thành bên thì sử dụng **composite** để tái tạo cùi tốt hơn". GIC IX chỉ dùng khi còn ít nhất 2 thành và đã đặt chốt tủy.
+
 #### Nhớ · 5.4.3
 
 G-Coat Plus được dùng để, NGOẠI TRỪ:
@@ -1425,6 +1995,88 @@ G-Coat Plus được dùng để, NGOẠI TRỪ:
 - [x] Lót nền cho xoang sâu sát tủy
 - [ ] Làm cho mão tạm bóng đẹp
   > G-Coat Plus: **bôi lớp mỏng** lên miếng trám rồi **chiếu đèn**; **sửa miếng trám cũ đổi màu, nứt nẻ**; **mão tạm** muốn bóng đẹp. Nó là **chất phủ bề mặt** (mục 2.5: tăng độ cứng chắc và thẩm mỹ), không dùng để lót.
+
+#### Nhớ · 5.4.3
+
+Cách dùng G-Coat Plus là:
+
+- [ ] Quét vào thành xoang trước khi đặt GIC, thay cho conditioner
+- [x] Bôi một lớp mỏng lên bề mặt miếng trám và chiếu đèn
+- [ ] Trộn với bột Fuji IX theo tỉ lệ 1 : 1 rồi đặt vào xoang
+- [ ] Bôi một lớp dày lên miếng trám rồi để tự khô, không cần đèn
+  > SGK: "Dùng G-Coat Plus **bôi một lớp mỏng** lên bề mặt miếng trám **và chiếu đèn**".
+
+#### Vận dụng · 5.4.3
+
+Miếng trám cũ ở răng 12 đổi màu, nứt nẻ; một mão tạm khác cần bóng đẹp hơn. Có thể dùng chung cho cả hai:
+
+- [x] G-Coat Plus
+- [ ] Dentin conditioner
+- [ ] Fuji Lining
+- [ ] Fuji VII
+  > G-Coat Plus: **những miếng trám cũ bị đổi màu, nứt nẻ** cũng có thể dùng để sửa chữa lại; **mão tạm** muốn bóng đẹp cũng dùng được.
+
+### Phần K – Tổng hợp, tình huống (cả bài)
+
+#### Hiểu · 1.3
+
+So sánh chuẩn bị bề mặt răng khi trám GIC và composite, câu đúng là:
+
+- [ ] Cả hai đều dùng acid phosphoric 35–37% rồi đến bond – resine
+- [ ] GIC dùng acid xoi mòn rồi keo dán; composite chỉ dùng dentin conditioner
+- [x] GIC chỉ dùng dentin conditioner; composite dùng acid xoi mòn rồi keo dán
+- [ ] Cả hai đều không cần xử lý bề mặt vì đều dính hóa học vào răng
+  > GIC dính **hóa học**, chỉ dùng **conditioner** (polyacrylic 10–20%). Composite dính **vi cơ học** sau **xoi mòn acid**, rồi primer, bonding (Bài 8 mục 6.3).
+
+#### Hiểu · 4
+
+Amalgam, GIC và composite được giữ trên răng lần lượt nhờ:
+
+- [ ] Liên kết vi cơ học sau xoi mòn – gắn kết hóa học – hình thể lưu cơ học
+- [ ] Gắn kết hóa học – liên kết vi cơ học sau xoi mòn – hình thể lưu cơ học
+- [ ] Gắn kết hóa học – hình thể lưu cơ học – liên kết vi cơ học sau xoi mòn
+- [x] Hình thể lưu cơ học – gắn kết hóa học – liên kết vi cơ học sau xoi mòn
+  > Amalgam: **hình thể lưu cơ học** (Bài 6). GIC: **gắn kết hóa học** với mô cứng. Composite: **liên kết vi cơ học** sau xoi mòn (Bài 8).
+
+#### Hiểu · 1.3
+
+Vaseline và vecni trong trám GIC có chung mục đích:
+
+- [ ] Làm vật liệu đông cứng nhanh hơn để bệnh nhân ăn sớm
+- [x] Bảo vệ vật liệu vừa đặt khỏi mất nước hoặc ngấm nước
+- [ ] Tăng liên kết ion giữa vật liệu với mô răng ở bờ
+- [ ] Tăng lượng fluor được giải phóng ra mô răng xung quanh
+  > Vaseline bôi vào ngay để **ngăn sự mất nước hoặc ngấm nước** (lưu ý 5); vecni tạo **một lớp bảo vệ** trên miếng trám (mục 5.1).
+
+#### Vận dụng · 5
+
+Cách hoàn tất miếng trám GIC ở từng loại xoang, ghép đúng là:
+
+- [x] Xoang I: cây điêu khắc hoặc máy mài không nước, phủ vecni; xoang II: kim cương mịn, bôi Vaseline; xoang V: kim cương mịn
+- [ ] Xoang I: máy mài có phun nước, bôi Vaseline; xoang II: băng nhám, phủ vecni hai lần; xoang V: cây điêu khắc
+- [ ] Xoang I: băng nhám, đánh bóng bằng mũi cao su; xoang II: kim cương mịn, phủ vecni; xoang V: mũi tungsten tròn chậm
+- [ ] Xoang I: kim cương mịn, bôi Vaseline; xoang II: cây điêu khắc hoặc máy mài, phủ vecni; xoang V: máy mài có phun nước
+  > Xoang I: cây điêu khắc hoặc máy mài (**mài không nước**), **phủ lại vecni**. Xoang II: **mũi kim cương mịn, bôi Vaseline**. Xoang V: **mũi kim cương mịn** mài phần dư.
+
+#### Vận dụng · 1.3
+
+Miếng trám GIC xoang V bong sau 2 tuần. Hỏi lại thì lúc trám nướu viêm, rỉ máu, xoang không cô lập được. Nguyên nhân hợp lý nhất là:
+
+- [ ] Xoang không được tạo hình thể lưu cơ học đủ sâu để giữ miếng trám
+- [x] Máu, nước bọt còn trên bề mặt làm không hình thành được liên kết ion
+- [ ] Đã dùng dentin conditioner thay cho acid phosphoric khi chuẩn bị xoang
+- [ ] Đã chiếu đèn 20 giây sau khi ép đai nhựa trám cổ răng vào xoang
+  > Lưu ý 1: còn **máu, nước bọt** trên bề mặt thì **không hình thành được liên kết ion**; nướu viêm phải điều trị trước khi trám. Xoang GIC không cần hình thể lưu; conditioner và chiếu đèn 20 giây là đúng kỹ thuật.
+
+#### Vận dụng · 5.1
+
+Về các con số khi trám Fuji IX, chọn câu SAI:
+
+- [ ] Lọ chất lỏng thẳng đứng, cách rời mặt giấy trộn khoảng 5 cm
+- [ ] Ấn tay rồi lấy ngón tay sang bên sau khoảng 30 giây
+- [ ] Dặn bệnh nhân không ăn ít nhất một giờ sau khi trám
+- [x] Trộn liên tục khoảng 60 giây cho thật đồng nhất
+  > Thời gian trộn tổng cộng **không nên quá 30 giây**. Trộn quá lâu thì vật liệu đông dần ngay trên giấy trộn.
 
 ## Ôn 5 phút trước khi thi
 
