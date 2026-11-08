@@ -32,7 +32,7 @@ Desktop/RHM 49/Kì 1 2026/SRH CH SGK/   (repo GitHub HungARARA/SRH-CH-SGK)
 └── nguon/
     ├── build.py                   ← script dựng .md → .html (dùng chung mọi bài)
     ├── cat_hinh.py                ← cắt hình từ SGK bản chụp (xem mục 5 bước 4)
-    ├── soat_svg.py                ← dựng PNG các sơ đồ SVG của một bài để soát khi không chụp được trang
+    ├── soat_svg.py                ← dựng PNG các sơ đồ SVG của một bài để soát khi không chụp được trang (`--toi`: giao diện tối)
     ├── Bài N.md                   ← nội dung; sửa ở đây rồi dựng lại
     └── hinh/bN-h<số hình>.jpg     ← hình cắt từ SGK (Bài 1: .png lấy từ file Word)
 ```
@@ -63,7 +63,7 @@ Tài liệu gốc nằm **ngoài** thư mục này, trong kho học tập `C:/Us
 | 7 | Nguyên tắc tạo xoang và trám bằng xi măng glass ionomer (GIC) | 114–122 | ✅ xong (115 câu, 46 hộp 🔍, 4 hình SGK) |
 | 8 | Nguyên tắc tạo xoang và trám bằng vật liệu composite | 123–170 | ✅ xong (237 câu, 55 hộp 🔍, 17 hình SGK; dài, chia 2 ngày) |
 | 9 | Che tủy | 171–187 | ✅ xong (50 câu, 35 hộp 🔍, 7 hình SGK) |
-| 10 | Mòn răng | 188–197 | ⏳ |
+| 10 | Mòn răng | 188–197 | ✅ xong (50 câu, 37 hộp 🔍, 9 hình SGK) |
 
 ## 5. Các bước làm một bài
 

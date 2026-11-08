@@ -551,7 +551,7 @@ out: Bài 2 - Quá trình mất khoáng và tái khoáng mô cứng.html
 >
 > - **Sâu răng**: acid trong mảng bám **chưa đủ mạnh** để làm tan lớp ngoài cùng ([mục 8](#m8) giải thích vì sao), nên men tan **ở bên dưới**. Bên trong chi chít lỗ li ti → ánh sáng tán xạ → **trắng phấn** ([mục 1](#m1)); khung tinh thể rỗng nên **mềm** khi thăm dò.
 > - **Xoi mòn**: acid **rất mạnh** làm tan **sạch từng lớp từ ngoài vào**. Lớp bị tan là mất hẳn, lớp còn lại **chưa bị đụng tới** → vẫn **cứng, bóng**, thành phần khoáng **không đổi**. Răng mỏng đi chứ không "rỗng ruột".
-> - *(ngoài SGK)* Acid gây xoi mòn thường **không do vi khuẩn**: đồ uống chua, nước có ga, dịch vị trào ngược (Bài 10).
+> - Acid gây xoi mòn **không do vi khuẩn** (Bài 10 mục 2.3, 3.3): thực phẩm có acid (chanh, cam, táo), thức uống có gas, vitamin C, nôn mửa, dịch vị trào ngược. Xoi mòn hay bị **chẩn đoán nhầm là sâu răng**: xoi mòn liên quan **vùng** bị mất khoáng, còn sâu răng là **một vùng giới hạn** (Bài 10 mục 3.3 e).
 
 **Hình 2.2 (SGK tr. 23)** – lát cắt trũng rãnh:
 

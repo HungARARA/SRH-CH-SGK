@@ -1054,7 +1054,7 @@ Vi khuẩn mảng bám chuyển hóa carbohydrate -> !pH mảng bám < 5,5 -> Kh
 > *(ngoài SGK)* Sún răng thường đi cùng **hội chứng bú bình** ([mục 1.4](#m1-4)): sữa, nước ngọt đọng lâu quanh **răng cửa trên** khi trẻ ngủ, còn răng cửa dưới được lưỡi che. Tổn thương lan **rộng ra hai bên** ở mặt ngoài (SGK) theo dải mảng bám sát nướu. Quá trình kéo dài nên ngấm **nhiều sắc tố đen**; răng sữa lại sắp được thay và tủy răng sữa phản ứng kém rõ ràng, nên trẻ thường **không kêu buốt** (SGK: trẻ thường không thấy buốt gì).
 
 > [!WHY] Vì sao lõm hình chêm cứng, nhẵn, bóng, đáy hình nhị diện?
-> *(ngoài SGK)* Lõm hình chêm là một dạng **mòn răng** ở **cổ răng** (Bài 10), thường do **chải răng ngang mạnh tay**, không do acid vi khuẩn. Bàn chải mài đi mô răng nhưng **không làm mất khoáng** phần còn lại, lại liên tục **đánh bóng** nó, nên đáy **rất cứng, nhẵn và bóng** (SGK). Hai mặt mài gặp nhau thành một **góc như chữ V** nằm ngang: đó là đáy **"hình nhị diện"** (hai mặt phẳng cắt nhau). Sâu răng thì ngược lại: mô **mềm, nhám** khi đang hoạt động.
+> Lõm hình chêm là một dạng **mòn răng** ở **cổ răng**: Bài 10 (mục 2.2, 3.2) gọi là **mài mòn**, do **chải răng sai cách, lực quá mạnh, kem chứa chất mài mòn**; sang thương hình **chữ "V"**, **bề mặt bóng láng**, không do acid vi khuẩn. *(ngoài SGK)* Bàn chải mài đi mô răng nhưng **không làm mất khoáng** phần còn lại, lại liên tục **đánh bóng** nó, nên đáy **rất cứng, nhẵn và bóng** (SGK). Hai mặt mài gặp nhau thành một **góc như chữ V** nằm ngang: đó là đáy **"hình nhị diện"** (hai mặt phẳng cắt nhau). Sâu răng thì ngược lại: mô **mềm, nhám** khi đang hoạt động.
 
 **Chẩn đoán phân biệt ở sâu ngà – bảng gom ý** (chữ tô vàng là chữ SGK):
 

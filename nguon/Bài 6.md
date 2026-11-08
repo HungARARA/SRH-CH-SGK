@@ -211,7 +211,7 @@ Men: cứng nhất, 95–97% vô cơ, cứng mà xốp -> Ngà: 70% vô cơ, ố
 > [!WHY] Vì sao kích thích ở bề mặt ngà lại làm đau ở tận trong tủy?
 > - Theo **thuyết thủy động học** (SGK), kích thích không chạm thẳng vào dây thần kinh. Nó làm **dịch ngà di chuyển** trong ống, dịch **kéo đuôi nguyên sinh chất** của tế bào tạo ngà, rồi **thần kinh trong tủy** (nằm sát thân tế bào) mới bị kích thích → đau. Giống **giật một sợi dây chuông**: kéo ở đầu này, chuông kêu ở đầu kia.
 > - Vì thế những gì làm dịch **chuyển động nhanh** đều gây ê buốt: **cơ** (cạo, thăm dò, mũi khoan chạm), **nhiệt** (nóng, lạnh làm dịch giãn, co), **thổi khô** (hơi làm bốc hơi dịch ở miệng ống, kéo dịch ra ngoài). *(ngoài SGK)* Đồ ngọt, chua cũng làm dịch di chuyển do chênh lệch nồng độ.
-> - Điều kiện là **ngà bị lộ** (do sâu răng, mòn răng): men còn phủ kín thì dịch ngà gần như đứng yên. Bài 1 (Hình 1.3) và Bài 3 (mục 5.2) dùng chính cơ chế này để giải thích ê buốt ở sâu ngà.
+> - Điều kiện là **ngà bị lộ** (do sâu răng, mòn răng: Bài 10 mục 3, 5.1): men còn phủ kín thì dịch ngà gần như đứng yên. Bài 1 (Hình 1.3) và Bài 3 (mục 5.2) dùng chính cơ chế này để giải thích ê buốt ở sâu ngà.
 
 > [!CAUTION] Hai cách hiểu – tên các loại ngà (SGK ↔ cách gọi hiện nay)
 > | SGK Bài 6 | Hiện nay *(ngoài SGK)* |

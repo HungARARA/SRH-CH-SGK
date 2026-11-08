@@ -218,7 +218,7 @@ out: Bài 5 - Phân loại xoang sâu răng.html
 
 > [!WHY] Vì sao phải thêm loại VI, và vì sao Black "cổ điển" lại "đề cao mở rộng để phòng ngừa"?
 >
-> - *(ngoài SGK)* **Cạnh cắn, đỉnh múi** là vùng **tự làm sạch** khi nhai, ít giữ mảng bám, nên ít sâu; sâu ở đây hay bắt đầu từ chỗ men **mòn** hoặc **khiếm khuyết** làm lộ ngà. Năm loại cổ điển **không có chỗ** cho vị trí này, nên hệ thống cải tiến thêm **loại VI** (SGK).
+> - *(ngoài SGK)* **Cạnh cắn, đỉnh múi** là vùng **tự làm sạch** khi nhai, ít giữ mảng bám, nên ít sâu; sâu ở đây hay bắt đầu từ chỗ men **mòn** (cọ mòn ở bờ cắn, mặt nhai: Bài 10 mục 3.1) hoặc **khiếm khuyết** làm lộ ngà. Năm loại cổ điển **không có chỗ** cho vị trí này, nên hệ thống cải tiến thêm **loại VI** (SGK).
 > - *(ngoài SGK)* Thời của Black, vật liệu trám chủ yếu là **amalgam**: không dính vào răng, giữ bằng **hình dạng xoang**, và bờ miếng trám là nơi dễ sâu lại. Vì vậy xoang được **mở rộng tới cả những hố rãnh lành** ở gần, để bờ trám nằm ở chỗ dễ làm sạch: "**mở rộng để phòng ngừa**" (SGK; Bài 6 tr. 111–112 học kỹ). **Composite dán** vào răng nên không cần cắt bỏ mô lành để giữ: quan niệm này **đã thay đổi** (SGK), đúng tinh thần **can thiệp tối thiểu** của Bài 1.
 
 > [!WHY] Vì sao sâu hay ở mặt kề nhau, đối xứng hai bên, răng sau nhiều hơn răng trước, cối dưới hơn cối trên?

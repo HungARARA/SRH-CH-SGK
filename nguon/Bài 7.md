@@ -741,7 +741,7 @@ Vecni lần 1 -> Lấy phần dư, mài không nước -> Vecni lần 2 -> !Khô
 > - **Không có men** ở thành nướu: *(ngoài SGK)* composite bám chắc nhất vào **men đã xoi mòn**; trên ngà, xê măng thì kém hơn (Bài 8 mục 2.1: ngà nhiều nước nên liên kết **tuổi thọ ngắn hơn**; mục 5: sâu thứ cấp hay ở **cổ răng**). GIC dính bằng **liên kết ion** với Ca²⁺ của **ngà, xê măng** ([mục 0](#m0)).
 > - **Dưới nướu, dễ ướt nước bọt và máu**: *(ngoài SGK)* composite và hệ thống dán cần vùng làm việc **khô tuyệt đối**; GIC ít nhạy với độ ẩm hơn (bản thân nó cần nước: [mục 1.3](#m1-3)), dù vẫn phải cô lập và lau khô.
 > - Cổ răng là nơi **sâu chân răng**, mảng bám đọng dọc viền nướu (Bài 5 mục 1.1): GIC **nhả fluor** giúp chống sâu tái phát ở bờ.
-> - *(ngoài SGK)* Cổ răng còn bị **uốn** nhẹ mỗi lần nhai: GIC có độ đàn hồi gần với ngà nên ít bong ở tổn thương cổ răng (mòn cổ răng: Bài 10).
+> - *(ngoài SGK)* Cổ răng còn bị **uốn** nhẹ mỗi lần nhai: GIC có độ đàn hồi gần với ngà nên ít bong ở tổn thương cổ răng. Bài 10 (mục 3.2): nghiến răng nặng, xoi mòn, chải răng gây **vi nứt** ở cổ răng, góp phần tạo khuyết **chữ V**.
 
 > [!WHY] Vì sao chọn màu răng trước tiên, và vì sao chiếu đèn 20 giây?
 > - **Chọn màu trước** khi cô lập, làm khô: *(ngoài SGK)* răng bị khô sẽ **trắng đục** đi, chọn màu lúc đó sẽ sai. Xoang V ở mặt ngoài, dễ nhìn thấy nên màu quan trọng; Fuji II LC có **nhiều màu** ([mục 2.2](#m2-2)).

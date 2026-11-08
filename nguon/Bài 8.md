@@ -1478,6 +1478,7 @@ Sơ đồ xếp theo thứ tự làm trên ghế *(ngoài SGK)*; SGK kể các b
 |---|---|
 | Liên kết vật lý ↔ hóa học ↔ cơ học | **Vander Waals, tĩnh điện, yếu** ↔ **nguyên tử nối liền, bền nhưng ít gặp** ↔ **đan xen, bền**: nha khoa **chủ yếu cơ học** |
 | Mài ↔ xoi mòn acid | để lại lớp vụn **1–3 µm** (lớp mùn) ↔ hòa tan lớp đó, tạo **vi lưu** |
+| Xoi mòn ở bài này ↔ xoi mòn ở Bài 10 | **bước trám** (*acid etching*: acid phosphoric 35–37%, tạo vi lưu) ↔ **bệnh** mòn răng hóa học (*erosion*: acid từ thức ăn, thuốc, dạ dày; mất mô vĩnh viễn) |
 | Đuôi lớn ↔ vi nối | **quanh trụ men** ↔ **đầu mỗi trụ**, hàng ngàn, **quan trọng hơn** |
 | Keo dán ↔ răng / keo dán ↔ composite | **khóa vi cơ học** ↔ **đồng trùng hợp (hóa học)**; lượng giá 1 gộp: **vừa cơ học vừa hóa học** |
 | Men ↔ ngà khi dán | khô vừa phải, đuôi resin ↔ **giữ ẩm**, primer **HEMA**, **lớp lai**; liên kết ngà **tuổi thọ ngắn hơn** |

@@ -907,7 +907,7 @@ Mảng bám + đường -> Acid hữu cơ thấm vào men qua nước giữa tin
 
 > [!WHY] Vì sao không chải ngang mạnh tay, mà phải chải kiểu sulcular 45° rung tại chỗ?
 >
-> - **Chải ngang mạnh**: lông bàn chải cọ đi cọ lại như **giấy nhám** trên cổ răng, lâu ngày **mài mòn** thành lõm hình chêm (Bài 3, mục 5.2), mà lại **lướt qua** các kẽ, không lấy được mảng bám ở mặt bên (SGK). Hình 4.16 là ví dụ: chải quá mạnh cộng acid dạ dày làm răng mất cấu trúc rất nhanh.
+> - **Chải ngang mạnh**: lông bàn chải cọ đi cọ lại như **giấy nhám** trên cổ răng, lâu ngày **mài mòn** thành lõm hình chêm (Bài 3 mục 5.2; Bài 10 mục 2.2, 3.2), mà lại **lướt qua** các kẽ, không lấy được mảng bám ở mặt bên (SGK). Hình 4.16 là ví dụ: chải quá mạnh cộng acid dạ dày làm răng mất cấu trúc rất nhanh (hai loại mòn cộng dồn: Bài 10 mục 2, 4).
 > - **Sulcular**: mảng bám đọng nhiều nhất ở **cổ răng, khe nướu, kẽ răng**. Nghiêng lông **45° về phía nướu** để đầu lông **chui vào khe nướu**; **rung ngắn tại chỗ** để làm bung mảng bám mà không cà xát mô. Đây chính là kỹ thuật **Bass** ở Bài 1 (Hình 1.8).
 > - **Nâng tay cầm 45° với mặt nhai** ở mặt trong răng trước và mặt xa răng trong cùng (Hình 4.23): những chỗ này hẹp, cong, chỉ **phần đầu** bàn chải mới đặt vào được.
 
